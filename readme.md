@@ -52,8 +52,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 Contribute by submitting an [issue](https://github.com/mubeenmohammed/canada-2026-internships/issues/new/choose)!
 
-<a href="https://github.com/mubeenmohammed/canada-2026-intersnhips/graphs/contributors">
-  <img src="https://contrib.rocks/" />
+<a href="https://github.com/mubeenmohammed/canada-2026-internships/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=mubeenmohammed/canada-2026-internships" />
 </a>
 
-Made with [contrib.rocks](https://contrib.rocks)!
+Made with [contrib.rocks](https://contrib.rocks).
