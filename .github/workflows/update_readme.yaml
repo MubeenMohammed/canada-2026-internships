@@ -20,9 +20,9 @@ jobs:
         with:
           python-version: "3.9"
 
-      - name: execute update_readmes.py
+      - name: execute update_readme.py
         id: python_script
-        run: python .github/scripts/update_readmes.py
+        run: python .github/scripts/update_readme.py
 
       - name: commit files
         if: success()
