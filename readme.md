@@ -6,7 +6,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 🙏 **Contribute by submitting an [issue](https://github.com/mubeenmohammed/canada-2026-internships/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
-This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJobs/Summer2024-Internships).
+This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJobs/Summer2024-Internships) and (CSCareers & Vanshb03 Repo)[https://github.com/vanshb03/Summer2026-Internships].
 
 
 ---
