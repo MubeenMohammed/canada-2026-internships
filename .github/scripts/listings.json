@@ -1268,5 +1268,22 @@
         "date_posted": 1759252860,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759252930,
+        "url": "https://careers.intactfc.com/it-architect-i-mtl-16-month-internship-coop-summer-2026/job/R149140",
+        "locations": [
+            "Montreal, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Intact",
+        "title": "IT Architect I (MTL) - 16-month Internship/Coop (Summer 2026)",
+        "season": "Summer",
+        "source": "MubeenMohammed",
+        "id": "ad18bbab-f94c-4730-b691-b3d0957aaf5d",
+        "date_posted": 1759252930,
+        "company_url": "",
+        "is_visible": true
     }
 ]
