@@ -1200,5 +1200,22 @@
         "date_posted": 1759204165,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759252213,
+        "url": "https://www.linkedin.com/jobs/collections/recommended/?currentJobId=4298285569&discover=recommended&discoveryOrigin=JOBS_HOME_JYMBII",
+        "locations": [
+            "Montreal, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nexus Innovations",
+        "title": "D\u00e9veloppeur\u00b7se stagiaire (hiver 2026)",
+        "season": "Summer",
+        "source": "MubeenMohammed",
+        "id": "9aad0302-2997-40cb-8070-c607d3f79ed4",
+        "date_posted": 1759252213,
+        "company_url": "",
+        "is_visible": true
     }
 ]
