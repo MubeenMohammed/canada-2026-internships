@@ -807,5 +807,22 @@
         "date_posted": 1758916598,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759195248,
+        "url": "https://university-uber.icims.com/jobs/149142/job?mobile=false&width=1270&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Uber",
+        "title": "2026 Summer Software Engineering Intern",
+        "season": "Summer",
+        "source": "MubeenMohammed",
+        "id": "1e96ab82-f457-4ee5-9964-7de2a13723ee",
+        "date_posted": 1759195248,
+        "company_url": "",
+        "is_visible": true
     }
 ]
