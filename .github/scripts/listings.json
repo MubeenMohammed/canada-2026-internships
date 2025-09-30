@@ -1319,5 +1319,22 @@
         "date_posted": 1759253219,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759253361,
+        "url": "https://trench.csod.com/ux/ats/careersite/1/home/requisition/1360?c=trench",
+        "locations": [
+            "Ontario, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Trench Group",
+        "title": "AI/ML Intern \u2013 Full-Stack Developer",
+        "season": "Summer",
+        "source": "MubeenMohammed",
+        "id": "0c1a19f4-9883-48bd-b418-89450c11e10d",
+        "date_posted": 1759253361,
+        "company_url": "",
+        "is_visible": true
     }
 ]
