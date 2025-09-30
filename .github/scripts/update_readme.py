@@ -6,22 +6,14 @@ def main():
 
     listings = util.getListingsFromJSON()
 
-    # split up listings into summer and off-season
-    # TODO: add new grads
-    summer_listings = [listing for listing in listings if listing["season"] == "Summer"]
-    offseason_listings = [listing for listing in listings if listing["season"] != "Summer"]
+    # validate all listings
+    util.checkSchema(listings)
 
-    # validate listings
-    util.checkSchema(summer_listings)
-    util.checkSchema(offseason_listings)
+    # sort all listings together
+    all_listings = util.sortListings(listings)
 
-    # sort listings
-    summer_listings = util.sortListings(summer_listings) # no longer in place my bad :(
-    offseason_listings = util.sortListings(offseason_listings)
-
-    # create table and embed
-    util.embedTable(summer_listings, "README.md")
-    util.embedTable(offseason_listings, "OFFSEASON_README.md")
+    # create table and embed all listings in the main README
+    util.embedTable(all_listings, "README.md")
 
     util.setOutput("commit_message", "Updating READMEs at " + datetime.now().strftime("%B %d, %Y %H:%M:%S"))
 
