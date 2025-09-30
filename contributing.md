@@ -1,5 +1,5 @@
 # Contributing to the Internship List
-Thank you for your interest in contributing to the Ouckah & CSCareers Internship List (inspired by [Pitt CSC and Simplify](https://github.com/SimplifyJobs/Summer2024-Internships))!
+Thank you for your interest in contributing to the Canada 2026 Internship List (inspired by [Pitt CSC and Simplify](https://github.com/SimplifyJobs/Summer2024-Internships))!
 
 ## Finding an Internship to Add
 We ask that the internships that you add meet some requirements. Specifically, your internship must
