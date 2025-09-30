@@ -32,4 +32,4 @@ A script will automatically add new contributions to the appropriate README. The
 When rendered, it will look like:
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
-| **[Example Company]()** | Software Engineering Internship Example | San Francisco, CA | <img src="https://i.imgur.com/5JF7mJI.png" width="150" alt="Apply"> |  |
+| **[Example Company]()** | Software Engineering Internship Example | Toronto, Canada | <img src="https://i.imgur.com/5JF7mJI.png" width="150" alt="Apply"> |  |
