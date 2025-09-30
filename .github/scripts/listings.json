@@ -875,5 +875,22 @@
         "date_posted": 1759200021,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759200172,
+        "url": "https://jobs.intuit.com/job/-/-/27595/86480090896?cid=job_li_click_ca_active-fy20_cn_text_job_intuit-talent&iis=job&iisn=li",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Intuit",
+        "title": "Winter 2026: Software Developer Co-op, 4 months",
+        "season": "Summer",
+        "source": "MubeenMohammed",
+        "id": "aef5b589-946d-40bd-955a-2ba2ec54c235",
+        "date_posted": 1759200172,
+        "company_url": "",
+        "is_visible": true
     }
 ]
