@@ -1387,5 +1387,22 @@
         "date_posted": 1759253652,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759253761,
+        "url": "https://jobs.bombardier.com/job/Dorval-Intern%2C-Load-and-Dynamics-of-Developing-and-Implementing-Digital-Tools%28Winter-2026%29-Qu%C3%A9b-H4S-1Y9/1246704701/?feedId=384733",
+        "locations": [
+            "Dorval, QC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bombardier",
+        "title": "Intern, Load and Dynamics of Developing and Implementing Digital Tools(Winter 2026)",
+        "season": "Winter",
+        "source": "MubeenMohammed",
+        "id": "15886234-3e32-46c7-b2cd-a0c2d8a745d7",
+        "date_posted": 1759253761,
+        "company_url": "",
+        "is_visible": true
     }
 ]
