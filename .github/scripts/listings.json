@@ -858,5 +858,22 @@
         "date_posted": 1759199930,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759200021,
+        "url": "https://campus-globalcareers-atlassian.icims.com/jobs/21022/data-engineer-intern,-2026-summer-canada/job?iis=LinkedIn&iisn=LinkedIn_Job_Ad",
+        "locations": [
+            "Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Atlassian",
+        "title": "Data Engineer Intern, 2026 Summer",
+        "season": "Summer",
+        "source": "MubeenMohammed",
+        "id": "e5e36472-4235-4dd5-bb7d-2c6d4ece6bb0",
+        "date_posted": 1759200021,
+        "company_url": "",
+        "is_visible": true
     }
 ]
