@@ -1336,5 +1336,22 @@
         "date_posted": 1759253361,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759253414,
+        "url": "https://blaisetransit.freshteam.com/jobs/55oIhwU1ivDN/frontend-developer-intern-winter-2026-semester-jan-april-remote-canada?ft_source=3000097608&ft_medium=3000090399",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Blaise Transit",
+        "title": "Frontend Developer Intern - Winter 2026 Semester (Jan-April, Remote - Canada)",
+        "season": "Summer",
+        "source": "MubeenMohammed",
+        "id": "e23eff53-2206-41c9-9377-82cdef959b68",
+        "date_posted": 1759253414,
+        "company_url": "",
+        "is_visible": true
     }
 ]
