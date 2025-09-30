@@ -1183,5 +1183,22 @@
         "date_posted": 1759204059,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759204165,
+        "url": "https://wd1.myworkdaysite.com/recruiting/ssctech/SSCTechnologies/job/Ontario-Toronto/Intern---Technical_R25895?source=LinkedIn",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SS&C Technologies",
+        "title": "Intern - Technical",
+        "season": "Summer",
+        "source": "MubeenMohammed",
+        "id": "da4206dd-bd86-4573-97c9-ad1777038e96",
+        "date_posted": 1759204165,
+        "company_url": "",
+        "is_visible": true
     }
 ]
