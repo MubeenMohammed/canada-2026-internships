@@ -1404,5 +1404,56 @@
         "date_posted": 1759253761,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759253761,
+        "url": "https://www.coveo.com/en/company/careers/open-positions/sales/business-development/business-development-intern-winter-2026/8190188002",
+        "locations": [
+            "Montreal, QC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Coveo",
+        "title": "Business Development Intern, Winter 2026",
+        "season": "Winter",
+        "source": "MubeenMohammed",
+        "id": "15886234-3e32-46c7-b2cd-a0c2d8a745d7",
+        "date_posted": 1759253761,
+        "company_url": "",
+        "is_visible": true
+    },
+     {
+        "date_updated": 1759253761,
+        "url": "https://www.coveo.com/en/company/careers/open-positions/customer-management/professional-services/software-developer-intern-professional-services-team-winter-2026/8190182002",
+        "locations": [
+            "Montreal, QC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Coveo",
+        "title": "Software Development Intern (Professional Services Team), Winter 2026",
+        "season": "Winter",
+        "source": "MubeenMohammed",
+        "id": "15886234-3e32-46c7-b2cd-a0c2d8a745d7",
+        "date_posted": 1759253761,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1759253761,
+        "url": "https://www.coveo.com/en/company/careers/open-positions/customer-management/professional-services/software-developer-intern-professional-services-team-winter-2026/8190261002",
+        "locations": [
+            "Quebec City, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Coveo",
+        "title": "Software Development Intern (Professional Services Team), Winter 2026",
+        "season": "Winter",
+        "source": "MubeenMohammed",
+        "id": "15886234-3e32-46c7-b2cd-a0c2d8a745d7",
+        "date_posted": 1759253761,
+        "company_url": "",
+        "is_visible": true
     }
 ]
