@@ -1217,5 +1217,22 @@
         "date_posted": 1759252213,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759252324,
+        "url": "https://jobs.ericsson.com/careers/job/563121772135463?domain=ericsson.com",
+        "locations": [
+            "Montreal, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Erricson",
+        "title": "Stagiaire D\u00e9veloppeur de Logiciels",
+        "season": "Winter",
+        "source": "MubeenMohammed",
+        "id": "88cd9426-2337-4efe-b625-eb130a765e49",
+        "date_posted": 1759252324,
+        "company_url": "",
+        "is_visible": true
     }
 ]
