@@ -994,5 +994,22 @@
         "date_posted": 1759200476,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759200518,
+        "url": "https://www.retailogists.com/job-openings-1/full-stack-intern",
+        "locations": [
+            "Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Retailogistis",
+        "title": "Full Stack Web Developer Intern / Co-Op",
+        "season": "Summer",
+        "source": "MubeenMohammed",
+        "id": "c1e584fc-8ab8-4e19-8130-1ff2b1eb32b8",
+        "date_posted": 1759200518,
+        "company_url": "",
+        "is_visible": true
     }
 ]
