@@ -1234,5 +1234,22 @@
         "date_posted": 1759252324,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759252666,
+        "url": "https://jobs.ericsson.com/careers/job/563121765241641?domain=ericsson.com",
+        "locations": [
+            "Ottawa, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Erricson",
+        "title": "Solution Developer Co-op",
+        "season": "Summer",
+        "source": "MubeenMohammed",
+        "id": "5b5debdb-41a6-4f75-84d1-771309a163e0",
+        "date_posted": 1759252666,
+        "company_url": "",
+        "is_visible": true
     }
 ]
