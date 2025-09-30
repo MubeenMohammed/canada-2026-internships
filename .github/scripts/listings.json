@@ -1115,5 +1115,22 @@
         "date_posted": 1759201504,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759203778,
+        "url": "https://jobs.lever.co/wealthsimple/68ac674e-0e51-4d0e-8ce3-3d23e1768e48/apply?lever-source=LinkedIn",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Wealthsimple",
+        "title": "Intern, Software Development (Winter 2026)",
+        "season": "Winter",
+        "source": "MubeenMohammed",
+        "id": "26fe6e02-a280-4087-8027-7b6b362e8369",
+        "date_posted": 1759203778,
+        "company_url": "",
+        "is_visible": true
     }
 ]

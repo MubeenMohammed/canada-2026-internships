@@ -21,6 +21,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Wealthsimple | Intern, Software Development (Winter 2026) | Toronto, Canada | <a href="https://jobs.lever.co/wealthsimple/68ac674e-0e51-4d0e-8ce3-3d23e1768e48/apply?lever-source=LinkedIn&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 29 |
 | Uber | 2026 Summer Software Engineering Intern | Toronto, Canada | <a href="https://university-uber.icims.com/jobs/149142/job?mobile=false&width=1270&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 29 |
 | Tangerine | Velocity - Tangerine Technology/DPX Internship/Co-op - Winter 2026 | Canada | <a href="https://jobs.scotiabank.com/Tangerine/job/Toronto-Velocity-Tangerine-TechnologyDPX-InternshipCo-op-Winter-2026-ON/595317317/?feedId=354060&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 29 |
 | Super.com | Software Engineering Intern - Infrastructure (DevOps) | Canada</br>Remote | <a href="https://jobs.lever.co/super-com/c1185562-44a1-4b02-b945-c7c18ec3f1de?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 29 |
