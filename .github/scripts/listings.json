@@ -1098,5 +1098,22 @@
         "date_posted": 1759201409,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759201504,
+        "url": "https://jobs.scotiabank.com/job/Toronto-Velocity-Data-Scientist-InternshipCo-Op-Winter-2026-ON/595318117/?feedId=354060",
+        "locations": [
+            "Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Scotiabank",
+        "title": "Velocity - Data Scientist Internship/Co-Op - Winter 2026",
+        "season": "Winter",
+        "source": "MubeenMohammed",
+        "id": "edcc405c-983c-496d-88cd-598c5bdd321c",
+        "date_posted": 1759201504,
+        "company_url": "",
+        "is_visible": true
     }
 ]
