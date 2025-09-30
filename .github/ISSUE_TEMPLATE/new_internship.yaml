@@ -68,7 +68,6 @@ body:
         - Other
         - Offers Sponsorship
         - Does Not Offer Sponsorship
-        - U.S. Citizenship is Required
     validations:
       required: true
   - type: dropdown
