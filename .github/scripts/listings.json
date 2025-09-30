@@ -909,5 +909,22 @@
         "date_posted": 1759200206,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759200269,
+        "url": "https://cgi.njoyn.com/corp/xweb/xweb.asp?clid=21001&page=jobdetails&jobid=J0825-1726&BRID=1232844&SBDID=943&lang=1",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CGI",
+        "title": "Winter 2026 Co-op: Associate Developer (4 Months)",
+        "season": "Summer",
+        "source": "MubeenMohammed",
+        "id": "1cb8141a-3e09-4da0-9311-f21fa9828e38",
+        "date_posted": 1759200269,
+        "company_url": "",
+        "is_visible": true
     }
 ]
