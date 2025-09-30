@@ -48,7 +48,7 @@ jobs:
         uses: ad-m/github-push-action@v0.6.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: dev
+          branch: main
 
       - name: Auto Close Issue
         run: gh issue close --comment "Your contribution was accepted. Auto-closing issue" ${{ github.event.issue.number }}
