@@ -6,6 +6,8 @@ on:
       - '.github/scripts/listings.json'
   workflow_dispatch:
 
+permissions:
+  contents: write   # 👈 Required so the Actions bot can push commits
 
 jobs:
   run-python-script:
@@ -27,18 +29,18 @@ jobs:
       - name: commit files
         if: success()
         run: |
-          git config --local user.email action@github.com
-          git config --local user.name 'Github Action'
+          git config --local user.email "action@github.com"
+          git config --local user.name "Github Action"
           git pull
           git add README.md
-          git diff-index --quiet HEAD || (git commit -a -m "${{ steps.python_script.outputs.commit_message }}" --allow-empty)
+          git diff-index --quiet HEAD || git commit -m "${{ steps.python_script.outputs.commit_message }}"
 
       - name: push changes
         if: success()
-        uses: ad-m/github-push-action@v0.6.0
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: dev
+        run: |
+          git push origin main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Problem With Action
         run: echo "There was an error with the github action. ${{ steps.python_script.outputs.error_message }}"
