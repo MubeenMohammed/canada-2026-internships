@@ -1081,5 +1081,22 @@
         "date_posted": 1759201350,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759201409,
+        "url": "https://carrieres.lotoquebec.com/tous-les-emplois/08202/",
+        "locations": [
+            "Montreal, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Loto-Quebec",
+        "title": "Stage - intelligence artificielle",
+        "season": "Summer",
+        "source": "MubeenMohammed",
+        "id": "80e4aa64-acb2-40d7-ab8a-9d99597d1f54",
+        "date_posted": 1759201409,
+        "company_url": "",
+        "is_visible": true
     }
 ]
