@@ -1302,5 +1302,22 @@
         "date_posted": 1759253050,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759253219,
+        "url": "https://careers.l3harris.com/job/-/-/4832/85274073920?src=SNS-10240",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "L3Harris Technologies",
+        "title": "Full Stack Developer Co-op",
+        "season": "Summer",
+        "source": "MubeenMohammed",
+        "id": "415220c0-e218-4e32-b07f-b7458d6a59af",
+        "date_posted": 1759253219,
+        "company_url": "",
+        "is_visible": true
     }
 ]
