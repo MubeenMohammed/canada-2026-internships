@@ -1047,5 +1047,22 @@
         "date_posted": 1759200579,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759201243,
+        "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7330647003?gh_src=3ad4b3093us",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rocket Lab",
+        "title": "Software Intern Summer 2026",
+        "season": "Summer",
+        "source": "MubeenMohammed",
+        "id": "daf9ffb6-ed9e-48e0-a38e-d95ea82b84ff",
+        "date_posted": 1759201243,
+        "company_url": "",
+        "is_visible": true
     }
 ]
