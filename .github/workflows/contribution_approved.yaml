@@ -30,9 +30,9 @@ jobs:
           GITHUB_EVENT_PATH: ${{ github.event_path }}
         run: python .github/scripts/contribution_approved.py $GITHUB_EVENT_PATH
 
-      - name: execute update_readmes.py
+      - name: execute update_readme.py
         id: python_script_readme
-        run: python .github/scripts/update_readmes.py
+        run: python .github/scripts/update_readme.py
 
       - name: commit files
         if: success()
