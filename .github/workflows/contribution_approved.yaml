@@ -6,6 +6,10 @@ on:
 
 concurrency: add_internships
 
+permissions:
+  contents: write   # needed for committing & pushing files
+  issues: write     # needed for commenting/closing issues
+
 jobs:
   run-python-script:
     runs-on: ubuntu-latest
