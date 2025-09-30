@@ -1064,5 +1064,22 @@
         "date_posted": 1759201243,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759201350,
+        "url": "https://careers.hpe.com/us/en/job/1193426/Cloud-developer-Intern---Summer-2026---Stagiaire-d%25C3%25A9veloppeur-infonuagique-----%25C3%2589t%25C3%25A9-2026",
+        "locations": [
+            "St. Laurent, Quebec"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hewlett Packard Enterprise",
+        "title": "Cloud developer Intern - Summer 2026",
+        "season": "Summer",
+        "source": "MubeenMohammed",
+        "id": "a343a2fb-d5d1-4039-855a-3e44e5e58284",
+        "date_posted": 1759201350,
+        "company_url": "",
+        "is_visible": true
     }
 ]
