@@ -21,6 +21,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Uber | 2026 Summer Software Engineering Intern | Toronto, Canada | <a href="https://university-uber.icims.com/jobs/149142/job?mobile=false&width=1270&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 29 |
 | Qualcomm | Intern - And Sensors Subsystem Engineering Internship | Markham, ON, Canada | <a href="https://qualcomm.eightfold.ai/careers/job/446714867461?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 26 |
 | Lyft | Business Systems Engineer Intern | Toronto, ON, Canada | <a href="https://app.careerpuck.com/job-board/lyft/job/8168725002?gh_jid=8168725002&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 26 |
 | CIBC | IT Project Coordinator Co-op - Technology, Infrastructure, and Innovation | Toronto, ON, Canada | <a href="https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/IT-Project-Coordinator-Co-op_2521255?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 26 |
