@@ -1353,5 +1353,22 @@
         "date_posted": 1759253414,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759253523,
+        "url": "https://www.pinterestcareers.com/jobs/7268767/masters-machine-learning-internship-summer-term-2026-toronto/",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Pinterest",
+        "title": "Master's Machine Learning Internship Summer Term 2026 (Toronto)",
+        "season": "Summer",
+        "source": "MubeenMohammed",
+        "id": "1acedefb-3b53-4448-90e8-63b0b3478f4d",
+        "date_posted": 1759253523,
+        "company_url": "",
+        "is_visible": true
     }
 ]
