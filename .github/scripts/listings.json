@@ -977,5 +977,22 @@
         "date_posted": 1759200452,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759200476,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Logiciel--Intern-Software-Developer-_25WD91259-2?src=JB-10065&source=LinkedIn",
+        "locations": [
+            "Montreal, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Autodesk",
+        "title": "Stagiaire en D\u00e9veloppement Logiciel, Intern Software Developer",
+        "season": "Summer",
+        "source": "MubeenMohammed",
+        "id": "c960936d-a713-466a-81c2-a513be01b0b3",
+        "date_posted": 1759200476,
+        "company_url": "",
+        "is_visible": true
     }
 ]
