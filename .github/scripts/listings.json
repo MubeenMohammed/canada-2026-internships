@@ -1011,5 +1011,23 @@
         "date_posted": 1759200518,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759200547,
+        "url": "https://jobs.lever.co/super-com/c1185562-44a1-4b02-b945-c7c18ec3f1de",
+        "locations": [
+            "Canada",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Super.com",
+        "title": "Software Engineering Intern - Infrastructure (DevOps)",
+        "season": "Summer",
+        "source": "MubeenMohammed",
+        "id": "d5dc4940-42cf-4efc-8b7a-43afe340502c",
+        "date_posted": 1759200547,
+        "company_url": "",
+        "is_visible": true
     }
 ]
