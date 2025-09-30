@@ -960,5 +960,22 @@
         "date_posted": 1759200418,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759200452,
+        "url": "https://careers.intactfc.com/fr-ca/it-intern-16-month-internship-coop-summer-2026/job/R149141",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Intact",
+        "title": "IT Intern - 16-month Internship/Coop (Summer 2026)",
+        "season": "Summer",
+        "source": "MubeenMohammed",
+        "id": "2a2ec097-ea08-4f5a-a97a-d897bc389a62",
+        "date_posted": 1759200452,
+        "company_url": "",
+        "is_visible": true
     }
 ]
