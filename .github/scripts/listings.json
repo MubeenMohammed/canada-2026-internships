@@ -1166,5 +1166,22 @@
         "date_posted": 1759203999,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759204059,
+        "url": "https://cgi.njoyn.com/corp/xweb/xweb.asp?CLID=21001&page=jobdetails&JobID=J0925-1476&lang=1",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CGI",
+        "title": "Stage coop\u00e9ratif - Hiver 2026: D\u00e9veloppeur Junior IA (4 mois)",
+        "season": "Winter",
+        "source": "MubeenMohammed",
+        "id": "f12a5f51-e822-4d26-9903-b4bc3b2d2b62",
+        "date_posted": 1759204059,
+        "company_url": "",
+        "is_visible": true
     }
 ]
