@@ -841,5 +841,22 @@
         "date_posted": 1759196560,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759199930,
+        "url": "https://block.xyz/careers/jobs/4904198008?gh_jid=4904198008&gh_src=1c20782e8us",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Block",
+        "title": "Software Engineer Intern (Summer 2026)",
+        "season": "Summer",
+        "source": "MubeenMohammed",
+        "id": "570857bb-b2b2-4f06-bbc5-f45d752b43b6",
+        "date_posted": 1759199930,
+        "company_url": "",
+        "is_visible": true
     }
 ]
