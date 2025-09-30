@@ -1029,5 +1029,23 @@
         "date_posted": 1759200547,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759200579,
+        "url": "https://jobs.lever.co/super-com/614929be-4a36-4616-af4e-dfa0746b31c7",
+        "locations": [
+            "Canada",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Super",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "MubeenMohammed",
+        "id": "16af87d2-3d6e-4de5-8418-92e39073887b",
+        "date_posted": 1759200579,
+        "company_url": "",
+        "is_visible": true
     }
 ]
