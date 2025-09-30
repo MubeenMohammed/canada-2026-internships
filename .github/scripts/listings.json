@@ -926,5 +926,22 @@
         "date_posted": 1759200269,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759200378,
+        "url": "https://jobs.scotiabank.com/job/Toronto-GBM-Trade-Floor-Technology-Consultant-%28Full-Stack-Developer%29-InternshipCo-Op-Summer-2026-ON/595350617/?feedId=354060",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Scotiabank",
+        "title": "GBM - Trade Floor Technology Consultant (Full Stack Developer) Internship/Co-Op - Summer 2026",
+        "season": "Summer",
+        "source": "MubeenMohammed",
+        "id": "d28889b1-c4c1-446d-9e00-c12e71757af3",
+        "date_posted": 1759200378,
+        "company_url": "",
+        "is_visible": true
     }
 ]
