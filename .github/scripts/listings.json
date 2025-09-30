@@ -1251,5 +1251,22 @@
         "date_posted": 1759252666,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759252860,
+        "url": "https://huaweicanada.recruitee.com/o/co-op-engineer-software-development-human-computer-interaction-1-8?",
+        "locations": [
+            "Markham, Ontario"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Huawei Canada",
+        "title": "Co-op Engineer - Software Development (Human-Computer Interaction)",
+        "season": "Summer",
+        "source": "MubeenMohammed",
+        "id": "3739d5c4-a8c2-4f50-9097-86747581d802",
+        "date_posted": 1759252860,
+        "company_url": "",
+        "is_visible": true
     }
 ]
