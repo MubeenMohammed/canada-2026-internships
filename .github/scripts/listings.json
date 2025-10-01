@@ -1422,7 +1422,7 @@
         "company_url": "",
         "is_visible": true
     },
-     {
+    {
         "date_updated": 1759253761,
         "url": "https://www.coveo.com/en/company/careers/open-positions/customer-management/professional-services/software-developer-intern-professional-services-team-winter-2026/8190182002",
         "locations": [
@@ -1453,6 +1453,23 @@
         "source": "MubeenMohammed",
         "id": "15886234-3e32-46c7-b2cd-a0c2d8a745d7",
         "date_posted": 1759253761,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1759338822,
+        "url": "https://www.linkedin.com/jobs/view/4301466774/?alternateChannel=search&eBP=CwEAAAGZoLtufK5wwj1xxcfCkRSRuR5WrZ0C9UNrI2tWEh_C62fDslxTR_V-yo7En1Ycokwiv3ENftpbPaS-2saQGQ8W6OmGdz8726cq5spNi7H5hGyAvK_PEPZP84_WEew8mDK5slcyVOlRWRkIK3K_a4Vfi06R7mTmitc9iyj5QfzrPZSIOEq_sR3-cKWzjczef1eNQBztJxtyP7uf0iNrHWjQHA6SfESkL08VcQQWWNW3L98UMwcbGQvEJybicoICKyAuI7SC2SDXhrLM9yloYRwMtzkpo6hXfGBBvtH-Q1xrLTdRsDsIAAN8pyzDXLirQx75ykBG3_b-6_Wi4-1xJuG7gaKbp0JciLSNMrwQFbvsCvVzPVeEfu0lqwuX4Eo4VheOhUvg2AT5y_xL9tquQlbQxTSC4PQ2kZbE06I_aTt6KmSVjElkIIsikFdqovtJTZ7943VVns_JnJv5BBnMz5I7A304iLyfvYU-a22z47s&refId=7YDVF9Or6itq13Q8b4fj3w%3D%3D&trackingId=LwS%2FG%2BCX2r8ltRYIxesl2A%3D%3D&trk=d_flagship3_job_collections_discovery_landing&lipi=urn%3Ali%3Apage%3Ad_flagship3_job_collections_discovery_landing%3BzQKC8rfkQfGCE%2BQplr1B0Q%3D%3D",
+        "locations": [
+            "Montreal, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "IBM",
+        "title": "Machine Learning Developer Intern (4 month term - Toronto or Montreal)",
+        "season": "Winter",
+        "source": "MubeenMohammed",
+        "id": "7946071a-85f2-44fc-8495-1811cb5f5cfc",
+        "date_posted": 1759338822,
         "company_url": "",
         "is_visible": true
     }
