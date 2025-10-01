@@ -1491,5 +1491,145 @@
         "date_posted": 1759338822,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759338822,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/ML-Intern--Stagiaire-ML_25WD91688-3?src=JB-10065&source=LinkedIn",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Autodesk",
+        "title": "ML Intern, Stagiaire ML",
+        "season": "Winter",
+        "source": "MubeenMohammed",
+        "id": "7946071a-85f2-44fc-8495-1811cb5f5cfc",
+        "date_posted": 1759338822,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1759338822,
+        "url": "https://jobs.lever.co/super-com/0bdc3d64-15db-42b5-900b-25c6dc916cc3/apply?lever-source=LinkedIn&source=LinkedIn",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Super.com",
+        "title": "Software Engineer Intern - Data Platform",
+        "season": "Winter",
+        "source": "MubeenMohammed",
+        "id": "7946071a-85f2-44fc-8495-1811cb5f5cfc",
+        "date_posted": 1759338822,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1759338822,
+        "url": "https://jobs.bombardier.com/job/Dorval-Intern%2C-Digital-Transformation%28Winter-2026%29-Qu%C3%A9b-H4S-2A3/1249328401/?feedId=384733&utm_source=LinkedInJobPostings",
+        "locations": [
+            "Dorval, QC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bombardier",
+        "title": "Intern, Digital Transformation(Winter 2026)",
+        "season": "Winter",
+        "source": "MubeenMohammed",
+        "id": "7946071a-85f2-44fc-8495-1811cb5f5cfc",
+        "date_posted": 1759338822,
+        "company_url": "",
+        "is_visible": true
+    },
+        {
+        "date_updated": 1759338822,
+        "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000082234035-internship-software-development-and-verification-engineer-embedded-systems?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73",
+        "locations": [
+            "Montreal, QC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CS Group",
+        "title": "Internship – Software Development and Verification Engineer – Embedded Systems",
+        "season": "Winter",
+        "source": "MubeenMohammed",
+        "id": "7946071a-85f2-44fc-8495-1811cb5f5cfc",
+        "date_posted": 1759338822,
+        "company_url": "",
+        "is_visible": true
+    },
+ {
+        "date_updated": 1759338822,
+        "url": "",
+        "locations": [
+            ", Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "",
+        "title": "",
+        "season": "Winter",
+        "source": "MubeenMohammed",
+        "id": "7946071a-85f2-44fc-8495-1811cb5f5cfc",
+        "date_posted": 1759338822,
+        "company_url": "",
+        "is_visible": true
+    },
+     {
+        "date_updated": 1759338822,
+        "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=1527471&src=SNS-102",
+        "locations": [
+            "Mirabel, QC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bell Flight",
+        "title": "Stage Hiver 2026 - Technologie de l'information - Inteligence Artificiel - Winter 2026 Internship - Computer Technology - Artificial Intelligence",
+        "season": "Winter",
+        "source": "MubeenMohammed",
+        "id": "7946071a-85f2-44fc-8495-1811cb5f5cfc",
+        "date_posted": 1759338822,
+        "company_url": "",
+        "is_visible": true
+    },
+
+ {
+        "date_updated": 1759338822,
+        "url": "https://jobs.ericsson.com/careers/job/563121765308563?domain=ericsson.com&jobPipeline=LinkedIn",
+        "locations": [
+            "Montreal, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Erricson",
+        "title": "Stagiaire en apprentissage automatique",
+        "season": "Winter",
+        "source": "MubeenMohammed",
+        "id": "7946071a-85f2-44fc-8495-1811cb5f5cfc",
+        "date_posted": 1759338822,
+        "company_url": "",
+        "is_visible": true
+    },
+    
+
+ {
+        "date_updated": 1759338822,
+        "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000082234035-internship-software-development-and-verification-engineer-embedded-systems?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73",
+        "locations": [
+            "Montreal, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CS Group",
+        "title": "Internship – Software Development and Verification Engineer – Embedded Systems",
+        "season": "Winter",
+        "source": "MubeenMohammed",
+        "id": "7946071a-85f2-44fc-8495-1811cb5f5cfc",
+        "date_posted": 1759338822,
+        "company_url": "",
+        "is_visible": true
     }
+
 ]
