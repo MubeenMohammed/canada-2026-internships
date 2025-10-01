@@ -1472,5 +1472,24 @@
         "date_posted": 1759338822,
         "company_url": "",
         "is_visible": true
+    },
+      {
+        "date_updated": 1759338822,
+        "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/job/72700/?utm_medium=jobshare",
+        "locations": [
+            "Montreal, QC, Canada",
+            "Gatineau, QC, Canada",
+            "Sherbrooke, QC, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "WSP",
+        "title": "Stagiaire en Simulation et virtualisation - Hiver 2026",
+        "season": "Winter",
+        "source": "MubeenMohammed",
+        "id": "7946071a-85f2-44fc-8495-1811cb5f5cfc",
+        "date_posted": 1759338822,
+        "company_url": "",
+        "is_visible": true
     }
 ]
