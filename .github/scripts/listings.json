@@ -1729,5 +1729,76 @@
         "date_posted": 1759440277,
         "company_url": "",
         "is_visible": true
+    },
+     {
+        "date_updated": 1759338822,
+        "url": "https://www.linkedin.com/jobs/search/?currentJobId=4307981759&f_TPR=r86400&geoId=101330853&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true",
+        "locations": [
+            "Remote, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Arevna",
+        "title": "Intern",
+        "season": "Winter",
+        "source": "MubeenMohammed",
+        "id": "7946071a-85f2-44fc-8495-1811cb5f5cfc",
+        "date_posted": 1759338822,
+        "company_url": "",
+        "is_visible": true
+    },
+     {
+        "date_updated": 1759338822,
+        "url": "https://job-boards.greenhouse.io/haven/jobs/5665455004?gh_src=td7h4wvp4us",
+        "locations": [
+            "Montreal, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Haven Interactive",
+        "title": "Stagiaire Programmeur·euse Jouabilité / Gameplay Programmer intern",
+        "season": "Winter",
+        "source": "MubeenMohammed",
+        "id": "7946071a-85f2-44fc-8495-1811cb5f5cfc",
+        "date_posted": 1759338822,
+        "company_url": "",
+        "is_visible": true
+    },
+    
+
+     {
+        "date_updated": 1759338822,
+        "url": "https://www.carrieres.gouv.qc.ca/emplois-etudiants-et-stages/stages/offres-de-stage-en-cours?tx_sctads_sctads%5Baction%5D=showStagiaire&tx_sctads_sctads%5Bcontroller%5D=Stage&tx_sctads_sctads%5Bstage%5D=16050&cHash=9180da42897d45c20be1af384984785f",
+        "locations": [
+            "Montreal, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ministère des Transports et de la Mobilité durable du Québec (MTMD)",
+        "title": "Stagiaire en Analyste programmeur ou analyse fonctionnel",
+        "season": "Winter",
+        "source": "MubeenMohammed",
+        "id": "7946071a-85f2-44fc-8495-1811cb5f5cfc",
+        "date_posted": 1759338822,
+        "company_url": "",
+        "is_visible": true
+    },
+
+     {
+        "date_updated": 1759338822,
+        "url": "https://www.pmaccelerator.io/AI-ML-Software-Engineer-Intern",
+        "locations": [
+            "Remote, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Product Manager Accelerator",
+        "title": "AI Engineer Intern - AI/ML/GenAI Design & Development",
+        "season": "Winter",
+        "source": "MubeenMohammed",
+        "id": "7946071a-85f2-44fc-8495-1811cb5f5cfc",
+        "date_posted": 1759338822,
+        "company_url": "",
+        "is_visible": true
     }
 ]
