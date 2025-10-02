@@ -21,6 +21,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| BDC | WINTER 2026 STUDENT - IT | Montreal, Canada | <a href="https://bdc.wd10.myworkdayjobs.com/en-US/BDC_Careers/job/Montreal/WINTER-2026-STUDENT---IT_R-6871-1?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 02 |
 | WSP | Stagiaire en Simulation et virtualisation - Hiver 2026 | Montreal, QC, Canada</br>Gatineau, QC, Canada</br>Sherbrooke, QC, Canada | <a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/job/72700/?utm_medium=jobshare&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 01 |
 | Super.com | Software Engineer Intern - Data Platform | Montreal, QC, Canada | <a href="https://jobs.lever.co/super-com/0bdc3d64-15db-42b5-900b-25c6dc916cc3/apply?lever-source=LinkedIn&source=LinkedIn&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 01 |
 | SEW-Eurodrive Canada | Software Developer University Intern | Vaughan, ON  | <a href="https://www.linkedin.com/jobs/collections/recommended/?currentJobId=4307653963&originToLandingJobPostings=4307653963%2C4308656339%2C4308100510%2C4307323209%2C4309028148&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 01 |

@@ -1473,7 +1473,7 @@
         "company_url": "",
         "is_visible": true
     },
-      {
+    {
         "date_updated": 1759338822,
         "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/job/72700/?utm_medium=jobshare",
         "locations": [
@@ -1543,7 +1543,7 @@
         "company_url": "",
         "is_visible": true
     },
-        {
+    {
         "date_updated": 1759338822,
         "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000082234035-internship-software-development-and-verification-engineer-embedded-systems?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73",
         "locations": [
@@ -1552,7 +1552,7 @@
         "sponsorship": "Other",
         "active": true,
         "company_name": "CS Group",
-        "title": "Internship – Software Development and Verification Engineer – Embedded Systems",
+        "title": "Internship \u2013 Software Development and Verification Engineer \u2013 Embedded Systems",
         "season": "Winter",
         "source": "MubeenMohammed",
         "id": "7946071a-85f2-44fc-8495-1811cb5f5cfc",
@@ -1560,7 +1560,7 @@
         "company_url": "",
         "is_visible": true
     },
- {
+    {
         "date_updated": 1759338822,
         "url": "",
         "locations": [
@@ -1577,7 +1577,7 @@
         "company_url": "",
         "is_visible": true
     },
-     {
+    {
         "date_updated": 1759338822,
         "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=1527471&src=SNS-102",
         "locations": [
@@ -1594,8 +1594,7 @@
         "company_url": "",
         "is_visible": true
     },
-
- {
+    {
         "date_updated": 1759338822,
         "url": "https://jobs.ericsson.com/careers/job/563121765308563?domain=ericsson.com&jobPipeline=LinkedIn",
         "locations": [
@@ -1612,9 +1611,7 @@
         "company_url": "",
         "is_visible": true
     },
-    
-
- {
+    {
         "date_updated": 1759338822,
         "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000082234035-internship-software-development-and-verification-engineer-embedded-systems?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73",
         "locations": [
@@ -1623,7 +1620,7 @@
         "sponsorship": "Other",
         "active": true,
         "company_name": "CS Group",
-        "title": "Internship – Software Development and Verification Engineer – Embedded Systems",
+        "title": "Internship \u2013 Software Development and Verification Engineer \u2013 Embedded Systems",
         "season": "Winter",
         "source": "MubeenMohammed",
         "id": "7946071a-85f2-44fc-8495-1811cb5f5cfc",
@@ -1631,7 +1628,7 @@
         "company_url": "",
         "is_visible": true
     },
-     {
+    {
         "date_updated": 1759338822,
         "url": "https://www.linkedin.com/jobs/collections/recommended/?currentJobId=4307653963&originToLandingJobPostings=4307653963%2C4308656339%2C4308100510%2C4307323209%2C4309028148",
         "locations": [
@@ -1648,7 +1645,7 @@
         "company_url": "",
         "is_visible": true
     },
-     {
+    {
         "date_updated": 1759338822,
         "url": "https://careers.activision.com/job/ACPUUSR026112EXTERNAL/Stagiaire-en-Programmation-Engin-Engine-Programming-Intern?utm_source=linkedin&utm_medium=phenom-feeds",
         "locations": [
@@ -1682,7 +1679,7 @@
         "company_url": "",
         "is_visible": true
     },
-     {
+    {
         "date_updated": 1759338822,
         "url": "https://www.google.com/about/careers/applications/jobs/results/100152282758161094-dveloppeur-logiciel/?src=Online/LinkedIn/linkedin_us&utm_source=linkedin&utm_medium=jobposting&utm_campaign=contract",
         "locations": [
@@ -1691,7 +1688,7 @@
         "sponsorship": "Other",
         "active": true,
         "company_name": "Google",
-        "title": "Développeur logiciel, débutant, étudiant ou nouveau diplômé, 2026",
+        "title": "D\u00e9veloppeur logiciel, d\u00e9butant, \u00e9tudiant ou nouveau dipl\u00f4m\u00e9, 2026",
         "season": "Summer",
         "source": "MubeenMohammed",
         "id": "7946071a-85f2-44fc-8495-1811cb5f5cfc",
@@ -1699,8 +1696,7 @@
         "company_url": "",
         "is_visible": true
     },
-    
-     {
+    {
         "date_updated": 1759338822,
         "url": "https://desjardins-workplace.relevance.studio/en/job-detail/1-6bfbe9277ef3100879e75215ed940001-internship-it-sector-winter-2026-montreal-levis?source=LinkedIn",
         "locations": [
@@ -1716,6 +1712,22 @@
         "date_posted": 1759338822,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759440277,
+        "url": "https://bdc.wd10.myworkdayjobs.com/en-US/BDC_Careers/job/Montreal/WINTER-2026-STUDENT---IT_R-6871-1",
+        "locations": [
+            "Montreal, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "BDC",
+        "title": "WINTER 2026 STUDENT - IT",
+        "season": "Winter",
+        "source": "MubeenMohammed",
+        "id": "2c07fe38-18eb-4e62-99f1-21cfabb0b922",
+        "date_posted": 1759440277,
+        "company_url": "",
+        "is_visible": true
     }
-
 ]
