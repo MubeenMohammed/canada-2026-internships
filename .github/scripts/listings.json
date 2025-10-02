@@ -1630,6 +1630,92 @@
         "date_posted": 1759338822,
         "company_url": "",
         "is_visible": true
+    },
+     {
+        "date_updated": 1759338822,
+        "url": "https://www.linkedin.com/jobs/collections/recommended/?currentJobId=4307653963&originToLandingJobPostings=4307653963%2C4308656339%2C4308100510%2C4307323209%2C4309028148",
+        "locations": [
+            "Vaughan, ON "
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SEW-Eurodrive Canada",
+        "title": "Software Developer University Intern",
+        "season": "Winter",
+        "source": "MubeenMohammed",
+        "id": "7946071a-85f2-44fc-8495-1811cb5f5cfc",
+        "date_posted": 1759338822,
+        "company_url": "",
+        "is_visible": true
+    },
+     {
+        "date_updated": 1759338822,
+        "url": "https://careers.activision.com/job/ACPUUSR026112EXTERNAL/Stagiaire-en-Programmation-Engin-Engine-Programming-Intern?utm_source=linkedin&utm_medium=phenom-feeds",
+        "locations": [
+            "Quebec City, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Actvision",
+        "title": "Stagiaire en Programmation Engin / Engine Programming Intern",
+        "season": "Winter",
+        "source": "MubeenMohammed",
+        "id": "7946071a-85f2-44fc-8495-1811cb5f5cfc",
+        "date_posted": 1759338822,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1759338822,
+        "url": "https://careers.munichre.com/en/job/toronto/engineering-co-op-na-integrated-analytics-2026-summer-toronto/3342/28721049472",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Munich Re",
+        "title": "Engineering Co-op, NA Integrated Analytics (2026 Summer-Toronto)",
+        "season": "Summer",
+        "source": "MubeenMohammed",
+        "id": "7946071a-85f2-44fc-8495-1811cb5f5cfc",
+        "date_posted": 1759338822,
+        "company_url": "",
+        "is_visible": true
+    },
+     {
+        "date_updated": 1759338822,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/100152282758161094-dveloppeur-logiciel/?src=Online/LinkedIn/linkedin_us&utm_source=linkedin&utm_medium=jobposting&utm_campaign=contract",
+        "locations": [
+            "Montreal, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Google",
+        "title": "Développeur logiciel, débutant, étudiant ou nouveau diplômé, 2026",
+        "season": "Summer",
+        "source": "MubeenMohammed",
+        "id": "7946071a-85f2-44fc-8495-1811cb5f5cfc",
+        "date_posted": 1759338822,
+        "company_url": "",
+        "is_visible": true
+    },
+    
+     {
+        "date_updated": 1759338822,
+        "url": "https://desjardins-workplace.relevance.studio/en/job-detail/1-6bfbe9277ef3100879e75215ed940001-internship-it-sector-winter-2026-montreal-levis?source=LinkedIn",
+        "locations": [
+            "Montreal, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Desjardins",
+        "title": "Internship, IT sector, Winter 2026",
+        "season": "Winter",
+        "source": "MubeenMohammed",
+        "id": "7946071a-85f2-44fc-8495-1811cb5f5cfc",
+        "date_posted": 1759338822,
+        "company_url": "",
+        "is_visible": true
     }
 
 ]
