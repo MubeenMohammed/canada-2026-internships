@@ -1730,7 +1730,7 @@
         "company_url": "",
         "is_visible": true
     },
-     {
+    {
         "date_updated": 1759338822,
         "url": "https://www.linkedin.com/jobs/search/?currentJobId=4307981759&f_TPR=r86400&geoId=101330853&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true",
         "locations": [
@@ -1747,7 +1747,7 @@
         "company_url": "",
         "is_visible": true
     },
-     {
+    {
         "date_updated": 1759338822,
         "url": "https://job-boards.greenhouse.io/haven/jobs/5665455004?gh_src=td7h4wvp4us",
         "locations": [
@@ -1756,7 +1756,7 @@
         "sponsorship": "Other",
         "active": true,
         "company_name": "Haven Interactive",
-        "title": "Stagiaire Programmeur·euse Jouabilité / Gameplay Programmer intern",
+        "title": "Stagiaire Programmeur\u00b7euse Jouabilit\u00e9 / Gameplay Programmer intern",
         "season": "Winter",
         "source": "MubeenMohammed",
         "id": "7946071a-85f2-44fc-8495-1811cb5f5cfc",
@@ -1764,9 +1764,7 @@
         "company_url": "",
         "is_visible": true
     },
-    
-
-     {
+    {
         "date_updated": 1759338822,
         "url": "https://www.carrieres.gouv.qc.ca/emplois-etudiants-et-stages/stages/offres-de-stage-en-cours?tx_sctads_sctads%5Baction%5D=showStagiaire&tx_sctads_sctads%5Bcontroller%5D=Stage&tx_sctads_sctads%5Bstage%5D=16050&cHash=9180da42897d45c20be1af384984785f",
         "locations": [
@@ -1774,7 +1772,7 @@
         ],
         "sponsorship": "Other",
         "active": true,
-        "company_name": "Ministère des Transports et de la Mobilité durable du Québec (MTMD)",
+        "company_name": "Minist\u00e8re des Transports et de la Mobilit\u00e9 durable du Qu\u00e9bec (MTMD)",
         "title": "Stagiaire en Analyste programmeur ou analyse fonctionnel",
         "season": "Winter",
         "source": "MubeenMohammed",
@@ -1783,8 +1781,7 @@
         "company_url": "",
         "is_visible": true
     },
-
-     {
+    {
         "date_updated": 1759338822,
         "url": "https://www.pmaccelerator.io/AI-ML-Software-Engineer-Intern",
         "locations": [
@@ -1798,6 +1795,23 @@
         "source": "MubeenMohammed",
         "id": "7946071a-85f2-44fc-8495-1811cb5f5cfc",
         "date_posted": 1759338822,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1759520970,
+        "url": "https://amazon.jobs/en/jobs/3100331/software-development-engineer-internship-winter-2026-canada",
+        "locations": [
+            "Vancouver, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Software Development Engineer Internship",
+        "season": "Winter",
+        "source": "MubeenMohammed",
+        "id": "8124276c-cea7-4a90-943a-164d259f686c",
+        "date_posted": 1759520970,
         "company_url": "",
         "is_visible": true
     }
