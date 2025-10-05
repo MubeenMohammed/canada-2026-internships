@@ -21,6 +21,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Keurig Dr Pepper Canada | Stagiaire, Technologies de l’information | Information Technology Intern | Montreal, QC | <a href="https://careers.keurigdrpepper.com/en/job/-/-/42849/86858420112?UTM_source=Linkedin&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
 | WillHire | DevOps Intern | Remote, Canada | <a href="https://www.linkedin.com/jobs/search/?currentJobId=4308369178&distance=25.0&geoId=101728226&keywords=Software%20Engineer%20Intern&origin=JOBS_HOME_KEYWORD_HISTORY&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 04 |
 | Super.com | Data Engineering Intern | Remote, Canada | <a href="https://jobs.lever.co/super-com/d5131822-e8cd-4425-97e2-171f8fedeccf/apply?lever-source=LinkedIn&source=LinkedIn&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 04 |
 | Mercor | ML Engineering Intern - LLM Focus | Remote, Canada | <a href="https://work.mercor.com/jobs/list_AAABmanD6aeemRbb8RlAoZ_7?utm_source=linkedin&utm_medium=job_slot_auto&utm_campaign=&utm_content=list_AAABmanD6aeemRbb8RlAoZ_7&utm_term=ml-engineering-intern-llm-focus-ca-ca1f5f&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 04 |

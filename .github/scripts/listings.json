@@ -1832,7 +1832,7 @@
         "company_url": "",
         "is_visible": true
     },
-     {
+    {
         "date_updated": 1759624401,
         "url": "https://www.linkedin.com/jobs/search/?currentJobId=4308369178&distance=25.0&geoId=101728226&keywords=Software%20Engineer%20Intern&origin=JOBS_HOME_KEYWORD_HISTORY",
         "locations": [
@@ -1875,7 +1875,7 @@
         "sponsorship": "Other",
         "active": true,
         "company_name": "Intact",
-        "title": "AI Backend Developer – 4 Month Co-op/Internship (Winter 2026)",
+        "title": "AI Backend Developer \u2013 4 Month Co-op/Internship (Winter 2026)",
         "season": "Winter",
         "source": "MubeenMohammed",
         "id": "7946071a-85f2-44fc-8495-1811cb5f5cfc",
@@ -1900,7 +1900,7 @@
         "company_url": "",
         "is_visible": true
     },
-      {
+    {
         "date_updated": 1759624401,
         "url": "https://www.coveo.com/en/company/careers/open-positions/research-and-development/fullstack-developer-intern-winter-2026/8192871002",
         "locations": [
@@ -1917,8 +1917,7 @@
         "company_url": "",
         "is_visible": true
     },
-    
-{
+    {
         "date_updated": 1759624401,
         "url": "https://www.coveo.com/en/company/careers/open-positions/research-and-development/technical-writer-intern-winter-2026/8037460002",
         "locations": [
@@ -1935,7 +1934,7 @@
         "company_url": "",
         "is_visible": true
     },
-     {
+    {
         "date_updated": 1759624401,
         "url": "",
         "locations": [
@@ -1952,8 +1951,7 @@
         "company_url": "",
         "is_visible": true
     },
-    
-     {
+    {
         "date_updated": 1759624401,
         "url": "https://jobs.ericsson.com/careers/job/563121765308563?domain=ericsson.com&jobPipeline=LinkedIn",
         "locations": [
@@ -1970,7 +1968,7 @@
         "company_url": "",
         "is_visible": true
     },
-     {
+    {
         "date_updated": 1759624401,
         "url": "https://work.mercor.com/jobs/list_AAABmanD6aeemRbb8RlAoZ_7?utm_source=linkedin&utm_medium=job_slot_auto&utm_campaign=&utm_content=list_AAABmanD6aeemRbb8RlAoZ_7&utm_term=ml-engineering-intern-llm-focus-ca-ca1f5f",
         "locations": [
@@ -1987,7 +1985,7 @@
         "company_url": "",
         "is_visible": true
     },
-     {
+    {
         "date_updated": 1759624401,
         "url": "",
         "locations": [
@@ -2004,8 +2002,7 @@
         "company_url": "",
         "is_visible": true
     },
-    
-     {
+    {
         "date_updated": 1759624401,
         "url": "https://jobs.lever.co/super-com/d5131822-e8cd-4425-97e2-171f8fedeccf/apply?lever-source=LinkedIn&source=LinkedIn",
         "locations": [
@@ -2022,7 +2019,7 @@
         "company_url": "",
         "is_visible": true
     },
-     {
+    {
         "date_updated": 1759624401,
         "url": "",
         "locations": [
@@ -2036,6 +2033,23 @@
         "source": "MubeenMohammed",
         "id": "7946071a-85f2-44fc-8495-1811cb5f5cfc",
         "date_posted": 1759624401,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1759693928,
+        "url": "https://careers.keurigdrpepper.com/en/job/-/-/42849/86858420112?UTM_source=Linkedin",
+        "locations": [
+            "Montreal, QC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Keurig Dr Pepper Canada",
+        "title": "Stagiaire, Technologies de l\u2019information | Information Technology Intern",
+        "season": "Winter",
+        "source": "MubeenMohammed",
+        "id": "82401f29-80e7-409f-818b-cc1abfc6a486",
+        "date_posted": 1759693928,
         "company_url": "",
         "is_visible": true
     }
