@@ -1814,5 +1814,22 @@
         "date_posted": 1759520970,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759624401,
+        "url": "https://www.linkedin.com/jobs/search/?currentJobId=4303207758&distance=25.0&geoId=101728226&keywords=Software%20Engineer%20Intern&origin=JOBS_HOME_KEYWORD_HISTORY",
+        "locations": [
+            "Montreal, QC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Audiokinetic",
+        "title": "Intern, Web",
+        "season": "Winter",
+        "source": "MubeenMohammed",
+        "id": "a6217f8f-20ca-4a2f-975c-810f711d5e82",
+        "date_posted": 1759624401,
+        "company_url": "",
+        "is_visible": true
     }
 ]

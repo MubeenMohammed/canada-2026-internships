@@ -21,6 +21,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Audiokinetic | Intern, Web | Montreal, QC | <a href="https://www.linkedin.com/jobs/search/?currentJobId=4303207758&distance=25.0&geoId=101728226&keywords=Software%20Engineer%20Intern&origin=JOBS_HOME_KEYWORD_HISTORY&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 04 |
 | Amazon | Software Development Engineer Internship | Vancouver, Canada | <a href="https://amazon.jobs/en/jobs/3100331/software-development-engineer-internship-winter-2026-canada?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 03 |
 | BDC | WINTER 2026 STUDENT - IT | Montreal, Canada | <a href="https://bdc.wd10.myworkdayjobs.com/en-US/BDC_Careers/job/Montreal/WINTER-2026-STUDENT---IT_R-6871-1?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 02 |
 | WSP | Stagiaire en Simulation et virtualisation - Hiver 2026 | Montreal, QC, Canada</br>Gatineau, QC, Canada</br>Sherbrooke, QC, Canada | <a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/job/72700/?utm_medium=jobshare&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 01 |
