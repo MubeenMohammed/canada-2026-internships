@@ -10,9 +10,9 @@ import subprocess
 import sys
 from pathlib import Path
 
-LISTING_FILE = Path("listing.json")
-SCRAPER_SCRIPT = "scraper.py" 
-DEDUPER_SCRIPT = "remove_duplicates.py"
+LISTING_FILE = Path(".github/scripts/listings.json")
+SCRAPER_SCRIPT = ".github/scripts/scrapper.py"  # actual file in the repo is 'scrapper.py'
+DEDUPER_SCRIPT = ".github/scripts/remove_duplicates.py"
 
 
 def load_json(path):
