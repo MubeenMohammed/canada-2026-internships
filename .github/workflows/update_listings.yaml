@@ -1,5 +1,9 @@
 name: Update Listings
 
+permissions:
+  contents: write
+  pull-requests: write
+
 on:
   schedule:
     - cron: "0 1 * * *"  # Runs every day at 8 PM EST (1 AM UTC)
@@ -11,6 +15,8 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          persist-credentials: false  # we'll provide token explicitly
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -23,12 +29,21 @@ jobs:
       - name: Run update script
         run: python .github/scripts/update_listings.py
 
-      - name: Commit & push changes
+      - name: Commit changes
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@users.noreply.github.com"
-          git add .github/scripts/listings.json
+          git checkout -B auto-update-listings
+          git add .github/scripts/listing.json
           git commit -m "Auto-update listings [skip ci]" || echo "No changes to commit"
-          git push origin main
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          git push --force https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} auto-update-listings
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: auto-update-listings
+          title: "Auto-update listings"
+          body: "This PR contains the daily automated internship listings update."
+          base: main
+          labels: automated-pr
