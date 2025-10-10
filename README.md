@@ -1,6 +1,6 @@
 # 2026 Canada Tech Internships
 
-The torch has been passed. Use this repo to share and keep track of software, tech, CS, PM, quant internships for **Summer 2026**. The list is maintained collaboratively by 
+The torch has been passed. Use this repo to share and keep track of software, tech, CS, PM, quant internships for **Summer 2026**. The list is maintained collaboratively by Mubeen Mohammed
 
 :warning: Please note that this repository is exclusively for internships/co-ops  Canada.
 
