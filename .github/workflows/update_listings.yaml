@@ -31,7 +31,7 @@ jobs:
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@users.noreply.github.com"
-          git add .github/scripts/listing.json
+          git add .github/scripts/listings.json
           git commit -m "Auto-update listings [skip ci]" || echo "No changes to commit"
 
       - name: Create Pull Request
