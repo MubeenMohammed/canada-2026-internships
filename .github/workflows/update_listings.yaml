@@ -30,3 +30,5 @@ jobs:
           git add .github/scripts/listings.json
           git commit -m "Auto-update listings [skip ci]" || echo "No changes to commit"
           git push origin main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
