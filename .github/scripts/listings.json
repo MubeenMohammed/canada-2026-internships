@@ -4102,5 +4102,39 @@
     "date_posted": 1760235421,
     "company_url": "https://www.linkedin.com/company/infoblox?trk=public_jobs_jserp-result_job-search-card-subtitle",
     "is_visible": true
+  },
+   {
+    "date_updated": 1760316619,
+    "url": "https://ca.linkedin.com/jobs/view/automation-specialist-internship-at-boldmac-4313701177?position=2&pageNum=0&refId=jzjIHADPwftJyJqNazmgWg%3D%3D&trackingId=c32linLq8ThfFL2LgCuP5w%3D%3D",
+    "locations": [
+      "Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "BoldMAC",
+    "title": "Automation Specialist Internship",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "ae81b9b1330147228890e5a8417e4c95",
+    "date_posted": 1760316619,
+    "company_url": "https://ca.linkedin.com/company/boldmac?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1760316619,
+    "url": "https://ca.linkedin.com/jobs/view/data-internship-winter-2026-at-desjardins-4291194279?position=3&pageNum=0&refId=jzjIHADPwftJyJqNazmgWg%3D%3D&trackingId=zyplUMp7F4V2dNh0%2BRVVeA%3D%3D",
+    "locations": [
+      "Montréal-Ouest, Quebec, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Desjardins",
+    "title": "Data internship, Winter 2026",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "1ec7636e7ad3493a9b415f541613a515",
+    "date_posted": 1760316619,
+    "company_url": "https://ca.linkedin.com/company/desjardins?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
   }
 ]
