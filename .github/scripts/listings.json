@@ -4136,5 +4136,86 @@
     "date_posted": 1760316619,
     "company_url": "https://ca.linkedin.com/company/desjardins?trk=public_jobs_jserp-result_job-search-card-subtitle",
     "is_visible": true
+  },
+  {
+    "date_updated": 1760402243,
+    "url": "https://ca.linkedin.com/jobs/view/hps-sw-agile-pmo-intern-at-hp-4309001852?position=1&pageNum=0&refId=%2BRjIEzrlEMzhSOrA%2FFuy3Q%3D%3D&trackingId=yt7jRe37ITHrMS2%2FsKcN6Q%3D%3D",
+    "locations": [
+      "Vancouver, British Columbia, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "HP",
+    "title": "HPS SW Agile PMO Intern",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "a45580ef22b9430e9e9f2a918f54e255",
+    "date_posted": 1760402243,
+    "company_url": "https://www.linkedin.com/company/hp?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
+  },  {
+    "date_updated": 1760402243,
+    "url": "https://ca.linkedin.com/jobs/view/internship-ai-quantum-at-quandela-4313757405?position=3&pageNum=0&refId=%2BRjIEzrlEMzhSOrA%2FFuy3Q%3D%3D&trackingId=icE%2FTJMjBI4eVEVrOrqLNg%3D%3D",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Quandela",
+    "title": "Internship: AI & Quantum",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "3060cf2166324db8818817b9780b6352",
+    "date_posted": 1760402243,
+    "company_url": "https://fr.linkedin.com/company/quandela?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
+  }, {
+    "date_updated": 1760402243,
+    "url": "https://ca.linkedin.com/jobs/view/p-tech-summer-intern-2025-level-1-on-ns-nova-scotia-community-college-nscc-at-ibm-4228699835?position=10&pageNum=0&refId=%2BRjIEzrlEMzhSOrA%2FFuy3Q%3D%3D&trackingId=7UErmor%2B3JfAIIl2WapLVQ%3D%3D",
+    "locations": [
+      "Halifax, Nova Scotia, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "IBM",
+    "title": "P-TECH Summer Intern 2025 - Level 1 (ON/NS) - Nova Scotia Community College - (NSCC)",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "d28b30af5c1c4cc0947dabbad7ac9a86",
+    "date_posted": 1760402243,
+    "company_url": "https://www.linkedin.com/company/ibm?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
+  },{
+    "date_updated": 1760402243,
+    "url": "https://ca.linkedin.com/jobs/view/engineering-intern-process-applications-systems-environmental-nanticoke-1-at-imperial-oil-4314424417?position=7&pageNum=0&refId=A5nxSnUYsbhkVAxbcW9tBg%3D%3D&trackingId=Zw7vxhQECW379UBz9l2Jtw%3D%3D",
+    "locations": [
+      "Nanticoke, Ontario, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Imperial Oil",
+    "title": "Engineering Intern (Process, Applications & Systems, Environmental) - Nanticoke 1",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "74437a5c2b8c4356a3155237f58e6841",
+    "date_posted": 1760402243,
+    "company_url": "https://ca.linkedin.com/company/imperial-oil?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
+  },{
+    "date_updated": 1760402243,
+    "url": "https://ca.linkedin.com/jobs/view/associate-software-developer-saas-devops-co-op-at-hp-4305649399?position=3&pageNum=0&refId=BN1aQFL%2FHwaidccwLBSwhQ%3D%3D&trackingId=73jqvvMGLYj6yI06j3ht8Q%3D%3D",
+    "locations": [
+      "Vancouver, British Columbia, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "HP",
+    "title": "Associate Software Developer - SaaS DevOps Co-op",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "861c3a9a0e45429883dd5427d2f3435e",
+    "date_posted": 1760402243,
+    "company_url": "https://www.linkedin.com/company/hp?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
   }
 ]
