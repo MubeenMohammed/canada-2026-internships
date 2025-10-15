@@ -16,7 +16,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 
 
-[⬇️ Jump to bottom ⬇️](https://github.com/mubeenmohammed/canada-2026-internshipss#we-love-our-contributors-%EF%B8%8F%EF%B8%8F)
+[⬇️ Jump to bottom ⬇️](#we-love-our-contributors-)
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 
 | Company | Role | Location | Application/Link | Date Posted |
@@ -299,7 +299,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Business System Analyst Intern/Co-op | Toronto, Canada | 🔒 | Apr 28 |
 
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
-[⬆️ Back to Top ⬆️](https://github.com/mubeenmohammed/canada-2026-interships#the-list)
+[⬆️ Back to Top ⬆️](#the-list-)
 
 ## We love our contributors ❤️❤️
 
