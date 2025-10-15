@@ -299,7 +299,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Business System Analyst Intern/Co-op | Toronto, Canada | 🔒 | Apr 28 |
 
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
-[⬆️ Back to Top ⬆️](https://github.com/mubeenmohammed/canada-2026-interships#the-list-)
+[⬆️ Back to Top ⬆️](https://github.com/mubeenmohammed/canada-2026-interships#the-list)
 
 ## We love our contributors ❤️❤️
 
