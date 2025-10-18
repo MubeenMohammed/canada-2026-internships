@@ -5680,5 +5680,73 @@
     "date_posted": 1760746675,
     "company_url": "https://www.linkedin.com/company/ciena?trk=public_jobs_jserp-result_job-search-card-subtitle",
     "is_visible": true
+  },
+  {
+    "date_updated": 1760828515,
+    "url": "https://ca.linkedin.com/jobs/view/product-design-co-op-8-months-at-intuit-4313814285?position=5&pageNum=0&refId=WuqbRREQGhcxQTx6e8cArQ%3D%3D&trackingId=Y3E4qSekCXamdnLuPJ4wYw%3D%3D",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Intuit",
+    "title": "Product Design Co-op (8 months)",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "57b003360afc49c6a058d2b1c5c64fb5",
+    "date_posted": 1760828515,
+    "company_url": "https://www.linkedin.com/company/intuit?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1760828515,
+    "url": "https://ca.linkedin.com/jobs/view/ai-associate-product-manager-intern-at-ampliwork-4313825801?position=5&pageNum=0&refId=Z83fhdbPLbrcJ79Yp0MNRw%3D%3D&trackingId=Tv7COmfrtN5Tg28kN3e%2FCQ%3D%3D",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Ampliwork",
+    "title": "AI Associate Product Manager Intern",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "ef84aa0f0f174f32ae54d9ed77a35fb8",
+    "date_posted": 1760828515,
+    "company_url": "https://www.linkedin.com/company/ampliwork-ai-agents?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
+  },
+    {
+    "date_updated": 1760828516,
+    "url": "https://ca.linkedin.com/jobs/view/digital-analytics-co-op-student-at-olg-4315765807?position=1&pageNum=0&refId=m7LnQhN6k7EkTnSiJTmltQ%3D%3D&trackingId=rM6HokC895ms%2F0zk%2B5%2FXYQ%3D%3D",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "OLG",
+    "title": "Digital Analytics Co-op Student",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "f21b7a6fde8348068cfcebac886bb8df",
+    "date_posted": 1760828516,
+    "company_url": "https://ca.linkedin.com/company/olg?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
+  },
+    {
+    "date_updated": 1760828516,
+    "url": "https://ca.linkedin.com/jobs/view/co-op-embedded-software-verification-at-mannarino-4316102114?position=7&pageNum=0&refId=m7LnQhN6k7EkTnSiJTmltQ%3D%3D&trackingId=HvIQ%2BQE3kzktuiL1Zschzg%3D%3D",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "MANNARINO",
+    "title": "CO-OP Embedded Software Verification",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "6834caf4cc0a48af820e16da11cde78c",
+    "date_posted": 1760828516,
+    "company_url": "https://ca.linkedin.com/company/mannarino-systems-and-software?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
   }
 ]
