@@ -5748,5 +5748,38 @@
     "date_posted": 1760828516,
     "company_url": "https://ca.linkedin.com/company/mannarino-systems-and-software?trk=public_jobs_jserp-result_job-search-card-subtitle",
     "is_visible": true
+  },
+        {
+    "date_updated": 1760924136,
+    "url": "https://ca.linkedin.com/jobs/view/data-analyst-internship-training-program-at-ededge-groups-4314333159?position=1&pageNum=0&refId=wB2C8EfZ6OM3qMtwwCH7lw%3D%3D&trackingId=sXS0OnJfWUiUtUy0bo8F4A%3D%3D",
+    "locations": [
+      "Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Ededge Groups",
+    "title": "Data Analyst Internship & Training Program",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "70336ffcc3744ba4ac4b52b069b3f48f",
+    "date_posted": 1760924136,
+    "company_url": "https://in.linkedin.com/company/ededgegroups?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
+  },  {
+    "date_updated": 1760924136,
+    "url": "https://ca.linkedin.com/jobs/view/technology-internship-at-labatt-breweries-of-canada-4296473569?position=11&pageNum=0&refId=wB2C8EfZ6OM3qMtwwCH7lw%3D%3D&trackingId=4vZ9x6CIy6a%2BznLoaCPAVA%3D%3D",
+    "locations": [
+      "Moncton, New Brunswick, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Labatt Breweries of Canada",
+    "title": "Technology Internship",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "876179d10aad45a392d629b4c1f2febe",
+    "date_posted": 1760924136,
+    "company_url": "https://ca.linkedin.com/company/labatt?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
   }
 ]
