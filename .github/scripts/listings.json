@@ -8342,5 +8342,456 @@
     "date_posted": 1762222334,
     "company_url": "https://www.linkedin.com/company/tetra-tech?trk=public_jobs_jserp-result_job-search-card-subtitle",
     "is_visible": true
+  },
+       {
+    "date_updated": 1762298340,
+    "url": "https://ca.linkedin.com/jobs/view/product-management-intern-verified-at-interac-corp-4320571823?position=2&pageNum=0&refId=TNrAiuYZvQ9QCkpbiRWaog%3D%3D&trackingId=a73W4YhjXKG1YVrOrKDW2Q%3D%3D",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Interac Corp.",
+    "title": "Product Management Intern (Verified)",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "65efe715bcbc45b1959ebc20c7ea8c72",
+    "date_posted": 1762298340,
+    "company_url": "https://ca.linkedin.com/company/interac-corp?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
+  },
+
+  {
+    "date_updated": 1762298340,
+    "url": "https://ca.linkedin.com/jobs/view/product-intern-money-movement-at-interac-corp-4320549056?position=4&pageNum=0&refId=TNrAiuYZvQ9QCkpbiRWaog%3D%3D&trackingId=iS7EQcI6Rz5JoqZGYgjYqg%3D%3D",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Interac Corp.",
+    "title": "Product Intern (Money Movement)",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "95392329cfac4115937cae79d59cc2a2",
+    "date_posted": 1762298340,
+    "company_url": "https://ca.linkedin.com/company/interac-corp?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
+  },{
+    "date_updated": 1762298340,
+    "url": "https://ca.linkedin.com/jobs/view/co-op-engineer-software-development-human-computer-interaction-at-huawei-canada-4334300702?position=5&pageNum=0&refId=TNrAiuYZvQ9QCkpbiRWaog%3D%3D&trackingId=O8h7R5cNeOu%2BsQvFDUDb%2Bw%3D%3D",
+    "locations": [
+      "Markham, Ontario, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Huawei Canada",
+    "title": "Co-op Engineer - Software Development (Human-Computer Interaction)",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "7a3536dd60164c429615bf0a661a32ee",
+    "date_posted": 1762298340,
+    "company_url": "https://ca.linkedin.com/company/huawei-technologies-canada-co-ltd?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
+  },{
+    "date_updated": 1762298340,
+    "url": "https://ca.linkedin.com/jobs/view/corporate-applications-intern-at-interac-corp-4320449263?position=6&pageNum=0&refId=TNrAiuYZvQ9QCkpbiRWaog%3D%3D&trackingId=p5ibueKK%2FiSncvsBzZ3q5g%3D%3D",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Interac Corp.",
+    "title": "Corporate Applications Intern",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "a845fdf863a34b1c9b690a1355b7857d",
+    "date_posted": 1762298340,
+    "company_url": "https://ca.linkedin.com/company/interac-corp?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
+  }, {
+    "date_updated": 1762298340,
+    "url": "https://ca.linkedin.com/jobs/view/firmware-engineer-intern-at-rambus-4337478149?position=8&pageNum=0&refId=TNrAiuYZvQ9QCkpbiRWaog%3D%3D&trackingId=XrlCJxmi75BWVTlgyP4CNw%3D%3D",
+    "locations": [
+      "Greater Vancouver Metropolitan Area"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Rambus",
+    "title": "Firmware Engineer Intern",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "74a3baca23394c0e8855454d54675b2e",
+    "date_posted": 1762298340,
+    "company_url": "https://www.linkedin.com/company/rambus?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
+  }, {
+    "date_updated": 1762298340,
+    "url": "https://ca.linkedin.com/jobs/view/intern-researcher-ai-software-development-at-huawei-canada-4334139954?position=9&pageNum=0&refId=TNrAiuYZvQ9QCkpbiRWaog%3D%3D&trackingId=zfSfrSaADkEukNnZOChZNg%3D%3D",
+    "locations": [
+      "Markham, Ontario, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Huawei Canada",
+    "title": "Intern Researcher - AI Software Development",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "faf468a78e9a4988a48e9264eebe18de",
+    "date_posted": 1762298340,
+    "company_url": "https://ca.linkedin.com/company/huawei-technologies-canada-co-ltd?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
+  },{
+    "date_updated": 1762298340,
+    "url": "https://ca.linkedin.com/jobs/view/ai-implementation-intern-service-operations-at-ford-motor-company-4334128993?position=12&pageNum=0&refId=TNrAiuYZvQ9QCkpbiRWaog%3D%3D&trackingId=qsS98Xr64gXc%2BYl4ZJQ3Dw%3D%3D",
+    "locations": [
+      "Oakville, Ontario, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Ford Motor Company",
+    "title": "AI implementation Intern - Service Operations",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "bf8cf2ef26734ed4a609a5b2cf4670d5",
+    "date_posted": 1762298340,
+    "company_url": "https://www.linkedin.com/company/ford-motor-company?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
+  }, {
+    "date_updated": 1762298340,
+    "url": "https://ca.linkedin.com/jobs/view/product-ai-intern-4-months-winter-2026-at-dayforce-4337478240?position=17&pageNum=0&refId=TNrAiuYZvQ9QCkpbiRWaog%3D%3D&trackingId=k0CXTMtKQ2dhe6lNBR59qw%3D%3D",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Dayforce",
+    "title": "Product & AI Intern 4 months - Winter 2026",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "388b7522242747d08f13f25dc89cc0c2",
+    "date_posted": 1762298340,
+    "company_url": "https://www.linkedin.com/company/dayforce?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
+  }, {
+    "date_updated": 1762298340,
+    "url": "https://ca.linkedin.com/jobs/view/intern-researcher-ai-computing-system-at-huawei-canada-4334072725?position=19&pageNum=0&refId=TNrAiuYZvQ9QCkpbiRWaog%3D%3D&trackingId=%2FPrgkELLW4pHj1WbUPGRKg%3D%3D",
+    "locations": [
+      "Vancouver, British Columbia, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Huawei Canada",
+    "title": "Intern Researcher - AI Computing System",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "b5dacd613ebe434e98af338295787b2f",
+    "date_posted": 1762298340,
+    "company_url": "https://ca.linkedin.com/company/huawei-technologies-canada-co-ltd?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
+  },  {
+    "date_updated": 1762298340,
+    "url": "https://ca.linkedin.com/jobs/view/intern-artificial-intelligence-winter-2026-at-bombardier-4334078851?position=30&pageNum=0&refId=TNrAiuYZvQ9QCkpbiRWaog%3D%3D&trackingId=quDXrWNe6%2FvEjKKbeF9F9Q%3D%3D",
+    "locations": [
+      "Dorval, Quebec, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Bombardier",
+    "title": "Intern, Artificial Intelligence (Winter 2026)",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "c4e7a6ecf78341749a0ae7c3e4926ac0",
+    "date_posted": 1762298340,
+    "company_url": "https://www.linkedin.com/company/bombardier?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
+  },  {
+    "date_updated": 1762298340,
+    "url": "https://ca.linkedin.com/jobs/view/co-op-or-intern-technology-risk-assurance-summer-2026-at-bdo-canada-4333910576?position=47&pageNum=0&refId=TNrAiuYZvQ9QCkpbiRWaog%3D%3D&trackingId=0y%2FOz63a1bYAIAMk60P0dQ%3D%3D",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "BDO Canada",
+    "title": "Co-op or Intern, Technology Risk Assurance (Summer 2026)",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "10fcc9ce970045ebbc0f53c464379bbd",
+    "date_posted": 1762298340,
+    "company_url": "https://ca.linkedin.com/company/bdo-canada?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
+  }, {
+    "date_updated": 1762298340,
+    "url": "https://ca.linkedin.com/jobs/view/intern-ai-for-requirements-management-at-alstom-4337308639?position=53&pageNum=0&refId=TNrAiuYZvQ9QCkpbiRWaog%3D%3D&trackingId=bnQacuNf5Lj3hUiAlMEspw%3D%3D",
+    "locations": [
+      "Saint-Bruno, Quebec, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Alstom",
+    "title": "Intern - AI for Requirements Management",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "90f23dfb5493478f9d6151a05bcac61d",
+    "date_posted": 1762298340,
+    "company_url": "https://fr.linkedin.com/company/alstom?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
+  }, {
+    "date_updated": 1762298340,
+    "url": "https://ca.linkedin.com/jobs/view/product-design-intern-at-interac-corp-4320549057?position=2&pageNum=0&refId=cGLL2CELfRFmspmCeVQoLw%3D%3D&trackingId=RUnTECIdfP%2BGwI25qZFpEg%3D%3D",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Interac Corp.",
+    "title": "Product Design Intern",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "a7223bd1ad564152a971491ff07d0a54",
+    "date_posted": 1762298340,
+    "company_url": "https://ca.linkedin.com/company/interac-corp?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
+  },  {
+    "date_updated": 1762298340,
+    "url": "https://ca.linkedin.com/jobs/view/strategy-intern-at-interac-corp-4320802837?position=5&pageNum=0&refId=cGLL2CELfRFmspmCeVQoLw%3D%3D&trackingId=qBtrhXo85jkGXJtOITWRfQ%3D%3D",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Interac Corp.",
+    "title": "Strategy Intern",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "4c9dc8f03a15450b8d6907e8e5631a19",
+    "date_posted": 1762298340,
+    "company_url": "https://ca.linkedin.com/company/interac-corp?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
+  },  {
+    "date_updated": 1762298340,
+    "url": "https://ca.linkedin.com/jobs/view/ai2-analytics-intern-co-op-at-td-4334310653?position=10&pageNum=0&refId=cGLL2CELfRFmspmCeVQoLw%3D%3D&trackingId=hQbSaAGH76ly%2FZ7QwbYcqA%3D%3D",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "TD",
+    "title": "AI2 Analytics Intern/Co-op",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "df904adbc48b4d82a68915b6beda79c9",
+    "date_posted": 1762298340,
+    "company_url": "https://ca.linkedin.com/company/td?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
+  },  {
+    "date_updated": 1762298340,
+    "url": "https://ca.linkedin.com/jobs/view/software-engineering-student-intern-at-lincoln-electric-4320684776?position=11&pageNum=0&refId=cGLL2CELfRFmspmCeVQoLw%3D%3D&trackingId=Gswj9Efz%2BsMxF0Hxwv9sJA%3D%3D",
+    "locations": [
+      "Waterloo, Ontario, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Lincoln Electric",
+    "title": "Software Engineering Student Intern",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "daf07c2015164dd7a5e866d056249109",
+    "date_posted": 1762298340,
+    "company_url": "https://www.linkedin.com/company/lincoln-electric?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
+  },  {
+    "date_updated": 1762298340,
+    "url": "https://ca.linkedin.com/jobs/view/appops-intern-at-interac-corp-4320568379?position=12&pageNum=0&refId=cGLL2CELfRFmspmCeVQoLw%3D%3D&trackingId=MWNXBSWyjp0Dr4HfrTw2YQ%3D%3D",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Interac Corp.",
+    "title": "AppOps Intern",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "94a75ecf1a0b4660b3c1084b7630a0bf",
+    "date_posted": 1762298340,
+    "company_url": "https://ca.linkedin.com/company/interac-corp?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
+  },  {
+    "date_updated": 1762298340,
+    "url": "https://ca.linkedin.com/jobs/view/end-user-services-intern-at-interac-corp-4320449262?position=14&pageNum=0&refId=cGLL2CELfRFmspmCeVQoLw%3D%3D&trackingId=MG10O7CHhz9eziDU33LwNg%3D%3D",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Interac Corp.",
+    "title": "End User Services Intern",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "c05485f359c145fa90e4e209f6dcaedd",
+    "date_posted": 1762298340,
+    "company_url": "https://ca.linkedin.com/company/interac-corp?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
+  },  {
+    "date_updated": 1762298340,
+    "url": "https://ca.linkedin.com/jobs/view/product-specialist-intern-at-interac-corp-4320439276?position=16&pageNum=0&refId=cGLL2CELfRFmspmCeVQoLw%3D%3D&trackingId=G3T8EQb0iRp5WixG8TZ0QA%3D%3D",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Interac Corp.",
+    "title": "Product Specialist Intern",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "be521bfd628d4d679e39273568e84d67",
+    "date_posted": 1762298340,
+    "company_url": "https://ca.linkedin.com/company/interac-corp?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
+  },  {
+    "date_updated": 1762298340,
+    "url": "https://ca.linkedin.com/jobs/view/information-security-and-compliance-analyst-intern-at-interac-corp-4320439277?position=18&pageNum=0&refId=cGLL2CELfRFmspmCeVQoLw%3D%3D&trackingId=yn%2BQpOidPLamZ7kmYu9rvQ%3D%3D",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Interac Corp.",
+    "title": "Information Security and Compliance Analyst Intern",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "90a0212dc66844c2b874d6bf611c7c77",
+    "date_posted": 1762298340,
+    "company_url": "https://ca.linkedin.com/company/interac-corp?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
+  },  {
+    "date_updated": 1762298340,
+    "url": "https://ca.linkedin.com/jobs/view/software-developer-intern-4-months-winter-2026-at-dayforce-4337319188?position=22&pageNum=0&refId=cGLL2CELfRFmspmCeVQoLw%3D%3D&trackingId=tn5uZCSpdz%2FciikPfGq5ng%3D%3D",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Dayforce",
+    "title": "Software Developer Intern 4 months - Winter 2026",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "de2333800f0a4445bde7a5199275fe89",
+    "date_posted": 1762298340,
+    "company_url": "https://www.linkedin.com/company/dayforce?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
+  },{
+    "date_updated": 1762298340,
+    "url": "https://ca.linkedin.com/jobs/view/full-stack-developer-intern-ai-engagement-portal-at-exeevo-4334034080?position=23&pageNum=0&refId=cGLL2CELfRFmspmCeVQoLw%3D%3D&trackingId=TIZdx2mbHOX%2BYBiWzlzo%2Fw%3D%3D",
+    "locations": [
+      "Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Exeevo",
+    "title": "Full Stack Developer Intern (AI Engagement Portal)",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "41447009a2b0437481060a02b8743d14",
+    "date_posted": 1762298340,
+    "company_url": "https://ca.linkedin.com/company/exeevo?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
+  },{
+    "date_updated": 1762298340,
+    "url": "https://ca.linkedin.com/jobs/view/infrastructure-platform-management-intern-at-interac-corp-4320489216?position=32&pageNum=0&refId=cGLL2CELfRFmspmCeVQoLw%3D%3D&trackingId=eUtfy3ArPxIvcc%2FKHW7Ezw%3D%3D",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Interac Corp.",
+    "title": "Infrastructure & Platform Management Intern",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "4845834f00994e3c91fce4a8efb16dc9",
+    "date_posted": 1762298340,
+    "company_url": "https://ca.linkedin.com/company/interac-corp?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
+  }, {
+    "date_updated": 1762298340,
+    "url": "https://ca.linkedin.com/jobs/view/its-solutions-administrator-coop-at-grandbridge-energy-inc-4320419789?position=1&pageNum=0&refId=dkCGj%2Fo%2BXQ61OAs%2BYcTfmw%3D%3D&trackingId=sITcVrSD3rjQfOxF0cy%2F%2Fg%3D%3D",
+    "locations": [
+      "Brantford, Ontario, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "GrandBridge Energy Inc.",
+    "title": "ITS Solutions Administrator Coop",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "ab206d921e2a491bbbe6cb9066a89305",
+    "date_posted": 1762298340,
+    "company_url": "https://ca.linkedin.com/company/grandbridge-energy-inc?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
+  },  {
+    "date_updated": 1762298340,
+    "url": "https://ca.linkedin.com/jobs/view/frontend-software-developer-co-op-react-js-at-global-relay-4333973618?position=1&pageNum=0&refId=Eq17EXXlOJ0lMRl%2FS9AXAw%3D%3D&trackingId=sC6wbujKoPwR8JquJcyR2w%3D%3D",
+    "locations": [
+      "Vancouver, British Columbia, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Global Relay",
+    "title": "Frontend Software Developer Co-op (React.js)",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "e257a99fbe5541c0925690f9ab009fbc",
+    "date_posted": 1762298340,
+    "company_url": "https://ca.linkedin.com/company/global-relay?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
+  },  {
+    "date_updated": 1762298340,
+    "url": "https://ca.linkedin.com/jobs/view/co-op-user-experience-ux-research-winter-2026-at-global-relay-4334053523?position=9&pageNum=0&refId=Eq17EXXlOJ0lMRl%2FS9AXAw%3D%3D&trackingId=%2By9hDaPfUqIH9Slsw1iq6g%3D%3D",
+    "locations": [
+      "Vancouver, British Columbia, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Global Relay",
+    "title": "Co-op User Experience (UX) Research - Winter 2026",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "b53478ad2869419fa8365f60a41473ef",
+    "date_posted": 1762298340,
+    "company_url": "https://ca.linkedin.com/company/global-relay?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
+  },  {
+    "date_updated": 1762298340,
+    "url": "https://ca.linkedin.com/jobs/view/co-op-software-development-engineer-in-test-sdet-winter-2026-at-global-relay-4333924427?position=10&pageNum=0&refId=Eq17EXXlOJ0lMRl%2FS9AXAw%3D%3D&trackingId=aHz4n6yFKu%2BLyzyO8tyhDg%3D%3D",
+    "locations": [
+      "Vancouver, British Columbia, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Global Relay",
+    "title": "Co-op Software Development Engineer in Test (SDET) - Winter 2026",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "bae9c8bea6e3496e90a17117c4f1ee4f",
+    "date_posted": 1762298340,
+    "company_url": "https://ca.linkedin.com/company/global-relay?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
+  }, {
+    "date_updated": 1762298340,
+    "url": "https://ca.linkedin.com/jobs/view/co-op-researcher-ai-for-autonomous-driving-multimodal-learning-at-huawei-canada-4333933471?position=34&pageNum=0&refId=Eq17EXXlOJ0lMRl%2FS9AXAw%3D%3D&trackingId=kuj678hneoFjUmlbyBrj%2Bg%3D%3D",
+    "locations": [
+      "Markham, Ontario, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Huawei Canada",
+    "title": "Co-op Researcher-AI for Autonomous Driving & Multimodal Learning",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "24bc018bbcd64985966f8390bce8863c",
+    "date_posted": 1762298340,
+    "company_url": "https://ca.linkedin.com/company/huawei-technologies-canada-co-ltd?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
   }
 ]
