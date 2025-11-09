@@ -9149,5 +9149,86 @@
     "date_posted": 1762472253,
     "company_url": "https://ca.linkedin.com/company/cgi?trk=public_jobs_jserp-result_job-search-card-subtitle",
     "is_visible": true
+  },
+    {
+    "date_updated": 1762652780,
+    "url": "https://ca.linkedin.com/jobs/view/triage-security-analyst-intern-at-arctic-wolf-4321661200?position=13&pageNum=0&refId=1jE3aKKO%2F0vOIxK0aDEUMQ%3D%3D&trackingId=ZkKJM0JHMUphZjyfVeRi%2Bw%3D%3D",
+    "locations": [
+      "Waterloo, Ontario, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Arctic Wolf",
+    "title": "Triage Security Analyst - Intern",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "01a926fd08cf4d6b8595354b0d5c8823",
+    "date_posted": 1762652780,
+    "company_url": "https://www.linkedin.com/company/arcticwolf?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
+  },{
+    "date_updated": 1762652780,
+    "url": "https://ca.linkedin.com/jobs/view/ios-app-developer-intern-at-artiwiz-technologies-4334936448?position=37&pageNum=0&refId=1jE3aKKO%2F0vOIxK0aDEUMQ%3D%3D&trackingId=G2rqTKlbRSMjc4th1xu9CQ%3D%3D",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Artiwiz  Technologies",
+    "title": "iOS App Developer Intern",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "595dceda7a3441609a70630b8b1fbac3",
+    "date_posted": 1762652780,
+    "company_url": "https://ca.linkedin.com/company/artiwiz-technologies?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
+  },{
+    "date_updated": 1762652780,
+    "url": "https://ca.linkedin.com/jobs/view/software-engineer-intern-at-altera-4335042059?position=1&pageNum=0&refId=1Ja1nNvUk8h3OK2E6UrMLw%3D%3D&trackingId=nxlSMwPHbLK6%2FSd5zgfyLg%3D%3D",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Altera",
+    "title": "Software Engineer - Intern",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "fe8f26cecc994d3d8e956d0ff6aa089a",
+    "date_posted": 1762652780,
+    "company_url": "https://www.linkedin.com/company/altera-fpga?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
+  },{
+    "date_updated": 1762652780,
+    "url": "https://ca.linkedin.com/jobs/view/co-op-intern-product-management-at-hootsuite-4321741797?position=3&pageNum=0&refId=1Ja1nNvUk8h3OK2E6UrMLw%3D%3D&trackingId=5dFI5XcGJLAijMLme6ctYQ%3D%3D",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Hootsuite",
+    "title": "Co-op/Intern, Product Management",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "2f04ada9f2d744d7abf55094aa094647",
+    "date_posted": 1762652780,
+    "company_url": "https://ca.linkedin.com/company/hootsuite?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
+  }, {
+    "date_updated": 1762652780,
+    "url": "https://ca.linkedin.com/jobs/view/power-platform-developer-co-op-at-teck-resources-limited-4338106055?position=13&pageNum=0&refId=CIc2oU7nZFlad0VWbp4faA%3D%3D&trackingId=OGB06iuiqKID6QFka5MFDw%3D%3D",
+    "locations": [
+      "Greater Vancouver Metropolitan Area"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Teck Resources Limited",
+    "title": "Power Platform Developer Co-op",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "3a956aa3e7b94b2494755fcabbb06055",
+    "date_posted": 1762652780,
+    "company_url": "https://ca.linkedin.com/company/teck-resources-limited?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
   }
 ]
