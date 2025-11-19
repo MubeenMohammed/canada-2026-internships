@@ -10342,5 +10342,358 @@
     "date_posted": 1763421212,
     "company_url": "https://www.linkedin.com/company/doxim?trk=public_jobs_jserp-result_job-search-card-subtitle",
     "is_visible": true
+  },
+      {
+    "date_updated": 1763525440,
+    "url": "https://ca.linkedin.com/jobs/view/data-analytics-co-op-student-at-calgary-airports-4336647590?position=1&pageNum=0&refId=2Q4f%2FTAwzyFywXJ9JDcJhA%3D%3D&trackingId=CeAMr3e0v5V%2FKxVdS8RZJA%3D%3D",
+    "locations": [
+      "Calgary, Alberta, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Calgary Airports",
+    "title": "Data & Analytics Co-op Student",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "b6b65eb34f094b1aabd1ef03d869e182",
+    "date_posted": 1763525440,
+    "company_url": "https://ca.linkedin.com/company/calgary-airports?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
+  },{
+    "date_updated": 1763525440,
+    "url": "https://ca.linkedin.com/jobs/view/intern-qa-at-acumatica-4336804122?position=2&pageNum=0&refId=2Q4f%2FTAwzyFywXJ9JDcJhA%3D%3D&trackingId=d%2FTLmeTs8yb5sAAOO%2BTXMA%3D%3D",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Acumatica",
+    "title": "Intern QA",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "b67e349756ae4b4d8f44eaf344b9649a",
+    "date_posted": 1763525440,
+    "company_url": "https://www.linkedin.com/company/acumatica?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
+  },  {
+    "date_updated": 1763525440,
+    "url": "https://ca.linkedin.com/jobs/view/student-intern-data-warehouse-developer-at-celestica-4323271220?position=3&pageNum=0&refId=2Q4f%2FTAwzyFywXJ9JDcJhA%3D%3D&trackingId=vDTgFUAmY00Dg2IKzrCogQ%3D%3D",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Celestica",
+    "title": "Student Intern, Data Warehouse Developer",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "219d652a291e45de97d9d6d375b1901e",
+    "date_posted": 1763525440,
+    "company_url": "https://ca.linkedin.com/company/celestica?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
+  }, {
+    "date_updated": 1763525440,
+    "url": "https://ca.linkedin.com/jobs/view/analyst-intern-global-planning-contract-june-august-2026-at-lululemon-4341470212?position=6&pageNum=0&refId=2Q4f%2FTAwzyFywXJ9JDcJhA%3D%3D&trackingId=L5BCXny%2BIO9cPFucVMNoVA%3D%3D",
+    "locations": [
+      "Vancouver, British Columbia, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "lululemon",
+    "title": "Analyst Intern - Global Planning | Contract June-August 2026",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "dfbd261130614aa591b4dd3fedd29eb2",
+    "date_posted": 1763525440,
+    "company_url": "https://ca.linkedin.com/company/lululemon?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
+  },  {
+    "date_updated": 1763525440,
+    "url": "https://ca.linkedin.com/jobs/view/data-analyst-intern-hybrid-%E2%80%93-summer-2026-internship-at-motorola-solutions-4323260803?position=9&pageNum=0&refId=2Q4f%2FTAwzyFywXJ9JDcJhA%3D%3D&trackingId=KiwJ7SoI9yXDHkf3QMv8UQ%3D%3D",
+    "locations": [
+      "Vancouver, British Columbia, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Motorola Solutions",
+    "title": "Data Analyst Intern (Hybrid) – (Summer 2026 Internship)",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "265cb07afe744f4199243cf0ede44019",
+    "date_posted": 1763525440,
+    "company_url": "https://www.linkedin.com/company/motorolasolutions?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
+  },{
+    "date_updated": 1763525440,
+    "url": "https://ca.linkedin.com/jobs/view/software-engineering-intern-ai-automation-3-month-toronto-montreal-hybrid-at-midra-ai-4323142559?position=15&pageNum=0&refId=2Q4f%2FTAwzyFywXJ9JDcJhA%3D%3D&trackingId=TovNEZOcso6aqf9OPdgcWA%3D%3D",
+    "locations": [
+      "Greater Toronto Area, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Midra AI",
+    "title": "Software Engineering Intern (AI & Automation) - 3-Month, Toronto/Montreal (Hybrid)",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "40d476e23de94a28a5c894253eddd256",
+    "date_posted": 1763525440,
+    "company_url": "https://www.linkedin.com/company/midra-ai?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
+  },{
+    "date_updated": 1763525440,
+    "url": "https://ca.linkedin.com/jobs/view/product-development-intern-women-s-contract-june-august-2026-at-lululemon-4341129234?position=18&pageNum=0&refId=2Q4f%2FTAwzyFywXJ9JDcJhA%3D%3D&trackingId=5TOXPA1VGudHQdnqstIgOw%3D%3D",
+    "locations": [
+      "Vancouver, British Columbia, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "lululemon",
+    "title": "Product Development Intern - Women's | Contract June-August 2026",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "c826c416994e4984b3b45dc0ac1f9cfc",
+    "date_posted": 1763525440,
+    "company_url": "https://ca.linkedin.com/company/lululemon?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
+  }, {
+    "date_updated": 1763525440,
+    "url": "https://ca.linkedin.com/jobs/view/marketing-front-end-ai-co-op-spring-2026-at-revvity-signals-4323142171?position=21&pageNum=0&refId=2Q4f%2FTAwzyFywXJ9JDcJhA%3D%3D&trackingId=XReSPxwO5CLYai4%2FeHV2%2Fw%3D%3D",
+    "locations": [
+      "Ontario, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Revvity Signals",
+    "title": "Marketing Front-End AI Co-op (Spring 2026)",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "eaac1608db6e49e58d840dddb1b008c2",
+    "date_posted": 1763525440,
+    "company_url": "https://www.linkedin.com/company/revvity-signals?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
+  },{
+    "date_updated": 1763525440,
+    "url": "https://ca.linkedin.com/jobs/view/ai-engineer-co-op-winter-term-at-league-4336934396?position=24&pageNum=0&refId=2Q4f%2FTAwzyFywXJ9JDcJhA%3D%3D&trackingId=W%2BSgTcQJjN3PH7LE16uKXA%3D%3D",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "League",
+    "title": "AI Engineer (Co-op) - Winter Term",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "76fad53edb33432487bff64761868984",
+    "date_posted": 1763525440,
+    "company_url": "https://ca.linkedin.com/company/league-inc-?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
+  },{
+    "date_updated": 1763525440,
+    "url": "https://ca.linkedin.com/jobs/view/winter-2026-it-support-intern-at-cima%2B-4336648313?position=27&pageNum=0&refId=2Q4f%2FTAwzyFywXJ9JDcJhA%3D%3D&trackingId=hoYpGzX92YeKovdbaxpbSg%3D%3D",
+    "locations": [
+      "Guelph, Ontario, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "CIMA+",
+    "title": "Winter 2026 | IT Support Intern",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "d74fe19b963840848ea1b5028e35672f",
+    "date_posted": 1763525440,
+    "company_url": "https://ca.linkedin.com/company/cima-?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
+  }, {
+    "date_updated": 1763525440,
+    "url": "https://ca.linkedin.com/jobs/view/analytical-development-intern-8-month-co-op-internship-at-abcellera-4336895597?position=30&pageNum=0&refId=2Q4f%2FTAwzyFywXJ9JDcJhA%3D%3D&trackingId=wvGANVn4X2A9HeX0JhUgNA%3D%3D",
+    "locations": [
+      "Vancouver, British Columbia, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "AbCellera",
+    "title": "Analytical Development Intern (8-month Co-op/Internship)",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "71f2f0eb508c4d668e2691b356c92413",
+    "date_posted": 1763525440,
+    "company_url": "https://ca.linkedin.com/company/abcellera?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
+  },{
+    "date_updated": 1763525440,
+    "url": "https://ca.linkedin.com/jobs/view/android-engineering-intern-spring-2026-at-mercury-4340999222?position=38&pageNum=0&refId=2Q4f%2FTAwzyFywXJ9JDcJhA%3D%3D&trackingId=XnuzU4bU9jfnsMhxliPPBQ%3D%3D",
+    "locations": [
+      "Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Mercury",
+    "title": "Android Engineering Intern - Spring 2026",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "387871aea43c484d87ea4ec734af020c",
+    "date_posted": 1763525440,
+    "company_url": "https://www.linkedin.com/company/mercuryhq?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
+  }, {
+    "date_updated": 1763525440,
+    "url": "https://ca.linkedin.com/jobs/view/stagiaire-ii-at-td-4336902360?position=47&pageNum=0&refId=2Q4f%2FTAwzyFywXJ9JDcJhA%3D%3D&trackingId=p0ajOigblnvEg1oIgokCZg%3D%3D",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "TD",
+    "title": "Stagiaire II",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "b8a4e4ae92be46c0b030110811f857b1",
+    "date_posted": 1763525440,
+    "company_url": "https://ca.linkedin.com/company/td?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
+  },{
+    "date_updated": 1763525440,
+    "url": "https://ca.linkedin.com/jobs/view/technical-support-analyst-intern-hybrid-summer-2026-internship-at-motorola-solutions-4323300647?position=52&pageNum=0&refId=2Q4f%2FTAwzyFywXJ9JDcJhA%3D%3D&trackingId=3fmbxWoH6kYTpjCgna1%2F%2Bw%3D%3D",
+    "locations": [
+      "Vancouver, British Columbia, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Motorola Solutions",
+    "title": "Technical Support Analyst Intern (Hybrid) (Summer 2026 Internship)",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "a2510abd6d604a989e5afcba96a46c31",
+    "date_posted": 1763525440,
+    "company_url": "https://www.linkedin.com/company/motorolasolutions?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
+  }, {
+    "date_updated": 1763525440,
+    "url": "https://ca.linkedin.com/jobs/view/ai-innovation-intern-at-nuclear-promise-x-4336953940?position=1&pageNum=0&refId=%2Fe1SlDAPBRRPwY%2BY8ElAmw%3D%3D&trackingId=pZtrMxidnQ4Lyvmt5lg1GQ%3D%3D",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Nuclear Promise X",
+    "title": "AI Innovation Intern",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "d33287d0d86e4385bb2b2e729cefa88b",
+    "date_posted": 1763525440,
+    "company_url": "https://ca.linkedin.com/company/npxinnovation?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
+  },{
+    "date_updated": 1763525440,
+    "url": "https://ca.linkedin.com/jobs/view/software-engineering-intern-full-stack-at-deep-genomics-4337011106?position=5&pageNum=0&refId=%2Fe1SlDAPBRRPwY%2BY8ElAmw%3D%3D&trackingId=c3IfwU1HucrwJzJkuB%2FTig%3D%3D",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Deep Genomics",
+    "title": "Software Engineering Intern (Full Stack)",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "04193b68f55d454e8797cc430553dd2f",
+    "date_posted": 1763525440,
+    "company_url": "https://ca.linkedin.com/company/deep-genomics?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
+  },{
+    "date_updated": 1763525440,
+    "url": "https://ca.linkedin.com/jobs/view/data-analytics-development-at-standardaero-4323092384?position=20&pageNum=0&refId=%2Fe1SlDAPBRRPwY%2BY8ElAmw%3D%3D&trackingId=OEfoE%2FJ%2FXfOhlntWr%2Bw12g%3D%3D",
+    "locations": [
+      "Greater St. John's Metropolitan Area"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "StandardAero",
+    "title": "Data Analytics Development",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "0538c49b39c94933a3d9806f6f169e5e",
+    "date_posted": 1763525440,
+    "company_url": "https://www.linkedin.com/company/standardaero?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
+  },{
+    "date_updated": 1763525440,
+    "url": "https://ca.linkedin.com/jobs/view/data-analyst-co-op-en-at-guillevin-4340978987?position=3&pageNum=0&refId=SlbtMBY49ohhHFasx5BBCQ%3D%3D&trackingId=Go5g5l2P5JdBGo7NZIwCMQ%3D%3D",
+    "locations": [
+      "Concord, Ontario, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Guillevin",
+    "title": "Data Analyst Co-op-EN",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "3104b360b1bf491e90fe350b078b46c5",
+    "date_posted": 1763525440,
+    "company_url": "https://ca.linkedin.com/company/guillevin-cie?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
+  },  {
+    "date_updated": 1763525440,
+    "url": "https://ca.linkedin.com/jobs/view/data-analyst-co-op-fr-at-guillevin-4341139125?position=6&pageNum=0&refId=SlbtMBY49ohhHFasx5BBCQ%3D%3D&trackingId=og4PzhiIJLG6eaNf7cXhLQ%3D%3D",
+    "locations": [
+      "Concord, Ontario, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Guillevin",
+    "title": "Data Analyst Co-op-FR",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "6db745ad06aa486cafcd7c42674e4862",
+    "date_posted": 1763525440,
+    "company_url": "https://ca.linkedin.com/company/guillevin-cie?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
+  }, {
+    "date_updated": 1763525440,
+    "url": "https://ca.linkedin.com/jobs/view/software-engineer-co-op-at-motorola-solutions-4323340608?position=8&pageNum=0&refId=SlbtMBY49ohhHFasx5BBCQ%3D%3D&trackingId=LqpXRf%2F7j1lGjRbIctTyfw%3D%3D",
+    "locations": [
+      "Gatineau, Quebec, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Motorola Solutions",
+    "title": "Software Engineer Co-op",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "9478d6270f1349f4809676feed3d4099",
+    "date_posted": 1763525440,
+    "company_url": "https://www.linkedin.com/company/motorolasolutions?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
+  },{
+    "date_updated": 1763525440,
+    "url": "https://ca.linkedin.com/jobs/view/scm-data-management-analyst-co-op-at-keyera-4323391896?position=12&pageNum=0&refId=SlbtMBY49ohhHFasx5BBCQ%3D%3D&trackingId=zd5Tmsi%2B3phu9LETvq135w%3D%3D",
+    "locations": [
+      "Calgary, Alberta, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Keyera",
+    "title": "SCM Data Management Analyst - Co-op",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "abf3439245604007b34c36d526156571",
+    "date_posted": 1763525440,
+    "company_url": "https://ca.linkedin.com/company/keyera?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
+  }, {
+    "date_updated": 1763525440,
+    "url": "https://ca.linkedin.com/jobs/view/software-platform-test-engineer-co-op-winter-2026-at-ciena-4323165346?position=34&pageNum=0&refId=SlbtMBY49ohhHFasx5BBCQ%3D%3D&trackingId=U%2Bipxjkd7Z6uMWayxxpcBA%3D%3D",
+    "locations": [
+      "Ottawa, Ontario, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Ciena",
+    "title": "Software Platform Test Engineer Co-op - Winter 2026",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "d6f22f3649a74a1aad18c57b2f6ee2b3",
+    "date_posted": 1763525440,
+    "company_url": "https://www.linkedin.com/company/ciena?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
   }
 ]
