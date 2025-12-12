@@ -13211,5 +13211,87 @@
     "date_posted": 1765404620,
     "company_url": "https://de.linkedin.com/company/siemens?trk=public_jobs_jserp-result_job-search-card-subtitle",
     "is_visible": true
+  },
+      {
+    "date_updated": 1765498610,
+    "url": "https://ca.linkedin.com/jobs/view/data-analyst-training-and-internship-program-at-ededge-groups-4349616795?position=6&pageNum=0&refId=NHwJEsZ5MzHr5gqh%2BaKsQA%3D%3D&trackingId=vCHsbsTQugVEta8mFx6gRQ%3D%3D",
+    "locations": [
+      "Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Ededge Groups",
+    "title": "Data Analyst Training and Internship Program",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "5ff7624926f44656a808ad2a3905aae8",
+    "date_posted": 1765498610,
+    "company_url": "https://in.linkedin.com/company/ededgegroups?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
+  }, {
+    "date_updated": 1765498610,
+    "url": "https://ca.linkedin.com/jobs/view/data-analyst-intern-at-give-and-go-prepared-foods-4343192958?position=1&pageNum=0&refId=JoqNqblm%2Bj%2B%2FCwF8F2OYLw%3D%3D&trackingId=MV8uGPgj53Df4ljhhPF5hA%3D%3D",
+    "locations": [
+      "Etobicoke, Ontario, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Give and Go Prepared Foods",
+    "title": "Data Analyst Intern",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "8554829d97bd4d029bdfd848215ebcf5",
+    "date_posted": 1765498610,
+    "company_url": "https://ca.linkedin.com/company/give-and-go?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
+  }, {
+    "date_updated": 1765498610,
+    "url": "https://ca.linkedin.com/jobs/view/automation-engineering-intern-at-give-and-go-prepared-foods-4343232817?position=13&pageNum=0&refId=JoqNqblm%2Bj%2B%2FCwF8F2OYLw%3D%3D&trackingId=8a3XwZzm6kIhCTef5w%2FaXg%3D%3D",
+    "locations": [
+      "Etobicoke, Ontario, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Give and Go Prepared Foods",
+    "title": "Automation Engineering Intern",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "75e8ae83ff6d469fa7fb933cd19c5b8a",
+    "date_posted": 1765498610,
+    "company_url": "https://ca.linkedin.com/company/give-and-go?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1765498610,
+    "url": "https://ca.linkedin.com/jobs/view/ai-ml-engineer-co-op-at-motorola-solutions-4326787142?position=14&pageNum=0&refId=JoqNqblm%2Bj%2B%2FCwF8F2OYLw%3D%3D&trackingId=0%2BBGLyjzMvfxvch1iZeRdQ%3D%3D",
+    "locations": [
+      "Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Motorola Solutions",
+    "title": "AI/ML Engineer Co-Op",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "3b16f4165a62469081d1205e3b0529d1",
+    "date_posted": 1765498610,
+    "company_url": "https://www.linkedin.com/company/motorolasolutions?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
+  },  {
+    "date_updated": 1765498610,
+    "url": "https://ca.linkedin.com/jobs/view/ai-engineer-at-ultrassure-4326684459?position=32&pageNum=0&refId=JoqNqblm%2Bj%2B%2FCwF8F2OYLw%3D%3D&trackingId=Tmd0uEWVMYCQjmAD7n9QCQ%3D%3D",
+    "locations": [
+      "Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Ultrassure",
+    "title": "AI Engineer",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "f343be56b67e43078615574dbdeb3fdc",
+    "date_posted": 1765498610,
+    "company_url": "https://ca.linkedin.com/company/ultrassure?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
   }
 ]
