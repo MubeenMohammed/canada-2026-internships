@@ -13293,5 +13293,54 @@
     "date_posted": 1765498610,
     "company_url": "https://ca.linkedin.com/company/ultrassure?trk=public_jobs_jserp-result_job-search-card-subtitle",
     "is_visible": true
+  },
+       {
+    "date_updated": 1765589656,
+    "url": "https://ca.linkedin.com/jobs/view/ai-centre-operations-intern-at-ai-centre-for-decision-analytics-ai4da-4326960146?position=51&pageNum=0&refId=jfId%2F9JQPBcRjovrhLDDsA%3D%3D&trackingId=oGKPVP1rpyL23Je1jh2u0w%3D%3D",
+    "locations": [
+      "Edmonton, Alberta, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "AI Centre for Decision Analytics (AI4DA)",
+    "title": "AI Centre Operations Intern",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "09b23d903cf04ad192d032c8dfd9c9a9",
+    "date_posted": 1765589656,
+    "company_url": "https://ca.linkedin.com/company/ai-centre-for-decision-analytics?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
+  }, {
+    "date_updated": 1765589656,
+    "url": "https://ca.linkedin.com/jobs/view/software-engineer-coop-at-dialpad-japan-4327274327?position=1&pageNum=0&refId=uYgqorK4IsbTzqlJ6U8iEQ%3D%3D&trackingId=sdoJuu6b1meiM5Iu4%2BeHBQ%3D%3D",
+    "locations": [
+      "Vancouver, British Columbia, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Dialpad Japan",
+    "title": "Software Engineer Coop",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "20fdddd7ad32406497a2253552e44ff8",
+    "date_posted": 1765589656,
+    "company_url": "https://jp.linkedin.com/company/dialpad-japan?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
+  }, {
+    "date_updated": 1765589656,
+    "url": "https://ca.linkedin.com/jobs/view/software-engineer-co-op-at-constant-contact-4327293714?position=2&pageNum=0&refId=2a4xYgvOO1pNiFa75k44BA%3D%3D&trackingId=YZBPPILvNymsIQIOzlzTTg%3D%3D",
+    "locations": [
+      "Waterloo, Ontario, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Constant Contact",
+    "title": "Software Engineer Co-op",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "a41b8ab6ba77401cadfb05e4ce715a46",
+    "date_posted": 1765589656,
+    "company_url": "https://www.linkedin.com/company/constant-contact?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
   }
 ]
