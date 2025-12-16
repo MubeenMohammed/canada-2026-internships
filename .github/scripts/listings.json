@@ -13342,5 +13342,54 @@
     "date_posted": 1765589656,
     "company_url": "https://www.linkedin.com/company/constant-contact?trk=public_jobs_jserp-result_job-search-card-subtitle",
     "is_visible": true
+  },
+      {
+    "date_updated": 1765861847,
+    "url": "https://ca.linkedin.com/jobs/view/software-engineer-intern-summer-2026-at-ripple-4327626921?position=2&pageNum=0&refId=4xa%2Bv0MWQQO1VE4M3w034Q%3D%3D&trackingId=NtDZKkd3P2pEnDmsjv%2BcRQ%3D%3D",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Ripple",
+    "title": "Software Engineer Intern (Summer 2026)",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "06fe2c23a1674cb2b02ec0bc05d11338",
+    "date_posted": 1765861847,
+    "company_url": "https://www.linkedin.com/company/ripple?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
+  }, {
+    "date_updated": 1765861847,
+    "url": "https://ca.linkedin.com/jobs/view/software-engineer-intern-ripplex-platform-summer-2026-at-ripple-4327675953?position=3&pageNum=0&refId=llMJqvcP8NIFe3iVONLosQ%3D%3D&trackingId=SjII8DYViLV0YxOp3yO%2B5g%3D%3D",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Ripple",
+    "title": "Software Engineer Intern, RippleX Platform (Summer 2026)",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "3f0f56568a5c4252a94da85807ab8d98",
+    "date_posted": 1765861847,
+    "company_url": "https://www.linkedin.com/company/ripple?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
+  },{
+    "date_updated": 1765861847,
+    "url": "https://ca.linkedin.com/jobs/view/co-op-student-data-analyst-at-city-of-mississauga-4343719404?position=1&pageNum=0&refId=z023CjmubFNvGr6Ve0ZaAg%3D%3D&trackingId=GxFkjPztmrI1tT3wezvkCQ%3D%3D",
+    "locations": [
+      "Mississauga, Ontario, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "City of Mississauga",
+    "title": "Co-Op Student - Data Analyst",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "b8ba2ba0e8f94ae59fda07097e38bf72",
+    "date_posted": 1765861847,
+    "company_url": "https://ca.linkedin.com/company/city-of-mississauga?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
   }
 ]
