@@ -13391,5 +13391,54 @@
     "date_posted": 1765861847,
     "company_url": "https://ca.linkedin.com/company/city-of-mississauga?trk=public_jobs_jserp-result_job-search-card-subtitle",
     "is_visible": true
+  },
+       {
+    "date_updated": 1765947358,
+    "url": "https://ca.linkedin.com/jobs/view/software-development-intern-at-calian-group-4344025623?position=2&pageNum=0&refId=MwjGvY6SMlo2Zc3Ao3RdBA%3D%3D&trackingId=NGcvHy3LPemwshsJkRJN0A%3D%3D",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Calian Group",
+    "title": "Software Development Intern",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "4af6d38ced954a85a3b56448ea578423",
+    "date_posted": 1765947358,
+    "company_url": "https://ca.linkedin.com/company/calian?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
+  },{
+    "date_updated": 1765947358,
+    "url": "https://ca.linkedin.com/jobs/view/co-op-software-engineer-backend-at-dialpad-japan-4344035558?position=1&pageNum=0&refId=5qVAuvWy9MSoc2cI9JXIPw%3D%3D&trackingId=dl5o%2FFkXB5KwhqdS%2B260WQ%3D%3D",
+    "locations": [
+      "Vancouver, British Columbia, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Dialpad Japan",
+    "title": "Co-op Software Engineer, Backend",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "c5265870a3974acbb4897d9691de5a0d",
+    "date_posted": 1765947358,
+    "company_url": "https://jp.linkedin.com/company/dialpad-japan?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
+  }, {
+    "date_updated": 1765947358,
+    "url": "https://ca.linkedin.com/jobs/view/co-op-software-engineer-fullstack-at-dialpad-japan-4343887709?position=2&pageNum=0&refId=5qVAuvWy9MSoc2cI9JXIPw%3D%3D&trackingId=ZJpRLP8nw0l7mV%2BL%2FPQsAg%3D%3D",
+    "locations": [
+      "Vancouver, British Columbia, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Dialpad Japan",
+    "title": "Co-op Software Engineer, Fullstack",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "d71b2de30758408ab2787aa3c5d8769c",
+    "date_posted": 1765947358,
+    "company_url": "https://jp.linkedin.com/company/dialpad-japan?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
   }
 ]
