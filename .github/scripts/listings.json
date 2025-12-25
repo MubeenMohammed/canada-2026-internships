@@ -13440,5 +13440,55 @@
     "date_posted": 1765947358,
     "company_url": "https://jp.linkedin.com/company/dialpad-japan?trk=public_jobs_jserp-result_job-search-card-subtitle",
     "is_visible": true
+  },
+      {
+    "date_updated": 1766696979,
+    "url": "https://ca.linkedin.com/jobs/view/ai-data-science-intern-remote-part-time-at-ai-future-leaders-inc-4329138041?position=6&pageNum=0&refId=2dxh9Sbp3TaGCsAYVx2dFw%3D%3D&trackingId=zjNZdKc%2BmW43KyrRL7UskQ%3D%3D",
+    "locations": [
+      "Ontario, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "AI Future Leaders Inc",
+    "title": "AI / Data Science Intern (Remote, Part-Time)",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "675840b1f9d1416995f7839fd70c5d82",
+    "date_posted": 1766696979,
+    "company_url": "https://ca.linkedin.com/company/ai-future-leaders?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
+  },
+    {
+    "date_updated": 1766696979,
+    "url": "https://ca.linkedin.com/jobs/view/ai-ml-intern-in-design-automation-at-altera-4329227339?position=8&pageNum=0&refId=2dxh9Sbp3TaGCsAYVx2dFw%3D%3D&trackingId=6VYq6WanCb0ngNirBWY8kQ%3D%3D",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Altera",
+    "title": "AI/ML Intern in Design Automation",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "a747528b297648119ac7887a5ed4e2e1",
+    "date_posted": 1766696979,
+    "company_url": "https://www.linkedin.com/company/altera-fpga?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
+  }, {
+    "date_updated": 1766696979,
+    "url": "https://ca.linkedin.com/jobs/view/ml-intern-research-at-recursion-4341794806?position=1&pageNum=2&refId=hqfr2pBGavAH0eBPq25QFw%3D%3D&trackingId=kXZlo7wIIHMSeRlnR5NWxA%3D%3D",
+    "locations": [
+      "Montréal-Ouest, Quebec, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Recursion",
+    "title": "ML Intern, Research",
+    "season": "Winter",
+    "source": "MubeenMohammed",
+    "id": "ff72dfb4c72342cfa69d66a9d545610f",
+    "date_posted": 1766696979,
+    "company_url": "https://www.linkedin.com/company/recursion-pharmaceuticals?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "is_visible": true
   }
 ]
