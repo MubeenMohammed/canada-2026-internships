@@ -13540,5 +13540,134 @@
     "date_posted": 1766796600,
     "company_url": "https://www.linkedin.com/company/lenovo?trk=public_jobs_jserp-result_job-search-card-subtitle",
     "is_visible": true
+  },
+      {
+    "date_updated": 1767487161,
+    "url": "https://ca.linkedin.com/jobs/view/project-management-intern-at-hireshire-4350979189",
+    "locations": [
+      "Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Hireshire",
+    "title": "Project Management Intern",
+    "source": "linkedin_scraper",
+    "id": "b72dfbde-0953-4536-b03c-5fc1afb19928",
+    "date_posted": 1767487161,
+    "company_url": "https://www.linkedin.com/company/hireshire",
+    "is_visible": true
+  },{
+    "date_updated": 1767487238,
+    "url": "https://ca.linkedin.com/jobs/view/intern-technical-at-ss-c-technologies-4346998532",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "SS&C Technologies",
+    "title": "Intern - Technical",
+    "source": "linkedin_scraper",
+    "id": "fbbe0cda-b9c4-4b18-9bc2-2b3fd2ee80a7",
+    "date_posted": 1767487238,
+    "company_url": "https://www.linkedin.com/company/ss-c-technologies",
+    "is_visible": true
+  }, {
+    "date_updated": 1767487238,
+    "url": "https://ca.linkedin.com/jobs/view/gta-office-opportunities-in-cyber-security-intern-co-op-summer-2026-at-kpmg-canada-4349852328",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "KPMG Canada",
+    "title": "GTA Office - Opportunities in Cyber Security - Intern/Co-op - Summer 2026",
+    "source": "linkedin_scraper",
+    "id": "0b302372-3785-4416-b26c-8b018747b3a4",
+    "date_posted": 1767487238,
+    "company_url": "https://ca.linkedin.com/company/kpmg-canada",
+    "is_visible": true
+  }, {
+    "date_updated": 1767487238,
+    "url": "https://ca.linkedin.com/jobs/view/2026-summer-grm-data-analyst-intern-4-months-at-rbc-4343295078",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "RBC",
+    "title": "2026 Summer - GRM, Data Analyst Intern (4 Months)",
+    "source": "linkedin_scraper",
+    "id": "9127666d-bb9b-4fca-a784-7f2b65c50997",
+    "date_posted": 1767487238,
+    "company_url": "https://ca.linkedin.com/company/rbc",
+    "is_visible": true
+  },{
+    "date_updated": 1767487263,
+    "url": "https://ca.linkedin.com/jobs/view/2026-summer-grm-ai-innovation-developer-intern-4-months-at-rbc-4343463873",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "RBC",
+    "title": "2026 Summer - GRM, AI Innovation Developer Intern (4 Months)",
+    "source": "linkedin_scraper",
+    "id": "f7c1083b-4a08-4bf6-a93e-71b9443e63d1",
+    "date_posted": 1767487263,
+    "company_url": "https://ca.linkedin.com/company/rbc",
+    "is_visible": true
+  }, {
+    "date_updated": 1767487276,
+    "url": "https://ca.linkedin.com/jobs/view/summer-intern-2026-cybersecurity-at-ig-wealth-management-4343486255",
+    "locations": [
+      "Manitoba, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "IG Wealth Management",
+    "title": "Summer Intern 2026 - Cybersecurity",
+    "source": "linkedin_scraper",
+    "id": "ed998d2d-831c-4208-9a25-758b3b25098d",
+    "date_posted": 1767487276,
+    "company_url": "https://ca.linkedin.com/company/igwealthmanagement",
+    "is_visible": true
+  }, {
+    "date_updated": 1767487276,
+    "url": "https://ca.linkedin.com/jobs/view/ai-ui-ux-designer-intern-ai-ml-gen-ai-design-development-at-product-manager-accelerator-4354312872",
+    "locations": [
+      "Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Product Manager Accelerator",
+    "title": "AI UI/UX Designer Intern - AI ML/Gen AI Design & Development",
+    "source": "linkedin_scraper",
+    "id": "a8ee0e7c-a784-4fa0-8dbb-2e4a9eee2ea6",
+    "date_posted": 1767487276,
+    "company_url": "https://www.linkedin.com/school/pmaccelerator/",
+    "is_visible": true
+  },{
+    "date_updated": 1767487355,
+    "url": "https://ca.linkedin.com/jobs/view/security-software-developer-co-op-intern-at-nokia-4349678831",
+    "locations": [
+      "Kanata, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Nokia",
+    "title": "Security Software Developer Co-Op/Intern",
+    "source": "linkedin_scraper",
+    "id": "77ce3358-acfd-4a34-a74b-2c0eb0804f65",
+    "date_posted": 1767487355,
+    "company_url": "https://fi.linkedin.com/company/nokia",
+    "is_visible": true
   }
 ]
