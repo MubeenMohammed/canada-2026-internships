@@ -13669,5 +13669,439 @@
     "date_posted": 1767487355,
     "company_url": "https://fi.linkedin.com/company/nokia",
     "is_visible": true
+  },
+       {
+    "date_updated": 1767655280,
+    "url": "https://ca.linkedin.com/jobs/view/software-engineer-intern-at-electronic-arts-ea-4351147054",
+    "locations": [
+      "Vancouver, British Columbia, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Electronic Arts (EA)",
+    "title": "Software Engineer Intern",
+    "source": "linkedin_scraper",
+    "id": "b301de1d-13fa-4fd8-bff3-d46acb2e8440",
+    "date_posted": 1767655280,
+    "company_url": "https://www.linkedin.com/company/electronic-arts",
+    "is_visible": true
+  }, {
+    "date_updated": 1767655280,
+    "url": "https://ca.linkedin.com/jobs/view/business-insights-analytics-intern-co-op-summer-2026-at-td-4354606531",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "TD",
+    "title": "Business Insights & Analytics Intern/Co-op ( Summer 2026 )",
+    "source": "linkedin_scraper",
+    "id": "fc174711-cea2-4d73-9546-011ae44bd43e",
+    "date_posted": 1767655280,
+    "company_url": "https://ca.linkedin.com/company/td",
+    "is_visible": true
+  },{
+    "date_updated": 1767655280,
+    "url": "https://ca.linkedin.com/jobs/view/data-engineering-intern-at-electronic-arts-ea-4351166954",
+    "locations": [
+      "Vancouver, British Columbia, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Electronic Arts (EA)",
+    "title": "Data Engineering Intern",
+    "source": "linkedin_scraper",
+    "id": "04c9c64e-77d4-4669-812e-98a7bf0c3d5f",
+    "date_posted": 1767655280,
+    "company_url": "https://www.linkedin.com/company/electronic-arts",
+    "is_visible": true
+  }, {
+    "date_updated": 1767655280,
+    "url": "https://ca.linkedin.com/jobs/view/software-developer-intern-at-drw-4354660803",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "DRW",
+    "title": "Software Developer Intern",
+    "source": "linkedin_scraper",
+    "id": "bc8b2b47-601d-4213-9abf-bb03d0292be3",
+    "date_posted": 1767655280,
+    "company_url": "https://www.linkedin.com/company/drw",
+    "is_visible": true
+  }, {
+    "date_updated": 1767655280,
+    "url": "https://ca.linkedin.com/jobs/view/user-experience-researcher-intern-at-electronic-arts-ea-4351127179",
+    "locations": [
+      "Vancouver, British Columbia, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Electronic Arts (EA)",
+    "title": "User Experience Researcher Intern",
+    "source": "linkedin_scraper",
+    "id": "9c5734d8-6dfb-4a39-a3d0-d15903eeb0b1",
+    "date_posted": 1767655280,
+    "company_url": "https://www.linkedin.com/company/electronic-arts",
+    "is_visible": true
+  }, {
+    "date_updated": 1767655293,
+    "url": "https://ca.linkedin.com/jobs/view/associate-machine-learning-developer-summer-2026-at-altaml-4354672224",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "AltaML",
+    "title": "Associate Machine Learning Developer (Summer 2026)",
+    "source": "linkedin_scraper",
+    "id": "7ebe1ae0-b5b5-430e-a5df-aa8a3ab14e51",
+    "date_posted": 1767655293,
+    "company_url": "https://ca.linkedin.com/company/altaml",
+    "is_visible": true
+  }, {
+    "date_updated": 1767655293,
+    "url": "https://ca.linkedin.com/jobs/view/ai-ml-intern-in-design-automation-at-altera-4354681911",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Altera",
+    "title": "AI/ML Intern in Design Automation",
+    "source": "linkedin_scraper",
+    "id": "95e758dc-2f8f-4f52-88c5-66b9aabdb8de",
+    "date_posted": 1767655293,
+    "company_url": "https://www.linkedin.com/company/altera-fpga",
+    "is_visible": true
+  }, {
+    "date_updated": 1767655312,
+    "url": "https://ca.linkedin.com/jobs/view/summer-2026-artificial-intelligence-intern-at-cima%2B-4358250026",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "CIMA+",
+    "title": "Summer 2026 - Artificial Intelligence Intern",
+    "source": "linkedin_scraper",
+    "id": "75ea6f98-95e5-417b-b9e0-47c174cdee27",
+    "date_posted": 1767655312,
+    "company_url": "https://ca.linkedin.com/company/cima-",
+    "is_visible": true
+  }, {
+    "date_updated": 1767655356,
+    "url": "https://ca.linkedin.com/jobs/view/data-analyst-intern-at-ericsson-4330401151",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Ericsson",
+    "title": "Data Analyst intern",
+    "source": "linkedin_scraper",
+    "id": "39b293e4-e6d0-420b-8cdb-34d5e0cc9cfe",
+    "date_posted": 1767655356,
+    "company_url": "https://se.linkedin.com/company/ericsson",
+    "is_visible": true
+  }, {
+    "date_updated": 1767655356,
+    "url": "https://ca.linkedin.com/jobs/view/software-development-intern-temporary-at-curve-dental-4349379980",
+    "locations": [
+      "Alberta, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Curve Dental",
+    "title": "Software Development Intern (Temporary)",
+    "source": "linkedin_scraper",
+    "id": "bc06fbb3-d349-4a63-9c17-d64002b0fc41",
+    "date_posted": 1767655356,
+    "company_url": "https://www.linkedin.com/company/curve-dental-inc.",
+    "is_visible": true
+  },{
+    "date_updated": 1767655356,
+    "url": "https://ca.linkedin.com/jobs/view/co-op-or-intern-full-stack-developer-may-2026-at-bdo-canada-4354651770",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "BDO Canada",
+    "title": "Co-op or Intern, Full-Stack Developer (May 2026)",
+    "source": "linkedin_scraper",
+    "id": "5fafd16c-47b3-4824-bc6a-5946d295785e",
+    "date_posted": 1767655356,
+    "company_url": "https://ca.linkedin.com/company/bdo-canada",
+    "is_visible": true
+  }, {
+    "date_updated": 1767655378,
+    "url": "https://ca.linkedin.com/jobs/view/co-op-or-intern-data-analytics-may-2026-at-bdo-canada-4358120252",
+    "locations": [
+      "Vancouver, British Columbia, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "BDO Canada",
+    "title": "Co-op or Intern, Data & Analytics (May 2026)",
+    "source": "linkedin_scraper",
+    "id": "fbb28bde-71e6-4ed6-9a6e-ace787852215",
+    "date_posted": 1767655378,
+    "company_url": "https://ca.linkedin.com/company/bdo-canada",
+    "is_visible": true
+  }, {
+    "date_updated": 1767655378,
+    "url": "https://ca.linkedin.com/jobs/view/ai-automation-intern-hybrid-toronto-at-opentable-4330540569",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "OpenTable",
+    "title": "AI Automation Intern (Hybrid, Toronto)",
+    "source": "linkedin_scraper",
+    "id": "1764f33f-24cf-4aeb-9009-5548b2dab6b9",
+    "date_posted": 1767655378,
+    "company_url": "https://www.linkedin.com/company/opentable",
+    "is_visible": true
+  }, {
+    "date_updated": 1767655378,
+    "url": "https://ca.linkedin.com/jobs/view/ai-ml-research-intern-at-drw-4354387943",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "DRW",
+    "title": "AI/ML Research Intern",
+    "source": "linkedin_scraper",
+    "id": "1e6540c7-2513-45f4-8ad8-d3c140b71145",
+    "date_posted": 1767655378,
+    "company_url": "https://www.linkedin.com/company/drw",
+    "is_visible": true
+  }, {
+    "date_updated": 1767655378,
+    "url": "https://ca.linkedin.com/jobs/view/intern-product-data-engineering-may-2026-16-months-at-ontario-teachers-%E2%80%8B-pension-plan-4354601883",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Ontario Teachers' Pension Plan",
+    "title": "Intern - Product & Data Engineering (May 2026 - 16 months)",
+    "source": "linkedin_scraper",
+    "id": "cc6a4b4d-e758-45ef-bf7f-33d729b99da3",
+    "date_posted": 1767655378,
+    "company_url": "https://ca.linkedin.com/company/otpp",
+    "is_visible": true
+  }, {
+    "date_updated": 1767655393,
+    "url": "https://ca.linkedin.com/jobs/view/co-op-or-intern-devops-engineer-may-2026-at-bdo-canada-4354651773",
+    "locations": [
+      "Oakville, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "BDO Canada",
+    "title": "Co-op or Intern, DevOps Engineer (May 2026)",
+    "source": "linkedin_scraper",
+    "id": "376589b8-2167-418d-8110-eeb8e9cd1b82",
+    "date_posted": 1767655393,
+    "company_url": "https://ca.linkedin.com/company/bdo-canada",
+    "is_visible": true
+  },{
+    "date_updated": 1767655414,
+    "url": "https://ca.linkedin.com/jobs/view/2026-intern-analytical-data-science-at-roche-4354354352",
+    "locations": [
+      "Mississauga, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Roche",
+    "title": "2026 Intern - Analytical Data Science",
+    "source": "linkedin_scraper",
+    "id": "e513d465-150a-49c7-b1c8-bda7238e2249",
+    "date_posted": 1767655414,
+    "company_url": "https://ch.linkedin.com/company/roche",
+    "is_visible": true
+  }, {
+    "date_updated": 1767655414,
+    "url": "https://ca.linkedin.com/jobs/view/co-op-or-intern-cyber-cloud-security-may-2026-at-bdo-canada-4354359472",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "BDO Canada",
+    "title": "Co-op or Intern, Cyber Cloud Security (May 2026)",
+    "source": "linkedin_scraper",
+    "id": "92c42818-e184-46ed-aa07-8016a23be5cb",
+    "date_posted": 1767655414,
+    "company_url": "https://ca.linkedin.com/company/bdo-canada",
+    "is_visible": true
+  }, {
+    "date_updated": 1767655434,
+    "url": "https://ca.linkedin.com/jobs/view/2026-summer-student-analyst-at-rbc-4354537874",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "RBC",
+    "title": "2026 Summer Student - Analyst",
+    "source": "linkedin_scraper",
+    "id": "9ff0bb8d-f384-43ad-bfed-9cc669848ac1",
+    "date_posted": 1767655434,
+    "company_url": "https://ca.linkedin.com/company/rbc",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1767655434,
+    "url": "https://ca.linkedin.com/jobs/view/2026-summer-student-analyst-4-months-at-rbc-4354596795",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "RBC",
+    "title": "2026 Summer Student - Analyst (4 months)",
+    "source": "linkedin_scraper",
+    "id": "65e6fd56-c0d6-4887-bdb7-d6fe3098edb5",
+    "date_posted": 1767655434,
+    "company_url": "https://ca.linkedin.com/company/rbc",
+    "is_visible": true
+  },{
+    "date_updated": 1767655490,
+    "url": "https://ca.linkedin.com/jobs/view/university-co-op-student-data-scientist-12-months-toronto-summer-2026-at-hydro-one-4330253301",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Hydro One",
+    "title": "University Co-Op Student-Data Scientist-12 Months, Toronto, Summer 2026",
+    "source": "linkedin_scraper",
+    "id": "e5bfc44d-c4dd-4f20-a40a-0ff08e4b6145",
+    "date_posted": 1767655490,
+    "company_url": "https://ca.linkedin.com/company/hydro-one",
+    "is_visible": true
+  }, {
+    "date_updated": 1767655490,
+    "url": "https://ca.linkedin.com/jobs/view/university-co-op-student-it-operations-business-analyst-8-months-toronto-summer-2026-at-hydro-one-4330281371",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Hydro One",
+    "title": "University Co-Op Student - IT Operations - Business Analyst - 8 Months - Toronto - Summer 2026",
+    "source": "linkedin_scraper",
+    "id": "f7eb9bf8-c153-4579-8124-db5053eb6596",
+    "date_posted": 1767655490,
+    "company_url": "https://ca.linkedin.com/company/hydro-one",
+    "is_visible": true
+  },  {
+    "date_updated": 1767655490,
+    "url": "https://ca.linkedin.com/jobs/view/co-op-software-developer-real-time-operating-system-at-huawei-canada-4354517820",
+    "locations": [
+      "Ottawa, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Huawei Canada",
+    "title": "Co-op Software Developer - Real-Time Operating System",
+    "source": "linkedin_scraper",
+    "id": "fb9171b6-c5f3-4527-868d-c3cf473da4f7",
+    "date_posted": 1767655490,
+    "company_url": "https://ca.linkedin.com/company/huawei-technologies-canada-co-ltd",
+    "is_visible": true
+  }, {
+    "date_updated": 1767655505,
+    "url": "https://ca.linkedin.com/jobs/view/university-co-op-student-technology-reporting-business-analyst-12-months-toronto-may-2026-at-hydro-one-4330105777",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Hydro One",
+    "title": "University Co-Op Student - Technology Reporting Business Analyst - 12 Months - Toronto - May 2026",
+    "source": "linkedin_scraper",
+    "id": "3a27f52b-d547-420b-b564-01a547c3b406",
+    "date_posted": 1767655505,
+    "company_url": "https://ca.linkedin.com/company/hydro-one",
+    "is_visible": true
+  }, {
+    "date_updated": 1767655505,
+    "url": "https://ca.linkedin.com/jobs/view/student-data-management-and-governance-hybrid-at-alberta-energy-regulator-aer-4354621211",
+    "locations": [
+      "Calgary, Alberta, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Alberta Energy Regulator (AER)",
+    "title": "Student, Data Management and Governance - Hybrid",
+    "source": "linkedin_scraper",
+    "id": "0ae40a9b-0483-4fde-bdd3-33db45af4aba",
+    "date_posted": 1767655505,
+    "company_url": "https://ca.linkedin.com/company/alberta-energy-regulator",
+    "is_visible": true
+  }, {
+    "date_updated": 1767655505,
+    "url": "https://ca.linkedin.com/jobs/view/co-op-or-intern-cloud-analyst-may-2026-at-bdo-canada-4354661416",
+    "locations": [
+      "Oakville, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "BDO Canada",
+    "title": "Co-op or Intern, Cloud Analyst (May 2026)",
+    "source": "linkedin_scraper",
+    "id": "0707da08-2795-43b7-8d16-07e1f72df7c5",
+    "date_posted": 1767655505,
+    "company_url": "https://ca.linkedin.com/company/bdo-canada",
+    "is_visible": true
+  }, {
+    "date_updated": 1767655526,
+    "url": "https://ca.linkedin.com/jobs/view/university-co-op-student-security-analyst-12-months-markham-may-2026-at-hydro-one-4330105778",
+    "locations": [
+      "Markham, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Hydro One",
+    "title": "University Co-Op Student-Security Analyst, 12 months, Markham, May 2026",
+    "source": "linkedin_scraper",
+    "id": "98507381-9434-48af-b590-c05a43e96a3e",
+    "date_posted": 1767655526,
+    "company_url": "https://ca.linkedin.com/company/hydro-one",
+    "is_visible": true
   }
 ]
