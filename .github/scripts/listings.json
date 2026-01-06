@@ -14103,5 +14103,390 @@
     "date_posted": 1767655526,
     "company_url": "https://ca.linkedin.com/company/hydro-one",
     "is_visible": true
+  },
+       {
+    "date_updated": 1767740489,
+    "url": "https://ca.linkedin.com/jobs/view/machine-learning-developer-intern-4-month-term-toronto-ottawa-montreal-at-ibm-4351640060",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "IBM",
+    "title": "Machine Learning Developer Intern (4 month term - Toronto - Ottawa - Montreal)",
+    "source": "linkedin_scraper",
+    "id": "f5a62591-a2ad-474c-bc46-c4cc376aaf65",
+    "date_posted": 1767740489,
+    "company_url": "https://www.linkedin.com/company/ibm",
+    "is_visible": true
+  }, {
+    "date_updated": 1767740489,
+    "url": "https://ca.linkedin.com/jobs/view/product-ai-intern-4-or-8-months-summer-2026-at-dayforce-4351620336",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Dayforce",
+    "title": "Product & AI Intern 4 or 8 months - Summer 2026",
+    "source": "linkedin_scraper",
+    "id": "c3afbfdd-1045-4dff-83e1-4b011c5c3d7d",
+    "date_posted": 1767740489,
+    "company_url": "https://www.linkedin.com/company/dayforce",
+    "is_visible": true
+  }, {
+    "date_updated": 1767740489,
+    "url": "https://ca.linkedin.com/jobs/view/intern-%E2%80%93-software-development-8-months-hybrid-ottawa-at-entrust-4354673272",
+    "locations": [
+      "Ottawa, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Entrust",
+    "title": "Intern – Software Development - 8 months - Hybrid Ottawa",
+    "source": "linkedin_scraper",
+    "id": "1a030014-7a70-4044-ab8f-59c585df5262",
+    "date_posted": 1767740489,
+    "company_url": "https://www.linkedin.com/company/entrust",
+    "is_visible": true
+  }, {
+    "date_updated": 1767740514,
+    "url": "https://ca.linkedin.com/jobs/view/technology-analyst-student-at-pcl-construction-4358131099",
+    "locations": [
+      "Edmonton, Alberta, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "PCL Construction",
+    "title": "Technology Analyst Student",
+    "source": "linkedin_scraper",
+    "id": "1c2037bb-13ec-4799-b71b-f210d2e94f3e",
+    "date_posted": 1767740514,
+    "company_url": "https://ca.linkedin.com/company/pcl-construction",
+    "is_visible": true
+  }, {
+    "date_updated": 1767740514,
+    "url": "https://ca.linkedin.com/jobs/view/ai-developer-intern-8-months-summer-2026-at-dayforce-4351590320",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Dayforce",
+    "title": "AI Developer Intern 8 months - Summer 2026",
+    "source": "linkedin_scraper",
+    "id": "0ded8729-9e69-48a9-a75b-7a77ae3f120b",
+    "date_posted": 1767740514,
+    "company_url": "https://www.linkedin.com/company/dayforce",
+    "is_visible": true
+  },  {
+    "date_updated": 1767740544,
+    "url": "https://ca.linkedin.com/jobs/view/ibm-payments-centre-machine-learning-developer-intern-may-2026-8-months-toronto-at-ibm-4351680054",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "IBM",
+    "title": "IBM Payments Centre Machine Learning Developer Intern (May 2026 - 8 months - Toronto)",
+    "source": "linkedin_scraper",
+    "id": "4dde38b5-62e5-456f-b60c-3f8903967d86",
+    "date_posted": 1767740544,
+    "company_url": "https://www.linkedin.com/company/ibm",
+    "is_visible": true
+  }, {
+    "date_updated": 1767740569,
+    "url": "https://ca.linkedin.com/jobs/view/data-analyst-intern-4-months-summer-2026-at-dayforce-4351900304",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Dayforce",
+    "title": "Data Analyst Intern 4 Months - Summer 2026",
+    "source": "linkedin_scraper",
+    "id": "f111a43d-37aa-41f8-b6e9-8fda1959a345",
+    "date_posted": 1767740569,
+    "company_url": "https://www.linkedin.com/company/dayforce",
+    "is_visible": true
+  }, {
+    "date_updated": 1767740569,
+    "url": "https://ca.linkedin.com/jobs/view/co-op-or-intern-full-stack-developer-may-2026-at-bdo-canada-4354693646",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "BDO Canada",
+    "title": "Co-op or Intern, Full-Stack Developer (May 2026)",
+    "source": "linkedin_scraper",
+    "id": "34b24c01-172f-4b91-93c0-4defea726a09",
+    "date_posted": 1767740569,
+    "company_url": "https://ca.linkedin.com/company/bdo-canada",
+    "is_visible": true
+  },  {
+    "date_updated": 1767740584,
+    "url": "https://ca.linkedin.com/jobs/view/it-intern-%E2%80%93-16-month-internship-co-op-summer-2026-at-intact-4330467748",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Intact",
+    "title": "IT Intern – 16 Month Internship/Co-op (Summer 2026)",
+    "source": "linkedin_scraper",
+    "id": "a580c156-2be1-4118-8fd3-3b180612c4ba",
+    "date_posted": 1767740584,
+    "company_url": "https://ca.linkedin.com/company/intact",
+    "is_visible": true
+  }, {
+    "date_updated": 1767740621,
+    "url": "https://ca.linkedin.com/jobs/view/software-developer-i-%E2%80%93-4-month-internship-co-op-summer-2026-at-intact-4330417167",
+    "locations": [
+      "Greater St. John's Metropolitan Area"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Intact",
+    "title": "Software Developer I – 4 Month Internship/Co-op (Summer 2026)",
+    "source": "linkedin_scraper",
+    "id": "c82387da-bf12-4ad4-a25a-2927eecfb558",
+    "date_posted": 1767740621,
+    "company_url": "https://ca.linkedin.com/company/intact",
+    "is_visible": true
+  }, {
+    "date_updated": 1767740621,
+    "url": "https://ca.linkedin.com/jobs/view/software-developer-in-test-intern-8-months-summer-2026-at-dayforce-4351590319",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Dayforce",
+    "title": "Software Developer in Test Intern 8 Months - Summer 2026",
+    "source": "linkedin_scraper",
+    "id": "62d66527-1d7d-4897-aeb2-e15000b8b970",
+    "date_posted": 1767740621,
+    "company_url": "https://www.linkedin.com/company/dayforce",
+    "is_visible": true
+  },  {
+    "date_updated": 1767740621,
+    "url": "https://ca.linkedin.com/jobs/view/incubation-developer-coop-intern-at-nokia-4351650105",
+    "locations": [
+      "Kanata, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Nokia",
+    "title": "Incubation Developer Coop/Intern",
+    "source": "linkedin_scraper",
+    "id": "50a9f256-4711-4357-80b0-6193b2d02555",
+    "date_posted": 1767740621,
+    "company_url": "https://fi.linkedin.com/company/nokia",
+    "is_visible": true
+  },{
+    "date_updated": 1767740645,
+    "url": "https://ca.linkedin.com/jobs/view/2026-summer-student-data-analyst-4-months-at-rbc-4358126554",
+    "locations": [
+      "Vancouver, British Columbia, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "RBC",
+    "title": "2026 Summer Student - Data Analyst (4 months)",
+    "source": "linkedin_scraper",
+    "id": "6af8891c-b65b-4209-bf92-f009641d4269",
+    "date_posted": 1767740645,
+    "company_url": "https://ca.linkedin.com/company/rbc",
+    "is_visible": true
+  },{
+    "date_updated": 1767740658,
+    "url": "https://ca.linkedin.com/jobs/view/data-scientist-i-%E2%80%93-4-months-internship-coop-summer-2026-at-intact-4330522131",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Intact",
+    "title": "Data Scientist I – 4 months Internship/Coop (Summer 2026)",
+    "source": "linkedin_scraper",
+    "id": "868160e3-3bcb-4725-b627-f0e545646c89",
+    "date_posted": 1767740658,
+    "company_url": "https://ca.linkedin.com/company/intact",
+    "is_visible": true
+  }, {
+    "date_updated": 1767740658,
+    "url": "https://ca.linkedin.com/jobs/view/2026-capital-markets-rbc-clear-summer-analyst-4-months-at-rbc-4343940949",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "RBC",
+    "title": "2026 Capital Markets, RBC Clear, Summer Analyst (4 Months)",
+    "source": "linkedin_scraper",
+    "id": "f3f04cb7-7ba0-43f4-a43a-d53bd2b20063",
+    "date_posted": 1767740658,
+    "company_url": "https://ca.linkedin.com/company/rbc",
+    "is_visible": true
+  },{
+    "date_updated": 1767740677,
+    "url": "https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-d%E2%80%99applications-dorsales-en-ia-ai-backend-developer-%E2%80%93-4-mois-coop-stage-%C3%A9t%C3%A9-2026-at-intact-4330462618",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Intact",
+    "title": "Développeur d’applications dorsales en IA (AI Backend Developer) – 4 mois Coop/Stage (Été 2026)",
+    "source": "linkedin_scraper",
+    "id": "d4de9f29-38cb-4c06-94bf-f89aa10df251",
+    "date_posted": 1767740677,
+    "company_url": "https://ca.linkedin.com/company/intact",
+    "is_visible": true
+  }, {
+    "date_updated": 1767740694,
+    "url": "https://ca.linkedin.com/jobs/view/data-analyst-co-op-at-president-s-choice-financial-4330507874",
+    "locations": [
+      "Greater Toronto Area, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "President's Choice Financial",
+    "title": "Data Analyst Co-op",
+    "source": "linkedin_scraper",
+    "id": "9372eda0-b4c2-4ee8-8990-92017fe1620a",
+    "date_posted": 1767740694,
+    "company_url": "https://ca.linkedin.com/company/president's-choice-financial",
+    "is_visible": true
+  },  {
+    "date_updated": 1767740694,
+    "url": "https://ca.linkedin.com/jobs/view/software-engineer-co-op-intern-at-nokia-4351450867",
+    "locations": [
+      "Kanata, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Nokia",
+    "title": "Software Engineer Co-op/Intern",
+    "source": "linkedin_scraper",
+    "id": "8fc0f4a7-9334-447a-b2e4-e9495606f8e8",
+    "date_posted": 1767740694,
+    "company_url": "https://fi.linkedin.com/company/nokia",
+    "is_visible": true
+  }, {
+    "date_updated": 1767740694,
+    "url": "https://ca.linkedin.com/jobs/view/software-developer-co-op-student-at-goodmorning-4330443186",
+    "locations": [
+      "Edmonton, Alberta, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "GoodMorning",
+    "title": "Software Developer - Co-op Student",
+    "source": "linkedin_scraper",
+    "id": "1016517e-070e-49f9-afe7-b62b4ef7dbcd",
+    "date_posted": 1767740694,
+    "company_url": "https://ca.linkedin.com/company/goodmorning-com",
+    "is_visible": true
+  }, {
+    "date_updated": 1767740694,
+    "url": "https://ca.linkedin.com/jobs/view/software-developer-i-%E2%80%93-4-month-co-op-internship-summer-2026-at-intact-4330417168",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Intact",
+    "title": "Software Developer I – 4 Month Co-op/Internship (Summer 2026)",
+    "source": "linkedin_scraper",
+    "id": "0c69c459-7f73-44fe-aad0-b40f5100deb4",
+    "date_posted": 1767740694,
+    "company_url": "https://ca.linkedin.com/company/intact",
+    "is_visible": true
+  },{
+    "date_updated": 1767740714,
+    "url": "https://ca.linkedin.com/jobs/view/test-automation-co-op-intern-at-nokia-4344010010",
+    "locations": [
+      "Kanata, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Nokia",
+    "title": "Test Automation Co-op/Intern",
+    "source": "linkedin_scraper",
+    "id": "3b089537-b9c4-4f2f-a75a-055c641e802c",
+    "date_posted": 1767740714,
+    "company_url": "https://fi.linkedin.com/company/nokia",
+    "is_visible": true
+  }, {
+    "date_updated": 1767740727,
+    "url": "https://ca.linkedin.com/jobs/view/co-op-or-intern-cloud-analyst-may-2026-at-bdo-canada-4354655358",
+    "locations": [
+      "Oakville, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "BDO Canada",
+    "title": "Co-op or Intern, Cloud Analyst (May 2026)",
+    "source": "linkedin_scraper",
+    "id": "e3f76b46-00ab-43c5-8278-d5a61e8cd687",
+    "date_posted": 1767740727,
+    "company_url": "https://ca.linkedin.com/company/bdo-canada",
+    "is_visible": true
+  }, {
+    "date_updated": 1767740727,
+    "url": "https://ca.linkedin.com/jobs/view/co-op-or-intern-devops-engineer-may-2026-at-bdo-canada-4358202253",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "BDO Canada",
+    "title": "Co-op or Intern, DevOps Engineer (May 2026)",
+    "source": "linkedin_scraper",
+    "id": "2100f92e-6761-45cd-ad5a-1b2db101cc30",
+    "date_posted": 1767740727,
+    "company_url": "https://ca.linkedin.com/company/bdo-canada",
+    "is_visible": true
+  }, {
+    "date_updated": 1767740745,
+    "url": "https://ca.linkedin.com/jobs/view/co-op-may-2026-devops-engineering-8-16-months-at-general-dynamics-mission-systems%E2%80%93canada-4351420968",
+    "locations": [
+      "Calgary, Alberta, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "General Dynamics Mission Systems–Canada",
+    "title": "Co-op May 2026 - DevOps Engineering - 8-16 Months",
+    "source": "linkedin_scraper",
+    "id": "f2f15273-f6f6-40c0-967a-b799b84a3718",
+    "date_posted": 1767740745,
+    "company_url": "https://ca.linkedin.com/company/gdms-c",
+    "is_visible": true
   }
 ]
