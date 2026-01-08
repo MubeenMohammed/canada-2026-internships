@@ -14488,5 +14488,374 @@
     "date_posted": 1767740745,
     "company_url": "https://ca.linkedin.com/company/gdms-c",
     "is_visible": true
+  },
+    {
+    "date_updated": 1767829794,
+    "url": "https://ca.linkedin.com/jobs/view/software-engineer-intern-at-atpco-4351735920",
+    "locations": [
+      "Vancouver, British Columbia, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "ATPCO",
+    "title": "Software Engineer Intern",
+    "source": "linkedin_scraper",
+    "id": "cec7007d-3b24-48ac-bcf7-b0139149e1dd",
+    "date_posted": 1767829794,
+    "company_url": "https://www.linkedin.com/company/atpco",
+    "is_visible": true
+  }, {
+    "date_updated": 1767829794,
+    "url": "https://ca.linkedin.com/jobs/view/software-engineer-intern-at-intellect-design-arena-ltd-4351794366",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Intellect Design Arena Ltd",
+    "title": "Software Engineer Intern",
+    "source": "linkedin_scraper",
+    "id": "c2426805-35a8-4c5c-b85b-5512ce9c6baa",
+    "date_posted": 1767829794,
+    "company_url": "https://in.linkedin.com/company/intellect_design_arena",
+    "is_visible": true
+  },  {
+    "date_updated": 1767829794,
+    "url": "https://ca.linkedin.com/jobs/view/software-engineer-intern-at-electronic-arts-ea-4351786390",
+    "locations": [
+      "Vancouver, British Columbia, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Electronic Arts (EA)",
+    "title": "Software Engineer Intern",
+    "source": "linkedin_scraper",
+    "id": "886f9304-e5e7-41c8-b6a1-d7c6aaa88495",
+    "date_posted": 1767829794,
+    "company_url": "https://www.linkedin.com/company/electronic-arts",
+    "is_visible": true
+  }, {
+    "date_updated": 1767829819,
+    "url": "https://ca.linkedin.com/jobs/view/devops-engineering-intern-at-hireshire-4351612358",
+    "locations": [
+      "Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Hireshire",
+    "title": "DevOps Engineering Intern",
+    "source": "linkedin_scraper",
+    "id": "076080c5-7e95-40d8-9351-be873e9a0788",
+    "date_posted": 1767829819,
+    "company_url": "https://www.linkedin.com/company/hireshire",
+    "is_visible": true
+  }, {
+    "date_updated": 1767829832,
+    "url": "https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-de-logiciels-stagiaire-at-ericsson-4330715209",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Ericsson",
+    "title": "Développeur de logiciels Stagiaire",
+    "source": "linkedin_scraper",
+    "id": "04492e4e-9d9e-435d-8e44-b13cc071a5fe",
+    "date_posted": 1767829832,
+    "company_url": "https://se.linkedin.com/company/ericsson",
+    "is_visible": true
+  },  {
+    "date_updated": 1767829832,
+    "url": "https://ca.linkedin.com/jobs/view/intern-investment-applications-at-investment-management-corporation-of-ontario-imco-4330752019",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Investment Management Corporation of Ontario (IMCO)",
+    "title": "Intern, Investment Applications",
+    "source": "linkedin_scraper",
+    "id": "89c307ea-1e8d-4c5a-b4eb-b6f5d75c83f4",
+    "date_posted": 1767829832,
+    "company_url": "https://ca.linkedin.com/company/imcoinvest",
+    "is_visible": true
+  }, {
+    "date_updated": 1767829856,
+    "url": "https://ca.linkedin.com/jobs/view/data-internship-summer-2026-at-desjardins-4351705903",
+    "locations": [
+      "Lévis, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Desjardins",
+    "title": "Data internship, Summer 2026",
+    "source": "linkedin_scraper",
+    "id": "c55cde5a-4654-4729-b6a8-cfb4ba618ad5",
+    "date_posted": 1767829856,
+    "company_url": "https://ca.linkedin.com/company/desjardins",
+    "is_visible": true
+  },  {
+    "date_updated": 1767829856,
+    "url": "https://ca.linkedin.com/jobs/view/performance-automation-intern-january-2026-4-8-months-at-ciena-4312879891",
+    "locations": [
+      "Ottawa, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Ciena",
+    "title": "Performance Automation Intern January 2026 (4-8 months)",
+    "source": "linkedin_scraper",
+    "id": "f86b87d2-3928-4ffa-9582-8d569d8f59c2",
+    "date_posted": 1767829856,
+    "company_url": "https://www.linkedin.com/company/ciena",
+    "is_visible": true
+  },{
+    "date_updated": 1767829874,
+    "url": "https://ca.linkedin.com/jobs/view/software-development-intern-at-calian-group-4344025623",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Calian Group",
+    "title": "Software Development Intern",
+    "source": "linkedin_scraper",
+    "id": "a497981d-e9fa-4b03-8818-fc1d7a777524",
+    "date_posted": 1767829874,
+    "company_url": "https://ca.linkedin.com/company/calian",
+    "is_visible": true
+  }, {
+    "date_updated": 1767829874,
+    "url": "https://ca.linkedin.com/jobs/view/software-developer-intern-co-op-at-vrify-4358402373",
+    "locations": [
+      "Vancouver, British Columbia, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "VRIFY",
+    "title": "Software Developer Intern (Co-op)",
+    "source": "linkedin_scraper",
+    "id": "b526003c-4619-4c08-a728-24ec2de883e8",
+    "date_posted": 1767829874,
+    "company_url": "https://ca.linkedin.com/company/vrify",
+    "is_visible": true
+  }, {
+    "date_updated": 1767829874,
+    "url": "https://ca.linkedin.com/jobs/view/ai-robotics-intern-at-trexo-robotics-4354689178",
+    "locations": [
+      "Mississauga, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Trexo Robotics",
+    "title": "AI Robotics Intern",
+    "source": "linkedin_scraper",
+    "id": "042489c6-4eae-4a7d-869a-ec8f6ba69d5c",
+    "date_posted": 1767829874,
+    "company_url": "https://ca.linkedin.com/company/trexo-robotics",
+    "is_visible": true
+  }, {
+    "date_updated": 1767829899,
+    "url": "https://ca.linkedin.com/jobs/view/intern-data-enablement-at-investment-management-corporation-of-ontario-imco-4330811892",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Investment Management Corporation of Ontario (IMCO)",
+    "title": "Intern, Data Enablement",
+    "source": "linkedin_scraper",
+    "id": "98b67a37-e29e-4e13-bbf3-aa6422a0446b",
+    "date_posted": 1767829899,
+    "company_url": "https://ca.linkedin.com/company/imcoinvest",
+    "is_visible": true
+  }, {
+    "date_updated": 1767829899,
+    "url": "https://ca.linkedin.com/jobs/view/intern-software-development-hybrid-in-ottawa-at-entrust-4358127977",
+    "locations": [
+      "Ottawa, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Entrust",
+    "title": "Intern, Software Development - Hybrid in Ottawa",
+    "source": "linkedin_scraper",
+    "id": "962fda3f-317c-4890-af4d-31b8e1e4f2dc",
+    "date_posted": 1767829899,
+    "company_url": "https://www.linkedin.com/company/entrust",
+    "is_visible": true
+  }, {
+    "date_updated": 1767829899,
+    "url": "https://ca.linkedin.com/jobs/view/web-applications-co-op-intern-at-nokia-4344137241",
+    "locations": [
+      "Kanata, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Nokia",
+    "title": "Web Applications Co-op/Intern",
+    "source": "linkedin_scraper",
+    "id": "e25214a3-11eb-469e-9dca-996884ab5f18",
+    "date_posted": 1767829899,
+    "company_url": "https://fi.linkedin.com/company/nokia",
+    "is_visible": true
+  }, {
+    "date_updated": 1767829915,
+    "url": "https://ca.linkedin.com/jobs/view/google-cloud-engineer-i-4-month-co-op-internship-summer-2026-at-intact-4330378747",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Intact",
+    "title": "Google Cloud Engineer I - 4 Month Co-op/Internship (Summer 2026)",
+    "source": "linkedin_scraper",
+    "id": "dda7a53f-eff9-4c36-a2ea-b31a119b94b6",
+    "date_posted": 1767829915,
+    "company_url": "https://ca.linkedin.com/company/intact",
+    "is_visible": true
+  }, {
+    "date_updated": 1767829954,
+    "url": "https://ca.linkedin.com/jobs/view/stagiaire-d%C3%A9veloppeur%C2%B7se-de-logiciels-%E2%80%93-technologie-%C3%A0-impact-humain-stage-coop-at-haylem-4358483026",
+    "locations": [
+      "Terrebonne, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Haylem",
+    "title": "Stagiaire Développeur·se de logiciels – Technologie à impact humain (Stage coop)",
+    "source": "linkedin_scraper",
+    "id": "e9535ae0-87b1-42db-8b13-33899e58ec2b",
+    "date_posted": 1767829954,
+    "company_url": "https://ca.linkedin.com/company/haylem-technologies",
+    "is_visible": true
+  }, {
+    "date_updated": 1767829976,
+    "url": "https://ca.linkedin.com/jobs/view/2026-cfo-summer-data-scientist-8-months-at-rbc-4358434539",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "RBC",
+    "title": "2026 CFO, Summer Data Scientist (8 months)",
+    "source": "linkedin_scraper",
+    "id": "0b7b43dc-d3ec-48e0-82f3-d533d341ba2b",
+    "date_posted": 1767829976,
+    "company_url": "https://ca.linkedin.com/company/rbc",
+    "is_visible": true
+  }, {
+    "date_updated": 1767829976,
+    "url": "https://ca.linkedin.com/jobs/view/2026-cfo-summer-data-engineer-8-months-at-rbc-4344123314",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "RBC",
+    "title": "2026 CFO, Summer Data Engineer (8 months)",
+    "source": "linkedin_scraper",
+    "id": "4651c14b-1c76-450e-b68b-dc03c85a04a2",
+    "date_posted": 1767829976,
+    "company_url": "https://ca.linkedin.com/company/rbc",
+    "is_visible": true
+  }, {
+    "date_updated": 1767829990,
+    "url": "https://ca.linkedin.com/jobs/view/platform-developer-co-op-at-searidge-technologies-4351952239",
+    "locations": [
+      "Ottawa, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Searidge Technologies",
+    "title": "Platform Developer Co-op",
+    "source": "linkedin_scraper",
+    "id": "7d96d166-d8f6-48c5-a509-8f87d72ce464",
+    "date_posted": 1767829990,
+    "company_url": "https://ca.linkedin.com/company/searidgetechnologies",
+    "is_visible": true
+  },  {
+    "date_updated": 1767829990,
+    "url": "https://ca.linkedin.com/jobs/view/co-op-student-developer-at-lotusflare-4330792874",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "LotusFlare",
+    "title": "Co-op Student Developer",
+    "source": "linkedin_scraper",
+    "id": "3964018c-9152-4439-8b58-08612f14667a",
+    "date_posted": 1767829990,
+    "company_url": "https://www.linkedin.com/company/lotusflare",
+    "is_visible": true
+  }, {
+    "date_updated": 1767830011,
+    "url": "https://ca.linkedin.com/jobs/view/gbm-trade-floor-technology-consultant-internship-co-op-summer-2026-at-scotiabank-4344061641",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Scotiabank",
+    "title": "GBM - Trade Floor Technology Consultant Internship/Co-Op - Summer 2026",
+    "source": "linkedin_scraper",
+    "id": "f84f8993-e3da-4eb8-b059-a9b569041d47",
+    "date_posted": 1767830011,
+    "company_url": "https://ca.linkedin.com/company/scotiabank",
+    "is_visible": true
+  }, {
+    "date_updated": 1767830011,
+    "url": "https://ca.linkedin.com/jobs/view/software-qa-analyst-co-op-at-reliable-controls-4351757383",
+    "locations": [
+      "Victoria, British Columbia, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Reliable Controls",
+    "title": "Software QA Analyst - Co-op",
+    "source": "linkedin_scraper",
+    "id": "cf81dc80-b9d9-4fb4-9051-cf11292e8166",
+    "date_posted": 1767830011,
+    "company_url": "https://ca.linkedin.com/company/reliable-controls",
+    "is_visible": true
+  },  {
+    "date_updated": 1767830033,
+    "url": "https://ca.linkedin.com/jobs/view/verafin-software-development-student-may-2026-at-nasdaq-4358269778",
+    "locations": [
+      "St John’s, Newfoundland and Labrador, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Nasdaq",
+    "title": "Verafin - Software Development Student (May 2026)",
+    "source": "linkedin_scraper",
+    "id": "e7aa6342-2e8a-4bac-980f-534d202e0584",
+    "date_posted": 1767830033,
+    "company_url": "https://www.linkedin.com/company/nasdaq",
+    "is_visible": true
   }
 ]
