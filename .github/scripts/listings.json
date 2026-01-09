@@ -14857,5 +14857,390 @@
     "date_posted": 1767830033,
     "company_url": "https://www.linkedin.com/company/nasdaq",
     "is_visible": true
+  },
+      {
+    "date_updated": 1767924253,
+    "url": "https://ca.linkedin.com/jobs/view/product-intern-at-sezzle-4358910502",
+    "locations": [
+      "Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Sezzle",
+    "title": "Product Intern",
+    "source": "linkedin_scraper",
+    "id": "e7c7c09a-f43e-4185-99d9-3ed7fbebd99e",
+    "date_posted": 1767924253,
+    "company_url": "https://www.linkedin.com/company/sezzle",
+    "is_visible": true
+  }, {
+    "date_updated": 1767924253,
+    "url": "https://ca.linkedin.com/jobs/view/analyst-intern-corporate-finance-summer-2026-multiple-locations-at-deloitte-4344685679",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Deloitte",
+    "title": "Analyst Intern, Corporate Finance - Summer 2026 - Multiple Locations",
+    "source": "linkedin_scraper",
+    "id": "709f914d-9c34-4e76-9e34-0700352e90d1",
+    "date_posted": 1767924253,
+    "company_url": "https://www.linkedin.com/company/deloitte",
+    "is_visible": true
+  },  {
+    "date_updated": 1767924253,
+    "url": "https://ca.linkedin.com/jobs/view/product-manager-intern-opportunities-vancouver-bc-at-microsoft-4359390453",
+    "locations": [
+      "Vancouver, British Columbia, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Microsoft",
+    "title": "Product Manager: Intern Opportunities, Vancouver, BC",
+    "source": "linkedin_scraper",
+    "id": "7e737817-f9b7-4014-9fe1-7d1005572c86",
+    "date_posted": 1767924253,
+    "company_url": "https://www.linkedin.com/company/microsoft",
+    "is_visible": true
+  }, {
+    "date_updated": 1767924253,
+    "url": "https://ca.linkedin.com/jobs/view/analyst-intern-software-engineering-innovation-coe-summer-2026-toronto-at-deloitte-4344645958",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Deloitte",
+    "title": "Analyst Intern, Software Engineering, Innovation CoE - Summer 2026 - Toronto",
+    "source": "linkedin_scraper",
+    "id": "94ed2a55-75bb-4cef-b5a6-5d28017dc333",
+    "date_posted": 1767924253,
+    "company_url": "https://www.linkedin.com/company/deloitte",
+    "is_visible": true
+  },  {
+    "date_updated": 1767924253,
+    "url": "https://ca.linkedin.com/jobs/view/junior-software-developer-co-op-student-at-hatch-4331082280",
+    "locations": [
+      "Mississauga, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Hatch",
+    "title": "Junior Software Developer Co-op Student",
+    "source": "linkedin_scraper",
+    "id": "31ba98fc-30a4-4050-87b5-6809e2f8aa48",
+    "date_posted": 1767924253,
+    "company_url": "https://ca.linkedin.com/company/hatch",
+    "is_visible": true
+  }, {
+    "date_updated": 1767924277,
+    "url": "https://ca.linkedin.com/jobs/view/applied-research-intern-at-thomson-reuters-4332220008",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Thomson Reuters",
+    "title": "Applied Research Intern",
+    "source": "linkedin_scraper",
+    "id": "4a292648-b1a3-4faf-8c34-fe8cacf948f6",
+    "date_posted": 1767924277,
+    "company_url": "https://ca.linkedin.com/company/thomson-reuters",
+    "is_visible": true
+  }, {
+    "date_updated": 1767924277,
+    "url": "https://ca.linkedin.com/jobs/view/data-scientist-i%E2%80%93-4-month-co-op-internship-summer-2026-at-intact-4331521070",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Intact",
+    "title": "Data Scientist I– 4 Month Co-op/Internship (Summer 2026)",
+    "source": "linkedin_scraper",
+    "id": "e04df57c-9787-4c91-bcee-5f8ce5e8b1f6",
+    "date_posted": 1767924277,
+    "company_url": "https://ca.linkedin.com/company/intact",
+    "is_visible": true
+  },  {
+    "date_updated": 1767924277,
+    "url": "https://ca.linkedin.com/jobs/view/jr-software-development-engineer-victoria-bc-jr-developer-program-at-abebooks-an-amazon-company-4358455241",
+    "locations": [
+      "Victoria, British Columbia, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "AbeBooks, an Amazon company",
+    "title": "Jr. Software Development Engineer - Victoria, BC, Jr. Developer Program",
+    "source": "linkedin_scraper",
+    "id": "9924d9f7-df67-45a8-8d47-deb12f05a4f1",
+    "date_posted": 1767924277,
+    "company_url": "https://ca.linkedin.com/company/abebooks",
+    "is_visible": true
+  }, {
+    "date_updated": 1767924294,
+    "url": "https://ca.linkedin.com/jobs/view/ai-developer-i-%E2%80%93-4-month-internship-co-op-summer-2026-at-intact-4330935358",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Intact",
+    "title": "AI Developer I – 4 Month Internship/Co-op (Summer 2026)",
+    "source": "linkedin_scraper",
+    "id": "753bbba5-d53d-4a21-b97e-1eb8a7e536b4",
+    "date_posted": 1767924294,
+    "company_url": "https://ca.linkedin.com/company/intact",
+    "is_visible": true
+  }, {
+    "date_updated": 1767924294,
+    "url": "https://ca.linkedin.com/jobs/view/co-op-intern-manufacturing-software-development-aerospace-16-months-may-2026-at-schaeffler-4359620493",
+    "locations": [
+      "Stratford, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Schaeffler",
+    "title": "Co-Op/Intern - Manufacturing Software Development - Aerospace (16 months; May 2026)",
+    "source": "linkedin_scraper",
+    "id": "bf07a558-6f42-482d-abaa-1fbe6c9829bb",
+    "date_posted": 1767924294,
+    "company_url": "https://de.linkedin.com/company/schaeffler",
+    "is_visible": true
+  }, {
+    "date_updated": 1767924294,
+    "url": "https://ca.linkedin.com/jobs/view/co-op-intern-developer-machine-learning-at-kinaxis-4359422012",
+    "locations": [
+      "Waterloo, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Kinaxis",
+    "title": "Co-op/Intern Developer, Machine Learning",
+    "source": "linkedin_scraper",
+    "id": "628b8e91-6413-4c55-84ca-17704c08412b",
+    "date_posted": 1767924294,
+    "company_url": "https://ca.linkedin.com/company/kinaxis",
+    "is_visible": true
+  }, {
+    "date_updated": 1767924310,
+    "url": "https://ca.linkedin.com/jobs/view/call-and-contact-center-jobs-co-op-software-engineer-android-at-contactcenterworld-4359490122",
+    "locations": [
+      "Vancouver, British Columbia, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "ContactCenterWorld",
+    "title": "Call and Contact Center Jobs - Co-op Software Engineer, Android",
+    "source": "linkedin_scraper",
+    "id": "1fb15509-5c23-47fe-af78-532a1dd160e6",
+    "date_posted": 1767924310,
+    "company_url": "https://ca.linkedin.com/company/contactcenterworld",
+    "is_visible": true
+  },  {
+    "date_updated": 1767924310,
+    "url": "https://ca.linkedin.com/jobs/view/datapower-developer-at-scotiabank-4344661960",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Scotiabank",
+    "title": "DataPower Developer",
+    "source": "linkedin_scraper",
+    "id": "0adda534-7495-45d6-96f1-3c260732cd55",
+    "date_posted": 1767924310,
+    "company_url": "https://ca.linkedin.com/company/scotiabank",
+    "is_visible": true
+  },  {
+    "date_updated": 1767924350,
+    "url": "https://ca.linkedin.com/jobs/view/intern-full-stack-software-engineer-summer-2026-at-capital-one-4359324225",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Capital One",
+    "title": "Intern, Full Stack Software Engineer - Summer 2026",
+    "source": "linkedin_scraper",
+    "id": "7bd8c123-f7b0-422c-9755-b7d90b889961",
+    "date_posted": 1767924350,
+    "company_url": "https://www.linkedin.com/company/capital-one",
+    "is_visible": true
+  }, {
+    "date_updated": 1767924350,
+    "url": "https://ca.linkedin.com/jobs/view/intern-data-analytics-engineering-summer-2026-at-capital-one-4358954291",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Capital One",
+    "title": "Intern, Data Analytics Engineering - Summer 2026",
+    "source": "linkedin_scraper",
+    "id": "d20b3a07-5a50-434e-9d47-d5044b08d311",
+    "date_posted": 1767924350,
+    "company_url": "https://www.linkedin.com/company/capital-one",
+    "is_visible": true
+  }, {
+    "date_updated": 1767924350,
+    "url": "https://ca.linkedin.com/jobs/view/intern-data-scientist-summer-2026-at-capital-one-4359344187",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Capital One",
+    "title": "Intern, Data Scientist - Summer 2026",
+    "source": "linkedin_scraper",
+    "id": "47892bca-cc88-45b7-81b6-37f263810f81",
+    "date_posted": 1767924350,
+    "company_url": "https://www.linkedin.com/company/capital-one",
+    "is_visible": true
+  },  {
+    "date_updated": 1767924392,
+    "url": "https://ca.linkedin.com/jobs/view/radio-sw-developer-intern-at-ericsson-4331081792",
+    "locations": [
+      "Ottawa, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Ericsson",
+    "title": "Radio SW Developer Intern",
+    "source": "linkedin_scraper",
+    "id": "e4fc8662-00ef-4fca-94f1-dc848ea04484",
+    "date_posted": 1767924392,
+    "company_url": "https://se.linkedin.com/company/ericsson",
+    "is_visible": true
+  }, {
+    "date_updated": 1767924412,
+    "url": "https://ca.linkedin.com/jobs/view/it-internship-co-op-opportunities-at-zurich-canada-4331282282",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Zurich Canada",
+    "title": "IT Internship/Co-op Opportunities",
+    "source": "linkedin_scraper",
+    "id": "745d3125-0809-4c86-bff4-17bfeb051c01",
+    "date_posted": 1767924412,
+    "company_url": "https://ca.linkedin.com/company/zurich-canada",
+    "is_visible": true
+  }, {
+    "date_updated": 1767924454,
+    "url": "https://ca.linkedin.com/jobs/view/jr-data-analyst-co-op-at-dll-4352082146",
+    "locations": [
+      "Burlington, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "DLL",
+    "title": "Jr. Data Analyst, Co-op",
+    "source": "linkedin_scraper",
+    "id": "adde35ea-1514-4782-87b9-7c0bf648175d",
+    "date_posted": 1767924454,
+    "company_url": "https://nl.linkedin.com/company/dllgroup",
+    "is_visible": true
+  },  {
+    "date_updated": 1767924477,
+    "url": "https://ca.linkedin.com/jobs/view/software-engineer-%E2%80%93-co-op-spring-2026-at-index-exchange-4330993165",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Index Exchange",
+    "title": "Software Engineer – Co-op (Spring 2026)",
+    "source": "linkedin_scraper",
+    "id": "9c5847bf-8942-4042-94d3-f4c79e3879fa",
+    "date_posted": 1767924477,
+    "company_url": "https://ca.linkedin.com/company/index-platform",
+    "is_visible": true
+  },{
+    "date_updated": 1767924477,
+    "url": "https://ca.linkedin.com/jobs/view/student-associate-software-engineer-summer-2026-at-sun-life-4358459010",
+    "locations": [
+      "Waterloo, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Sun Life",
+    "title": "Student, Associate Software Engineer (Summer 2026)",
+    "source": "linkedin_scraper",
+    "id": "c1362dff-cf57-46ac-ae97-2b25f6251328",
+    "date_posted": 1767924477,
+    "company_url": "https://www.linkedin.com/company/sun-life-financial",
+    "is_visible": true
+  },  {
+    "date_updated": 1767924490,
+    "url": "https://ca.linkedin.com/jobs/view/associate-software-engineer-at-jerry-4352132132",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Jerry",
+    "title": "Associate Software Engineer",
+    "source": "linkedin_scraper",
+    "id": "6949b5c1-8306-4253-90a2-4881e5ac8457",
+    "date_posted": 1767924490,
+    "company_url": "https://www.linkedin.com/company/jerryinc",
+    "is_visible": true
+  }, {
+    "date_updated": 1767924490,
+    "url": "https://ca.linkedin.com/jobs/view/associate-software-engineer-at-infoblox-4352052539",
+    "locations": [
+      "Burnaby, British Columbia, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Infoblox",
+    "title": "Associate Software Engineer",
+    "source": "linkedin_scraper",
+    "id": "788a432a-570d-403a-86a3-abb5b01676b4",
+    "date_posted": 1767924490,
+    "company_url": "https://www.linkedin.com/company/infoblox",
+    "is_visible": true
+  },  {
+    "date_updated": 1767924490,
+    "url": "https://ca.linkedin.com/jobs/view/research-and-development-engineering-associate-co-op-8%2B-months-preferred-at-fluidai-medical-4358761595",
+    "locations": [
+      "Kitchener, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "FluidAI Medical",
+    "title": "Research and Development Engineering Associate (Co-op 8+ Months Preferred)",
+    "source": "linkedin_scraper",
+    "id": "3dc7b188-4e47-46eb-a108-ab2ced00ee43",
+    "date_posted": 1767924490,
+    "company_url": "https://ca.linkedin.com/company/fluidaimedical",
+    "is_visible": true
   }
 ]
