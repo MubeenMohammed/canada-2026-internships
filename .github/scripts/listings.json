@@ -15242,5 +15242,310 @@
     "date_posted": 1767924490,
     "company_url": "https://ca.linkedin.com/company/fluidaimedical",
     "is_visible": true
+  },
+       {
+    "date_updated": 1768000951,
+    "url": "https://ca.linkedin.com/jobs/view/system-engineer-intern-at-renesas-electronics-4359726549",
+    "locations": [
+      "Ottawa, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Renesas Electronics",
+    "title": "System Engineer Intern",
+    "source": "linkedin_scraper",
+    "id": "469edd20-23cd-4b44-b472-41d83da9f11e",
+    "date_posted": 1768000951,
+    "company_url": "https://jp.linkedin.com/company/renesas",
+    "is_visible": true
+  }, {
+    "date_updated": 1768000951,
+    "url": "https://ca.linkedin.com/jobs/view/associate-software-developer-brilliant-harvest-summer-2026-at-altaml-4359687518",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "AltaML",
+    "title": "Associate Software Developer (Brilliant Harvest) (Summer 2026)",
+    "source": "linkedin_scraper",
+    "id": "a668cd12-be10-4695-87c2-206387ad5e16",
+    "date_posted": 1768000951,
+    "company_url": "https://ca.linkedin.com/company/altaml",
+    "is_visible": true
+  },  {
+    "date_updated": 1768000975,
+    "url": "https://ca.linkedin.com/jobs/view/qa-automation-engineer-intership-at-finastra-4359678305",
+    "locations": [
+      "Mississauga, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Finastra",
+    "title": "QA Automation Engineer Intership",
+    "source": "linkedin_scraper",
+    "id": "c885a622-dc5e-498e-adc5-f03d839a391f",
+    "date_posted": 1768000975,
+    "company_url": "https://uk.linkedin.com/company/finastra",
+    "is_visible": true
+  },  {
+    "date_updated": 1768000975,
+    "url": "https://ca.linkedin.com/jobs/view/summer-intern-co-op-2026-%E2%80%93-agentic-ai-developer-at-manulife-4331547000",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Manulife",
+    "title": "Summer Intern/Co-op 2026 – Agentic AI Developer",
+    "source": "linkedin_scraper",
+    "id": "a8667fa8-618c-470e-8a2b-3b1fd5a0f8e9",
+    "date_posted": 1768000975,
+    "company_url": "https://ca.linkedin.com/company/manulife-financial",
+    "is_visible": true
+  }, {
+    "date_updated": 1768000990,
+    "url": "https://ca.linkedin.com/jobs/view/software-development-intern-recording-and-qm-12-16mos-at-genesys-4331956582",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Genesys",
+    "title": "Software Development Intern, Recording and QM (12-16mos)",
+    "source": "linkedin_scraper",
+    "id": "32a3d499-f765-4c09-9309-23f366e37c5a",
+    "date_posted": 1768000990,
+    "company_url": "https://www.linkedin.com/company/genesys",
+    "is_visible": true
+  }, {
+    "date_updated": 1768000990,
+    "url": "https://ca.linkedin.com/jobs/view/gameplay-design-intern-at-epic-games-4332254403",
+    "locations": [
+      "Greater Montreal Metropolitan Area"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Epic Games",
+    "title": "Gameplay Design Intern",
+    "source": "linkedin_scraper",
+    "id": "27e39811-89ef-4fb7-841e-3d73b317f582",
+    "date_posted": 1768000990,
+    "company_url": "https://www.linkedin.com/company/epic-games",
+    "is_visible": true
+  }, {
+    "date_updated": 1768000990,
+    "url": "https://ca.linkedin.com/jobs/view/cybersecurity-intern-summer-2026-at-hitachi-rail-4359686890",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Hitachi Rail",
+    "title": "Cybersecurity Intern (Summer 2026)",
+    "source": "linkedin_scraper",
+    "id": "aba5a7b6-3eb1-4360-aa3d-77164fbddf69",
+    "date_posted": 1768000990,
+    "company_url": "https://uk.linkedin.com/company/hitachirail",
+    "is_visible": true
+  }, {
+    "date_updated": 1768001025,
+    "url": "https://ca.linkedin.com/jobs/view/data-innovation-intern-at-precision-drilling-4358975076",
+    "locations": [
+      "Calgary, Alberta, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Precision Drilling",
+    "title": "Data Innovation Intern",
+    "source": "linkedin_scraper",
+    "id": "a584b4a0-14a9-4261-a805-8ddbe22d5faf",
+    "date_posted": 1768001025,
+    "company_url": "https://ca.linkedin.com/company/precision-drilling",
+    "is_visible": true
+  }, {
+    "date_updated": 1768001025,
+    "url": "https://ca.linkedin.com/jobs/view/co-op-intern-student-network-cybersecurity-software-specialist-12-or-16-months-at-spartan-controls-4331572175",
+    "locations": [
+      "Calgary, Alberta, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Spartan Controls",
+    "title": "Co-op/Intern Student - Network / Cybersecurity Software Specialist (12 or 16 Months)",
+    "source": "linkedin_scraper",
+    "id": "76a485a6-9a8d-4229-bd1c-dd4ec8a5a400",
+    "date_posted": 1768001025,
+    "company_url": "https://ca.linkedin.com/company/spartan-controls",
+    "is_visible": true
+  }, {
+    "date_updated": 1768001065,
+    "url": "https://ca.linkedin.com/jobs/view/summer-intern-co-op-2026-%E2%80%93-cloud-engineer-at-manulife-4332255082",
+    "locations": [
+      "Waterloo, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Manulife",
+    "title": "Summer Intern/Co-op 2026 – Cloud Engineer",
+    "source": "linkedin_scraper",
+    "id": "60a31368-b8ac-4eb2-9f0f-d0866cfb8d92",
+    "date_posted": 1768001065,
+    "company_url": "https://ca.linkedin.com/company/manulife-financial",
+    "is_visible": true
+  }, {
+    "date_updated": 1768001065,
+    "url": "https://ca.linkedin.com/jobs/view/tech-transformation-eai-d-ai-data-co-op-intern-2026-multiple-locations-at-deloitte-4359696814",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Deloitte",
+    "title": "Tech & Transformation - EAI&D - AI & Data - Co-op/Intern 2026 - Multiple Locations",
+    "source": "linkedin_scraper",
+    "id": "d6422631-a4f8-4e0f-918d-6e20da220559",
+    "date_posted": 1768001065,
+    "company_url": "https://www.linkedin.com/company/deloitte",
+    "is_visible": true
+  }, {
+    "date_updated": 1768001078,
+    "url": "https://ca.linkedin.com/jobs/view/information-security-intern-summer-2026-at-hitachi-rail-4359726508",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Hitachi Rail",
+    "title": "Information Security Intern (Summer 2026)",
+    "source": "linkedin_scraper",
+    "id": "6c23bf2e-6c9c-4a6c-9665-6bfc28f10666",
+    "date_posted": 1768001078,
+    "company_url": "https://uk.linkedin.com/company/hitachirail",
+    "is_visible": true
+  },  {
+    "date_updated": 1768001078,
+    "url": "https://ca.linkedin.com/jobs/view/next-gen-ai-co-op-intern-at-nokia-4352401807",
+    "locations": [
+      "Kanata, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Nokia",
+    "title": "Next-Gen AI Co-op/Intern",
+    "source": "linkedin_scraper",
+    "id": "8336f723-f091-47f1-82b5-364f80b55c84",
+    "date_posted": 1768001078,
+    "company_url": "https://fi.linkedin.com/company/nokia",
+    "is_visible": true
+  }, {
+    "date_updated": 1768001164,
+    "url": "https://ca.linkedin.com/jobs/view/co-op-software-engineer-front-end-at-huawei-canada-4359658564",
+    "locations": [
+      "Ottawa, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Huawei Canada",
+    "title": "Co-op Software Engineer - Front-End",
+    "source": "linkedin_scraper",
+    "id": "d537bd66-e4f4-4679-b946-3b619014c7a8",
+    "date_posted": 1768001164,
+    "company_url": "https://ca.linkedin.com/company/huawei-technologies-canada-co-ltd",
+    "is_visible": true
+  }, {
+    "date_updated": 1768001164,
+    "url": "https://ca.linkedin.com/jobs/view/software-developer-spring-2026-co-op-kitchener-office-at-d2l-4359746745",
+    "locations": [
+      "Kitchener, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "D2L",
+    "title": "Software Developer - Spring 2026 Co-op (Kitchener Office)",
+    "source": "linkedin_scraper",
+    "id": "fb984c34-ff66-4487-8f75-75d47bdb6fc4",
+    "date_posted": 1768001164,
+    "company_url": "https://ca.linkedin.com/company/d2l",
+    "is_visible": true
+  },  {
+    "date_updated": 1768001180,
+    "url": "https://ca.linkedin.com/jobs/view/software-developer-co-op-may-to-december-2026-at-visier-inc-4331991018",
+    "locations": [
+      "Vancouver, British Columbia, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Visier Inc.",
+    "title": "Software Developer Co-op (May to December 2026)",
+    "source": "linkedin_scraper",
+    "id": "a7e7dd9b-1e72-4a66-9705-83f42cf7b497",
+    "date_posted": 1768001180,
+    "company_url": "https://ca.linkedin.com/company/visier-analytics",
+    "is_visible": true
+  }, {
+    "date_updated": 1768001204,
+    "url": "https://ca.linkedin.com/jobs/view/summer-intern-co-op-2026-%E2%80%93-full-stack-software-engineer-at-manulife-4331947141",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Manulife",
+    "title": "Summer Intern/Co-op 2026 – Full Stack Software Engineer",
+    "source": "linkedin_scraper",
+    "id": "c9bed8b1-48ab-4764-841c-1f27ed0e51d0",
+    "date_posted": 1768001204,
+    "company_url": "https://ca.linkedin.com/company/manulife-financial",
+    "is_visible": true
+  }, {
+    "date_updated": 1768001228,
+    "url": "https://ca.linkedin.com/jobs/view/it-support-analyst-at-redpath-mining-4331505217",
+    "locations": [
+      "North Bay, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "REDPATH MINING",
+    "title": "IT Support Analyst",
+    "source": "linkedin_scraper",
+    "id": "4bf3ccf3-7d91-4469-aace-ee8f9ebb1ba1",
+    "date_posted": 1768001228,
+    "company_url": "https://ca.linkedin.com/company/js-redpath-limited",
+    "is_visible": true
+  }, {
+    "date_updated": 1768001228,
+    "url": "https://ca.linkedin.com/jobs/view/student-associate-software-engineer-summer-2026-at-sun-life-4359753489",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Sun Life",
+    "title": "Student, Associate Software Engineer (Summer 2026)",
+    "source": "linkedin_scraper",
+    "id": "ba059474-b3eb-4227-b85a-abfdd1467a9e",
+    "date_posted": 1768001228,
+    "company_url": "https://www.linkedin.com/company/sun-life-financial",
+    "is_visible": true
   }
 ]
