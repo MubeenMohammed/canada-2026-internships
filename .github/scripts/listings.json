@@ -15547,5 +15547,134 @@
     "date_posted": 1768001228,
     "company_url": "https://www.linkedin.com/company/sun-life-financial",
     "is_visible": true
+  },
+  {
+    "date_updated": 1768096902,
+    "url": "https://ca.linkedin.com/jobs/view/product-design-intern-summer-2026-vancouver-bc-at-asana-4352422396",
+    "locations": [
+      "Vancouver, British Columbia, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Asana",
+    "title": "Product Design Intern - Summer 2026 (Vancouver, BC)",
+    "source": "linkedin_scraper",
+    "id": "f98562c9-0a2a-42b7-93a6-eed1e5d5ba5e",
+    "date_posted": 1768096902,
+    "company_url": "https://www.linkedin.com/company/asana",
+    "is_visible": true
+  },  {
+    "date_updated": 1768096902,
+    "url": "https://ca.linkedin.com/jobs/view/data-analyst-in-line-inspection-at-darkvision-4352249865",
+    "locations": [
+      "Vancouver, British Columbia, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "DarkVision",
+    "title": "Data Analyst, In-line Inspection",
+    "source": "linkedin_scraper",
+    "id": "7e287dab-b004-4bcc-8266-fea5d6e810cd",
+    "date_posted": 1768096902,
+    "company_url": "https://ca.linkedin.com/company/darkvision-technologies",
+    "is_visible": true
+  },  {
+    "date_updated": 1768096981,
+    "url": "https://ca.linkedin.com/jobs/view/developer-intern-at-renesas-electronics-4359781216",
+    "locations": [
+      "Ottawa, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Renesas Electronics",
+    "title": "Developer Intern",
+    "source": "linkedin_scraper",
+    "id": "5833049e-3b53-4235-8ebe-0ecfe10d2d13",
+    "date_posted": 1768096981,
+    "company_url": "https://jp.linkedin.com/company/renesas",
+    "is_visible": true
+  },  {
+    "date_updated": 1768096981,
+    "url": "https://ca.linkedin.com/jobs/view/app-development-intern-at-genpark-4345343116",
+    "locations": [
+      "Vancouver, British Columbia, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "GenPark",
+    "title": "App development intern",
+    "source": "linkedin_scraper",
+    "id": "d6f1af1d-8662-4994-b322-c086d3b4b7ac",
+    "date_posted": 1768096981,
+    "company_url": "https://www.linkedin.com/company/genparkai",
+    "is_visible": true
+  }, {
+    "date_updated": 1768097006,
+    "url": "https://ca.linkedin.com/jobs/view/systems-engineering-intern-co-op-north-vancouver-shipyards-at-thales-4359921357",
+    "locations": [
+      "Victoria, British Columbia, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Thales",
+    "title": "Systems Engineering Intern /CO-OP - North Vancouver Shipyards",
+    "source": "linkedin_scraper",
+    "id": "073a9ec6-2359-4465-b3bf-eacb452fc535",
+    "date_posted": 1768097006,
+    "company_url": "https://fr.linkedin.com/company/thales",
+    "is_visible": true
+  }, {
+    "date_updated": 1768097061,
+    "url": "https://ca.linkedin.com/jobs/view/software-developer-coop-at-omegro-4332530231",
+    "locations": [
+      "British Columbia, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Omegro",
+    "title": "Software Developer Coop",
+    "source": "linkedin_scraper",
+    "id": "20730658-c66b-4e0d-aa8a-96f78d417f3c",
+    "date_posted": 1768097061,
+    "company_url": "https://ca.linkedin.com/company/omegro",
+    "is_visible": true
+  }, {
+    "date_updated": 1768097101,
+    "url": "https://ca.linkedin.com/jobs/view/data-systems-analyst-co-op-at-aecon-group-inc-4328261361",
+    "locations": [
+      "Cambridge, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Aecon Group Inc.",
+    "title": "Data & Systems Analyst, Co-op",
+    "source": "linkedin_scraper",
+    "id": "46c94496-57f6-47db-b2a2-dae25ae063f8",
+    "date_posted": 1768097101,
+    "company_url": "https://ca.linkedin.com/company/aecon",
+    "is_visible": true
+  }, {
+    "date_updated": 1768097101,
+    "url": "https://ca.linkedin.com/jobs/view/data-engineer-co-op-at-iko-north-america-4352413902",
+    "locations": [
+      "Mississauga, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "IKO North America",
+    "title": "Data Engineer Co-Op",
+    "source": "linkedin_scraper",
+    "id": "31b22be9-d300-4c0b-a067-6ccfda1d9a21",
+    "date_posted": 1768097101,
+    "company_url": "https://ca.linkedin.com/company/iko-north-america",
+    "is_visible": true
   }
 ]
