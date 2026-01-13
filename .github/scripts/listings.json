@@ -15676,5 +15676,423 @@
     "date_posted": 1768097101,
     "company_url": "https://ca.linkedin.com/company/iko-north-america",
     "is_visible": true
+  },
+       {
+    "date_updated": 1768260337,
+    "url": "https://ca.linkedin.com/jobs/view/application-development-intern-at-bdh-collective-4354820901",
+    "locations": [
+      "Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "BDH Collective",
+    "title": "Application Development Intern",
+    "source": "linkedin_scraper",
+    "id": "0cad5318-9cab-43a1-a69f-63cb45852db2",
+    "date_posted": 1768260337,
+    "company_url": "https://ca.linkedin.com/company/bdhcollective",
+    "is_visible": true
+  }, {
+    "date_updated": 1768260337,
+    "url": "https://ca.linkedin.com/jobs/view/web-design-intern-at-bdh-collective-4354701411",
+    "locations": [
+      "Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "BDH Collective",
+    "title": "Web Design Intern",
+    "source": "linkedin_scraper",
+    "id": "539d7521-a3a6-41c0-87d1-544b9b26c18c",
+    "date_posted": 1768260337,
+    "company_url": "https://ca.linkedin.com/company/bdhcollective",
+    "is_visible": true
+  }, {
+    "date_updated": 1768260359,
+    "url": "https://ca.linkedin.com/jobs/view/product-engineering-intern-at-genpark-4354821191",
+    "locations": [
+      "Vancouver, British Columbia, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "GenPark",
+    "title": "Product Engineering Intern",
+    "source": "linkedin_scraper",
+    "id": "54087789-580b-4bbe-873d-ba31d8bef5ee",
+    "date_posted": 1768260359,
+    "company_url": "https://www.linkedin.com/company/genparkai",
+    "is_visible": true
+  }, {
+    "date_updated": 1768260359,
+    "url": "https://ca.linkedin.com/jobs/view/data-engineering-summer-2026-toronto-co-op-internship-4-months-at-quadreal-property-group-4361185247",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "QuadReal Property Group",
+    "title": "Data Engineering, Summer 2026 - Toronto (Co-op/Internship) - 4 Months",
+    "source": "linkedin_scraper",
+    "id": "bc501217-959d-43cb-ac2d-963881453347",
+    "date_posted": 1768260359,
+    "company_url": "https://ca.linkedin.com/company/quadreal",
+    "is_visible": true
+  },  {
+    "date_updated": 1768260384,
+    "url": "https://ca.linkedin.com/jobs/view/stage-en-d%C3%A9veloppement-wordpress-et-web-at-bdh-collective-4354701385",
+    "locations": [
+      "Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "BDH Collective",
+    "title": "Stage en Développement WordPress et Web",
+    "source": "linkedin_scraper",
+    "id": "e6fc089e-c77a-47a6-badc-4df3cc40fba7",
+    "date_posted": 1768260384,
+    "company_url": "https://ca.linkedin.com/company/bdhcollective",
+    "is_visible": true
+  },{
+    "date_updated": 1768260384,
+    "url": "https://ca.linkedin.com/jobs/view/c-it-766-developer-intern-en-at-cae-4352655868",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "CAE",
+    "title": "C-IT-766 Developer Intern-EN",
+    "source": "linkedin_scraper",
+    "id": "5ee10013-200e-40f6-ae42-59527d6356a6",
+    "date_posted": 1768260384,
+    "company_url": "https://ca.linkedin.com/school/cae/",
+    "is_visible": true
+  }, {
+    "date_updated": 1768260384,
+    "url": "https://ca.linkedin.com/jobs/view/dgx-cloud-automation-intern-summer-2026-at-nvidia-4360710300",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "NVIDIA",
+    "title": "DGX Cloud Automation Intern - Summer 2026",
+    "source": "linkedin_scraper",
+    "id": "04c4446d-2935-492f-b753-6325521619a0",
+    "date_posted": 1768260384,
+    "company_url": "https://www.linkedin.com/company/nvidia",
+    "is_visible": true
+  }, {
+    "date_updated": 1768260407,
+    "url": "https://ca.linkedin.com/jobs/view/c-it-200-product-cybersecurity-specialist-intern-en-at-cae-4352665952",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "CAE",
+    "title": "C-IT-200 Product Cybersecurity Specialist Intern-EN",
+    "source": "linkedin_scraper",
+    "id": "5d6dfe29-f008-454a-803f-ae97a6bf6dff",
+    "date_posted": 1768260407,
+    "company_url": "https://ca.linkedin.com/school/cae/",
+    "is_visible": true
+  }, {
+    "date_updated": 1768260450,
+    "url": "https://ca.linkedin.com/jobs/view/ratings-software-engineer-intern-early-careers-at-s-p-global-4351845491",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "S&P Global",
+    "title": "Ratings - Software Engineer Intern (Early Careers)",
+    "source": "linkedin_scraper",
+    "id": "d4609bde-494a-4f40-a0ed-062e72858eca",
+    "date_posted": 1768260450,
+    "company_url": "https://www.linkedin.com/company/spglobal",
+    "is_visible": true
+  }, {
+    "date_updated": 1768260450,
+    "url": "https://ca.linkedin.com/jobs/view/intern-full-stack-software-engineer-summer-2026-at-capital-one-4361235710",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Capital One",
+    "title": "Intern, Full Stack Software Engineer - Summer 2026",
+    "source": "linkedin_scraper",
+    "id": "ad10e923-b187-4972-b19f-a62c1061e3d1",
+    "date_posted": 1768260450,
+    "company_url": "https://www.linkedin.com/company/capital-one",
+    "is_visible": true
+  },{
+    "date_updated": 1768260450,
+    "url": "https://ca.linkedin.com/jobs/view/intern-backend-software-engineer-summer-2026-at-capital-one-4361205639",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Capital One",
+    "title": "Intern, Backend Software Engineer - Summer 2026",
+    "source": "linkedin_scraper",
+    "id": "1a451c8c-7530-4ec2-b07e-ca27841b018e",
+    "date_posted": 1768260450,
+    "company_url": "https://www.linkedin.com/company/capital-one",
+    "is_visible": true
+  },  {
+    "date_updated": 1768260474,
+    "url": "https://ca.linkedin.com/jobs/view/technical-analyst-summer-2026-co-op-internship-4-months-at-bmo-4361270321",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "BMO",
+    "title": "Technical Analyst, Summer 2026 (Co-op/Internship) -4 Months",
+    "source": "linkedin_scraper",
+    "id": "dab95d67-af8c-40ce-aff3-c51141061ca0",
+    "date_posted": 1768260474,
+    "company_url": "https://ca.linkedin.com/company/bank-of-montreal",
+    "is_visible": true
+  }, {
+    "date_updated": 1768260493,
+    "url": "https://ca.linkedin.com/jobs/view/c-it-400-%E2%80%93-full-stack-development-intern-en-at-cae-4352655869",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "CAE",
+    "title": "C-IT-400 – Full Stack Development Intern-EN",
+    "source": "linkedin_scraper",
+    "id": "3d3ab998-74ce-414d-8b17-f41127df3bad",
+    "date_posted": 1768260493,
+    "company_url": "https://ca.linkedin.com/school/cae/",
+    "is_visible": true
+  },{
+    "date_updated": 1768260509,
+    "url": "https://ca.linkedin.com/jobs/view/5g-software-developer-co-op-at-ericsson-4354751557",
+    "locations": [
+      "Ottawa, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Ericsson",
+    "title": "5G Software Developer Co-op",
+    "source": "linkedin_scraper",
+    "id": "63c34754-5514-4a2b-a416-7de7117bb82b",
+    "date_posted": 1768260509,
+    "company_url": "https://se.linkedin.com/company/ericsson",
+    "is_visible": true
+  }, {
+    "date_updated": 1768260509,
+    "url": "https://ca.linkedin.com/jobs/view/c-it-766-stagiaire-d%C3%A9veloppeur-at-cae-4360766629",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "CAE",
+    "title": "C-IT-766 Stagiaire développeur",
+    "source": "linkedin_scraper",
+    "id": "e5948fba-24ea-4d41-ad29-385032eb6a46",
+    "date_posted": 1768260509,
+    "company_url": "https://ca.linkedin.com/school/cae/",
+    "is_visible": true
+  }, {
+    "date_updated": 1768260541,
+    "url": "https://ca.linkedin.com/jobs/view/software-engineering-co-op-at-quandri-4361174281",
+    "locations": [
+      "Vancouver, British Columbia, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Quandri",
+    "title": "Software Engineering Co-op",
+    "source": "linkedin_scraper",
+    "id": "ea208fb0-b5f8-400f-831a-b808a19452dc",
+    "date_posted": 1768260541,
+    "company_url": "https://ca.linkedin.com/company/quandri",
+    "is_visible": true
+  }, {
+    "date_updated": 1768260541,
+    "url": "https://ca.linkedin.com/jobs/view/summer-co-op-%E2%80%93-it-networking-at-the-corporation-of-the-city-of-sarnia-4331975353",
+    "locations": [
+      "Sarnia, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "The Corporation of the City of Sarnia",
+    "title": "Summer Co-op – IT (Networking)",
+    "source": "linkedin_scraper",
+    "id": "0f97bff1-1ef5-496c-b0c4-0c00d34e2820",
+    "date_posted": 1768260541,
+    "company_url": "https://ca.linkedin.com/company/sarnia",
+    "is_visible": true
+  }, {
+    "date_updated": 1768260541,
+    "url": "https://ca.linkedin.com/jobs/view/software-development-co-op-student-at-loblaw-digital-4361210350",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Loblaw Digital",
+    "title": "Software Development - Co-op Student",
+    "source": "linkedin_scraper",
+    "id": "9bf07802-48a7-4c99-a144-36c883a42c68",
+    "date_posted": 1768260541,
+    "company_url": "https://ca.linkedin.com/company/loblaw-digital",
+    "is_visible": true
+  }, {
+    "date_updated": 1768260555,
+    "url": "https://ca.linkedin.com/jobs/view/student-data-governance-analyst-summer-2026-at-sun-life-4360720126",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Sun Life",
+    "title": "Student, Data Governance Analyst (Summer 2026)",
+    "source": "linkedin_scraper",
+    "id": "c3908422-62f6-492a-81c1-5e94a8a35413",
+    "date_posted": 1768260555,
+    "company_url": "https://www.linkedin.com/company/sun-life-financial",
+    "is_visible": true
+  }, {
+    "date_updated": 1768260555,
+    "url": "https://ca.linkedin.com/jobs/view/product-designer-co-op-student-at-loblaw-digital-4360770382",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Loblaw Digital",
+    "title": "Product Designer - Co-op Student",
+    "source": "linkedin_scraper",
+    "id": "c156e20a-dd0e-4fd1-a609-a6f86c41c0ad",
+    "date_posted": 1768260555,
+    "company_url": "https://ca.linkedin.com/company/loblaw-digital",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1768260555,
+    "url": "https://ca.linkedin.com/jobs/view/associate-product-manager-co-op-student-at-loblaw-digital-4361150379",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Loblaw Digital",
+    "title": "Associate Product Manager - Co-op Student",
+    "source": "linkedin_scraper",
+    "id": "835d6318-b400-4117-a7bb-0e8feec428b9",
+    "date_posted": 1768260555,
+    "company_url": "https://ca.linkedin.com/company/loblaw-digital",
+    "is_visible": true
+  }, {
+    "date_updated": 1768260555,
+    "url": "https://ca.linkedin.com/jobs/view/pepsico-canada-it-analytics-co-op-summer-2026-at-pepsico-4352596260",
+    "locations": [
+      "Mississauga, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "PepsiCo",
+    "title": "PepsiCo Canada IT Analytics Co-op - Summer 2026",
+    "source": "linkedin_scraper",
+    "id": "3e59002f-c578-4cbc-9b9c-31695d420c61",
+    "date_posted": 1768260555,
+    "company_url": "https://www.linkedin.com/company/pepsico",
+    "is_visible": true
+  },{
+    "date_updated": 1768260555,
+    "url": "https://ca.linkedin.com/jobs/view/student-analytics-technology-systems-summer-2026-at-sun-life-4361210109",
+    "locations": [
+      "Waterloo, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Sun Life",
+    "title": "Student, Analytics & Technology Systems (Summer 2026)",
+    "source": "linkedin_scraper",
+    "id": "355eeff1-1b72-428b-a41a-2e3437278684",
+    "date_posted": 1768260555,
+    "company_url": "https://www.linkedin.com/company/sun-life-financial",
+    "is_visible": true
+  }, {
+    "date_updated": 1768260555,
+    "url": "https://ca.linkedin.com/jobs/view/analyst-data-science-co-op-student-at-loblaw-companies-limited-4360730386",
+    "locations": [
+      "Brampton, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Loblaw Companies Limited",
+    "title": "Analyst, Data Science - Co-op Student",
+    "source": "linkedin_scraper",
+    "id": "a4cbd126-629a-4922-b4ca-bdc1a82bcb1b",
+    "date_posted": 1768260555,
+    "company_url": "https://ca.linkedin.com/company/loblaw-companies-limited",
+    "is_visible": true
+  }, {
+    "date_updated": 1768260591,
+    "url": "https://ca.linkedin.com/jobs/view/stagiaire-en-d%C3%A9veloppement-ia-at-ericsson-4354771500",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Ericsson",
+    "title": "Stagiaire en développement IA",
+    "source": "linkedin_scraper",
+    "id": "7486f873-a4d0-4072-8d4d-50d6d1b608c5",
+    "date_posted": 1768260591,
+    "company_url": "https://se.linkedin.com/company/ericsson",
+    "is_visible": true
+  }, {
+    "date_updated": 1768260591,
+    "url": "https://ca.linkedin.com/jobs/view/wise-summer-2026-co-op-ai-automation-analyst-developer-8-months-at-cgi-4361215277",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "CGI",
+    "title": "WiSE Summer 2026 Co-op: AI Automation Analyst/Developer (8 Months)",
+    "source": "linkedin_scraper",
+    "id": "167d2d8f-fe8a-40a2-bc57-a26f2da321a3",
+    "date_posted": 1768260591,
+    "company_url": "https://ca.linkedin.com/company/cgi",
+    "is_visible": true
   }
 ]
