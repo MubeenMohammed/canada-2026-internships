@@ -16094,5 +16094,439 @@
     "date_posted": 1768260591,
     "company_url": "https://ca.linkedin.com/company/cgi",
     "is_visible": true
+  },
+      {
+    "date_updated": 1768365284,
+    "url": "https://ca.linkedin.com/jobs/view/data-science-intern-at-the-coca-cola-company-4361623195",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "The Coca-Cola Company",
+    "title": "Data Science Intern",
+    "source": "linkedin_scraper",
+    "id": "9f9ebd32-8008-4385-9303-1db42821ae5d",
+    "date_posted": 1768365284,
+    "company_url": "https://www.linkedin.com/company/the-coca-cola-company",
+    "is_visible": true
+  }, {
+    "date_updated": 1768365284,
+    "url": "https://ca.linkedin.com/jobs/view/data-analyst-intern-at-super-com-4361309283",
+    "locations": [
+      "Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Super.com",
+    "title": "Data Analyst Intern",
+    "source": "linkedin_scraper",
+    "id": "c9564d82-144d-44f6-b48d-715658124f01",
+    "date_posted": 1768365284,
+    "company_url": "https://www.linkedin.com/company/superdotcom",
+    "is_visible": true
+  }, {
+    "date_updated": 1768365284,
+    "url": "https://ca.linkedin.com/jobs/view/software-analyst-intern-12months-at-hitachi-rail-4361525769",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Hitachi Rail",
+    "title": "Software Analyst Intern (12months)",
+    "source": "linkedin_scraper",
+    "id": "da65e763-1d11-4bf4-b885-e69ac56f4956",
+    "date_posted": 1768365284,
+    "company_url": "https://uk.linkedin.com/company/hitachirail",
+    "is_visible": true
+  }, {
+    "date_updated": 1768365284,
+    "url": "https://ca.linkedin.com/jobs/view/software-engineer-internship-opportunities-vancouver-bc-at-microsoft-4361259930",
+    "locations": [
+      "Vancouver, British Columbia, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Microsoft",
+    "title": "Software Engineer: Internship Opportunities, Vancouver, BC",
+    "source": "linkedin_scraper",
+    "id": "2b36d4ec-ffe9-47bf-bdd3-81dfd7ad21ca",
+    "date_posted": 1768365284,
+    "company_url": "https://www.linkedin.com/company/microsoft",
+    "is_visible": true
+  }, {
+    "date_updated": 1768365284,
+    "url": "https://ca.linkedin.com/jobs/view/software-engineer-summer-co-op-summer-2026-at-redcan-ai-4361614174",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Redcan.ai",
+    "title": "Software Engineer Summer Co-op (Summer 2026)",
+    "source": "linkedin_scraper",
+    "id": "c623b1a3-2797-406f-883e-b12730286c79",
+    "date_posted": 1768365284,
+    "company_url": "https://www.linkedin.com/company/redcan-ai",
+    "is_visible": true
+  }, {
+    "date_updated": 1768365302,
+    "url": "https://ca.linkedin.com/jobs/view/app-engineer-intern-at-genpark-4354846443",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "GenPark",
+    "title": "App engineer intern",
+    "source": "linkedin_scraper",
+    "id": "b64a378f-6745-4138-84c8-f8cc3617ea2a",
+    "date_posted": 1768365302,
+    "company_url": "https://www.linkedin.com/company/genparkai",
+    "is_visible": true
+  }, {
+    "date_updated": 1768365302,
+    "url": "https://ca.linkedin.com/jobs/view/data-engineering-intern-at-super-com-4361348767",
+    "locations": [
+      "Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Super.com",
+    "title": "Data Engineering Intern",
+    "source": "linkedin_scraper",
+    "id": "47336609-420a-4ff0-b5d2-4fdc2da64b3e",
+    "date_posted": 1768365302,
+    "company_url": "https://www.linkedin.com/company/superdotcom",
+    "is_visible": true
+  }, {
+    "date_updated": 1768365315,
+    "url": "https://ca.linkedin.com/jobs/view/deep-learning-researcher-intern-model-quantization-at-stmicroelectronics-4361394915",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "STMicroelectronics",
+    "title": "Deep Learning Researcher Intern - Model Quantization",
+    "source": "linkedin_scraper",
+    "id": "44084783-c2b9-4ecf-bc08-b1d955700e08",
+    "date_posted": 1768365315,
+    "company_url": "https://ch.linkedin.com/company/stmicroelectronics",
+    "is_visible": true
+  }, {
+    "date_updated": 1768365315,
+    "url": "https://ca.linkedin.com/jobs/view/software-engineering-intern-%E2%80%93-infrastructure-devops-at-super-com-4361306889",
+    "locations": [
+      "Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Super.com",
+    "title": "Software Engineering Intern – Infrastructure (DevOps)",
+    "source": "linkedin_scraper",
+    "id": "5266b966-50ff-4126-a2c2-4aba512f46eb",
+    "date_posted": 1768365315,
+    "company_url": "https://www.linkedin.com/company/superdotcom",
+    "is_visible": true
+  }, {
+    "date_updated": 1768365315,
+    "url": "https://ca.linkedin.com/jobs/view/2026-data-science-associate-intern-mdsai-at-roche-4361558467",
+    "locations": [
+      "Mississauga, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Roche",
+    "title": "2026 - Data Science Associate Intern MDSAI",
+    "source": "linkedin_scraper",
+    "id": "1f6741fd-e331-4fb2-a63f-da4f33cfbbc1",
+    "date_posted": 1768365315,
+    "company_url": "https://ch.linkedin.com/company/roche",
+    "is_visible": true
+  }, {
+    "date_updated": 1768365340,
+    "url": "https://ca.linkedin.com/jobs/view/statistical-programming-systems-intern-summer-2026-at-alexion-pharmaceuticals-inc-4361334424",
+    "locations": [
+      "Mississauga, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Alexion Pharmaceuticals, Inc.",
+    "title": "Statistical Programming Systems Intern - Summer 2026",
+    "source": "linkedin_scraper",
+    "id": "505bf10b-b4bf-4fb4-b3db-2e2c54fb4671",
+    "date_posted": 1768365340,
+    "company_url": "https://www.linkedin.com/company/alexion-pharmaceuticals",
+    "is_visible": true
+  },  {
+    "date_updated": 1768365364,
+    "url": "https://ca.linkedin.com/jobs/view/services-professional-co-op-at-ericsson-4354796556",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Ericsson",
+    "title": "Services Professional Co-op",
+    "source": "linkedin_scraper",
+    "id": "f23351b7-dcc4-4296-bc01-a7b4167b72e3",
+    "date_posted": 1768365364,
+    "company_url": "https://se.linkedin.com/company/ericsson",
+    "is_visible": true
+  }, {
+    "date_updated": 1768365379,
+    "url": "https://ca.linkedin.com/jobs/view/pepsico-canada-data-science-co-op-summer-2026-at-pepsico-4352677976",
+    "locations": [
+      "Mississauga, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "PepsiCo",
+    "title": "PepsiCo Canada Data Science Co-op - Summer 2026",
+    "source": "linkedin_scraper",
+    "id": "53eeb1cc-97a5-4412-afad-df8706da03e2",
+    "date_posted": 1768365379,
+    "company_url": "https://www.linkedin.com/company/pepsico",
+    "is_visible": true
+  }, {
+    "date_updated": 1768365379,
+    "url": "https://ca.linkedin.com/jobs/view/software-engineering-intern-at-super-com-4361128685",
+    "locations": [
+      "Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Super.com",
+    "title": "Software Engineering Intern",
+    "source": "linkedin_scraper",
+    "id": "ec8d16b5-56c4-40a9-b273-36c5a9173911",
+    "date_posted": 1768365379,
+    "company_url": "https://www.linkedin.com/company/superdotcom",
+    "is_visible": true
+  }, {
+    "date_updated": 1768365379,
+    "url": "https://ca.linkedin.com/jobs/view/software-developer-intern-i-canada-at-cisco-4340166472",
+    "locations": [
+      "Ottawa, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Cisco",
+    "title": "Software Developer (Intern) I - Canada",
+    "source": "linkedin_scraper",
+    "id": "a6a05094-29f8-4019-ab48-bc4b30f0ba3c",
+    "date_posted": 1768365379,
+    "company_url": "https://www.linkedin.com/company/cisco",
+    "is_visible": true
+  }, {
+    "date_updated": 1768365400,
+    "url": "https://ca.linkedin.com/jobs/view/software-engineer-intern-at-frostbite-4353130336",
+    "locations": [
+      "Vancouver, British Columbia, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Frostbite",
+    "title": "Software Engineer Intern",
+    "source": "linkedin_scraper",
+    "id": "4f63988b-3f26-415c-8345-cd88b28e0421",
+    "date_posted": 1768365400,
+    "company_url": "https://se.linkedin.com/company/frostbite",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1768365400,
+    "url": "https://ca.linkedin.com/jobs/view/intern-software-developer-at-autodesk-4354478924",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Autodesk",
+    "title": "Intern, Software Developer",
+    "source": "linkedin_scraper",
+    "id": "cb53647a-89e0-4061-a4fc-38b869e97a35",
+    "date_posted": 1768365400,
+    "company_url": "https://www.linkedin.com/company/autodesk",
+    "is_visible": true
+  },  {
+    "date_updated": 1768365400,
+    "url": "https://ca.linkedin.com/jobs/view/pepsico-canada-it-analytics-automation-co-op-summer-2026-at-pepsico-4352752911",
+    "locations": [
+      "Mississauga, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "PepsiCo",
+    "title": "PepsiCo Canada IT Analytics & Automation Co-op - Summer 2026",
+    "source": "linkedin_scraper",
+    "id": "d3f0293a-3583-4144-8a18-89acaaeecdc6",
+    "date_posted": 1768365400,
+    "company_url": "https://www.linkedin.com/company/pepsico",
+    "is_visible": true
+  }, {
+    "date_updated": 1768365422,
+    "url": "https://ca.linkedin.com/jobs/view/intern-machine-learning-at-autodesk-4354808709",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Autodesk",
+    "title": "Intern, Machine Learning",
+    "source": "linkedin_scraper",
+    "id": "4f7fde8c-6a07-4115-8f82-68c82afff4e1",
+    "date_posted": 1768365422,
+    "company_url": "https://www.linkedin.com/company/autodesk",
+    "is_visible": true
+  }, {
+    "date_updated": 1768365422,
+    "url": "https://ca.linkedin.com/jobs/view/embedded-software-devsecops-co-op-intern-at-lumentum-4350941577",
+    "locations": [
+      "Ottawa, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Lumentum",
+    "title": "Embedded Software DevSecOps Co-op/Intern",
+    "source": "linkedin_scraper",
+    "id": "3a6d8463-a1f1-4342-b7c8-b85b460d23c9",
+    "date_posted": 1768365422,
+    "company_url": "https://www.linkedin.com/company/lumentum",
+    "is_visible": true
+  },  {
+    "date_updated": 1768365442,
+    "url": "https://ca.linkedin.com/jobs/view/software-test-co-op-intern-at-nokia-4352960544",
+    "locations": [
+      "Kanata, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Nokia",
+    "title": "Software Test Co-op/Intern",
+    "source": "linkedin_scraper",
+    "id": "8ee7f923-941a-4c09-bee2-2ae555f7f555",
+    "date_posted": 1768365442,
+    "company_url": "https://fi.linkedin.com/company/nokia",
+    "is_visible": true
+  },  {
+    "date_updated": 1768365442,
+    "url": "https://ca.linkedin.com/jobs/view/analytical-development-intern-at-cytiva-4353111176",
+    "locations": [
+      "Vancouver, British Columbia, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Cytiva",
+    "title": "Analytical Development Intern",
+    "source": "linkedin_scraper",
+    "id": "86125360-aae1-4275-bce7-6fdd80e69b52",
+    "date_posted": 1768365442,
+    "company_url": "https://www.linkedin.com/company/cytiva",
+    "is_visible": true
+  },  {
+    "date_updated": 1768365457,
+    "url": "https://ca.linkedin.com/jobs/view/hardware-development-co-op-intern-at-nokia-4352970545",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Nokia",
+    "title": "Hardware Development Co-op/Intern",
+    "source": "linkedin_scraper",
+    "id": "5b9de773-df31-477a-9c71-e2680c2fe40e",
+    "date_posted": 1768365457,
+    "company_url": "https://fi.linkedin.com/company/nokia",
+    "is_visible": true
+  },  {
+    "date_updated": 1768365509,
+    "url": "https://ca.linkedin.com/jobs/view/business-analyst-it-co-op-at-johnson-johnson-medtech-4361386750",
+    "locations": [
+      "Markham, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Johnson & Johnson MedTech",
+    "title": "Business Analyst IT Co-Op",
+    "source": "linkedin_scraper",
+    "id": "3a0b13c7-9193-44eb-b770-a57e162cb634",
+    "date_posted": 1768365509,
+    "company_url": "https://www.linkedin.com/company/johnson-&-johnson-medtech",
+    "is_visible": true
+  }, {
+    "date_updated": 1768365574,
+    "url": "https://ca.linkedin.com/jobs/view/software-verification-automation-engineer-co-op-intern-at-lumentum-4350991473",
+    "locations": [
+      "Ottawa, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Lumentum",
+    "title": "Software Verification & Automation Engineer (Co-op/Intern)",
+    "source": "linkedin_scraper",
+    "id": "4ccc9727-716d-43e4-a324-e6e2f7a5b4fc",
+    "date_posted": 1768365574,
+    "company_url": "https://www.linkedin.com/company/lumentum",
+    "is_visible": true
+  }, {
+    "date_updated": 1768365593,
+    "url": "https://ca.linkedin.com/jobs/view/customer-applications-eng-co-op-intern-at-nokia-4352509488",
+    "locations": [
+      "Kanata, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Nokia",
+    "title": "Customer Applications Eng Co-op/Intern",
+    "source": "linkedin_scraper",
+    "id": "cc6a3466-0b84-4e5e-a792-882c217b9d75",
+    "date_posted": 1768365593,
+    "company_url": "https://fi.linkedin.com/company/nokia",
+    "is_visible": true
+  },  {
+    "date_updated": 1768365593,
+    "url": "https://ca.linkedin.com/jobs/view/co-op-it-support-at-nutrien-4352970832",
+    "locations": [
+      "Rocanville, Saskatchewan, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Nutrien",
+    "title": "Co-Op, IT Support",
+    "source": "linkedin_scraper",
+    "id": "eea61406-4d1d-4495-824e-a1e8576294e0",
+    "date_posted": 1768365593,
+    "company_url": "https://ca.linkedin.com/company/nutrien",
+    "is_visible": true
   }
 ]
