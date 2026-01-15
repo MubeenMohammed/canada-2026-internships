@@ -16528,5 +16528,491 @@
     "date_posted": 1768365593,
     "company_url": "https://ca.linkedin.com/company/nutrien",
     "is_visible": true
+  },
+      {
+    "date_updated": 1768442251,
+    "url": "https://ca.linkedin.com/jobs/view/research-intern-artificial-intelligence-at-microsoft-4341085429",
+    "locations": [
+      "Vancouver, British Columbia, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Microsoft",
+    "title": "Research Intern - Artificial Intelligence",
+    "source": "linkedin_scraper",
+    "id": "9ab2a732-16e4-416f-a5a4-aa5c9902a2bd",
+    "date_posted": 1768442251,
+    "company_url": "https://www.linkedin.com/company/microsoft",
+    "is_visible": true
+  }, {
+    "date_updated": 1768442251,
+    "url": "https://ca.linkedin.com/jobs/view/junior-data-engineer-at-koho-4341268698",
+    "locations": [
+      "Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "KOHO",
+    "title": "Junior Data Engineer",
+    "source": "linkedin_scraper",
+    "id": "abdadc4e-717d-48cf-98a7-e48e40143089",
+    "date_posted": 1768442251,
+    "company_url": "https://ca.linkedin.com/company/koho",
+    "is_visible": true
+  }, {
+    "date_updated": 1768442271,
+    "url": "https://ca.linkedin.com/jobs/view/strategy-consulting-intern-may-2026-4-month-term-toronto-at-ibm-4353175225",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "IBM",
+    "title": "Strategy Consulting Intern (May 2026 - 4 month term - Toronto)",
+    "source": "linkedin_scraper",
+    "id": "8bd52d41-d31c-4e71-b2d4-cf78b2f1dfd2",
+    "date_posted": 1768442271,
+    "company_url": "https://www.linkedin.com/company/ibm",
+    "is_visible": true
+  },{
+    "date_updated": 1768442271,
+    "url": "https://ca.linkedin.com/jobs/view/machine-learning-developer-intern-may-2026-4-months-toronto-ottawa-montreal-at-ibm-4353192678",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "IBM",
+    "title": "Machine Learning Developer Intern (May 2026 - 4 months - Toronto - Ottawa - Montreal)",
+    "source": "linkedin_scraper",
+    "id": "a1aa0005-3527-485a-b01f-23c8a9a1d250",
+    "date_posted": 1768442271,
+    "company_url": "https://www.linkedin.com/company/ibm",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1768442271,
+    "url": "https://ca.linkedin.com/jobs/view/product-management-intern-may-2026-at-sanctuary-ai-4361686122",
+    "locations": [
+      "Vancouver, British Columbia, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Sanctuary AI",
+    "title": "Product Management Intern (May 2026)",
+    "source": "linkedin_scraper",
+    "id": "06138c38-a2fb-49d0-885b-8be31a928a47",
+    "date_posted": 1768442271,
+    "company_url": "https://ca.linkedin.com/company/sanctuaryai",
+    "is_visible": true
+  }, {
+    "date_updated": 1768442296,
+    "url": "https://ca.linkedin.com/jobs/view/inkompass-head-office-it-b2c-intern-at-philip-morris-international-4343950575",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Philip Morris International",
+    "title": "Inkompass Head Office - IT B2C Intern",
+    "source": "linkedin_scraper",
+    "id": "42e608e2-647a-43fa-8abe-a4bf7187f294",
+    "date_posted": 1768442296,
+    "company_url": "https://ch.linkedin.com/company/insidepmi",
+    "is_visible": true
+  }, {
+    "date_updated": 1768442296,
+    "url": "https://ca.linkedin.com/jobs/view/2026-data-science-associate-intern-mdsai-at-roche-4361558467",
+    "locations": [
+      "Mississauga, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Roche",
+    "title": "2026 - Data Science Associate Intern MDSAI",
+    "source": "linkedin_scraper",
+    "id": "3f53827b-25a8-4ae7-8172-fac29d03c541",
+    "date_posted": 1768442296,
+    "company_url": "https://ch.linkedin.com/company/roche",
+    "is_visible": true
+  },  {
+    "date_updated": 1768442311,
+    "url": "https://ca.linkedin.com/jobs/view/research-intern-multimodal-learning-at-microsoft-4341295143",
+    "locations": [
+      "Vancouver, British Columbia, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Microsoft",
+    "title": "Research Intern - Multimodal Learning",
+    "source": "linkedin_scraper",
+    "id": "b641176a-eb37-462c-b4c7-541597dd3656",
+    "date_posted": 1768442311,
+    "company_url": "https://www.linkedin.com/company/microsoft",
+    "is_visible": true
+  }, {
+    "date_updated": 1768442311,
+    "url": "https://ca.linkedin.com/jobs/view/ai-mobile-application-developer-intern-ios-android-may-2026-4-to-8-months-%E2%80%93-toronto-at-ibm-4353005596",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "IBM",
+    "title": "AI & Mobile Application Developer Intern iOS/Android (May 2026 - 4 to 8 Months – Toronto)",
+    "source": "linkedin_scraper",
+    "id": "bb35b712-a2ee-4115-be2c-14dd402d6969",
+    "date_posted": 1768442311,
+    "company_url": "https://www.linkedin.com/company/ibm",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1768442311,
+    "url": "https://ca.linkedin.com/jobs/view/ai-automation-data-scientist-intern-may-2026-4-month-toronto-ottawa-or-montreal-at-ibm-4353220424",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "IBM",
+    "title": "AI & Automation Data Scientist Intern (May 2026 - 4 month - Toronto, Ottawa or Montreal)",
+    "source": "linkedin_scraper",
+    "id": "0dc21aa7-84fb-4485-8d37-80bb67c765ff",
+    "date_posted": 1768442311,
+    "company_url": "https://www.linkedin.com/company/ibm",
+    "is_visible": true
+  }, {
+    "date_updated": 1768442311,
+    "url": "https://ca.linkedin.com/jobs/view/stagiaire-d%C3%A9veloppeur-full-stack-at-ericsson-4359112025",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Ericsson",
+    "title": "Stagiaire Développeur Full Stack",
+    "source": "linkedin_scraper",
+    "id": "98e701aa-05f4-4086-825a-232748547843",
+    "date_posted": 1768442311,
+    "company_url": "https://se.linkedin.com/company/ericsson",
+    "is_visible": true
+  }, {
+    "date_updated": 1768442333,
+    "url": "https://ca.linkedin.com/jobs/view/architecture-and-ai-summer-2026-calgary-co-op-internship-8-months-at-quadreal-property-group-4361623604",
+    "locations": [
+      "Calgary, Alberta, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "QuadReal Property Group",
+    "title": "Architecture and AI, Summer 2026 - Calgary (Co-op/Internship) - 8 Months",
+    "source": "linkedin_scraper",
+    "id": "f8ebd7fc-2634-4c53-a6a2-4d8ffeccfbdf",
+    "date_posted": 1768366800,
+    "company_url": "https://ca.linkedin.com/company/quadreal",
+    "is_visible": true
+  }, {
+    "date_updated": 1768442346,
+    "url": "https://ca.linkedin.com/jobs/view/data-science-intern-at-ryan-4362702959",
+    "locations": [
+      "North York, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Ryan",
+    "title": "Data Science Intern",
+    "source": "linkedin_scraper",
+    "id": "66576a6b-b1fa-4dc6-ba9d-39c790a25132",
+    "date_posted": 1768442346,
+    "company_url": "https://www.linkedin.com/company/ryan",
+    "is_visible": true
+  }, {
+    "date_updated": 1768442346,
+    "url": "https://ca.linkedin.com/jobs/view/data-center-technician-intern-at-microsoft-4341245410",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Microsoft",
+    "title": "Data Center Technician Intern",
+    "source": "linkedin_scraper",
+    "id": "c321d0b4-d356-4fda-8930-771c58aed2a1",
+    "date_posted": 1768442346,
+    "company_url": "https://www.linkedin.com/company/microsoft",
+    "is_visible": true
+  }, {
+    "date_updated": 1768442346,
+    "url": "https://ca.linkedin.com/jobs/view/intern-financial-data-analyst-at-crestpoint-real-estate-investments-ltd-4362334329",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Crestpoint Real Estate Investments Ltd",
+    "title": "Intern, Financial Data Analyst",
+    "source": "linkedin_scraper",
+    "id": "3b8627e5-e96f-4718-a40f-c8e706fec9ca",
+    "date_posted": 1768442346,
+    "company_url": "https://ca.linkedin.com/company/crestpoint-real-estate-investments-ltd",
+    "is_visible": true
+  }, {
+    "date_updated": 1768442379,
+    "url": "https://ca.linkedin.com/jobs/view/deep-learning-researcher-intern-model-quantization-at-stmicroelectronics-4354858712",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "STMicroelectronics",
+    "title": "Deep Learning Researcher Intern - Model Quantization",
+    "source": "linkedin_scraper",
+    "id": "8926c807-3b79-4c34-abef-9678493d1380",
+    "date_posted": 1768442379,
+    "company_url": "https://ch.linkedin.com/company/stmicroelectronics",
+    "is_visible": true
+  }, {
+    "date_updated": 1768442379,
+    "url": "https://ca.linkedin.com/jobs/view/co-op-intern-engineer-data-and-analytics-at-kinaxis-4362493090",
+    "locations": [
+      "Waterloo, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Kinaxis",
+    "title": "Co-Op/Intern Engineer, Data and Analytics",
+    "source": "linkedin_scraper",
+    "id": "8dd06e05-8f0f-495e-9c51-a2aa3e17b9b2",
+    "date_posted": 1768442379,
+    "company_url": "https://ca.linkedin.com/company/kinaxis",
+    "is_visible": true
+  }, {
+    "date_updated": 1768442379,
+    "url": "https://ca.linkedin.com/jobs/view/data-services-developer-intern-may-2026-4-month-toronto-or-ottawa-at-ibm-4353035476",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "IBM",
+    "title": "Data Services Developer Intern (May 2026 - 4 month - Toronto or Ottawa)",
+    "source": "linkedin_scraper",
+    "id": "6051363a-d24f-4042-af49-173983acbceb",
+    "date_posted": 1768442379,
+    "company_url": "https://www.linkedin.com/company/ibm",
+    "is_visible": true
+  }, {
+    "date_updated": 1768442379,
+    "url": "https://ca.linkedin.com/jobs/view/development-summer-2026-toronto-co-op-internship-4-months-at-quadreal-property-group-4361688424",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "QuadReal Property Group",
+    "title": "Development, Summer 2026 - Toronto (Co-op/Internship) - 4 Months",
+    "source": "linkedin_scraper",
+    "id": "b4527441-a0bf-46b9-acfa-7db22f8d43c0",
+    "date_posted": 1768442379,
+    "company_url": "https://ca.linkedin.com/company/quadreal",
+    "is_visible": true
+  }, {
+    "date_updated": 1768442398,
+    "url": "https://ca.linkedin.com/jobs/view/co-op-intern-ux-design-at-kinaxis-4362345181",
+    "locations": [
+      "Ottawa, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Kinaxis",
+    "title": "Co-op/Intern UX Design",
+    "source": "linkedin_scraper",
+    "id": "b3e4f765-b534-40ce-a1dc-b7e18eb2613a",
+    "date_posted": 1768442398,
+    "company_url": "https://ca.linkedin.com/company/kinaxis",
+    "is_visible": true
+  },{
+    "date_updated": 1768442398,
+    "url": "https://ca.linkedin.com/jobs/view/federal-consulting-intern-may-2026-4-months-ottawa-at-ibm-4353201968",
+    "locations": [
+      "Ottawa, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "IBM",
+    "title": "Federal Consulting Intern (May 2026 - 4 months - Ottawa)",
+    "source": "linkedin_scraper",
+    "id": "8a639e42-af8f-473c-877c-bfbf5c6debf2",
+    "date_posted": 1768442398,
+    "company_url": "https://www.linkedin.com/company/ibm",
+    "is_visible": true
+  }, {
+    "date_updated": 1768442423,
+    "url": "https://ca.linkedin.com/jobs/view/sw-developer-intern-at-vecima-networks-inc-4357630804",
+    "locations": [
+      "Saskatoon, Saskatchewan, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Vecima Networks Inc.",
+    "title": "SW Developer Intern",
+    "source": "linkedin_scraper",
+    "id": "b11f19aa-045f-46dd-ac4d-e904c519f772",
+    "date_posted": 1768442423,
+    "company_url": "https://ca.linkedin.com/company/vecima-networks",
+    "is_visible": true
+  }, {
+    "date_updated": 1768442423,
+    "url": "https://ca.linkedin.com/jobs/view/ai-automation-solutions-intern-may-2026-may-2027-at-eli-lilly-and-company-4362334702",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Eli Lilly and Company",
+    "title": "AI & Automation Solutions Intern (May 2026 - May 2027)",
+    "source": "linkedin_scraper",
+    "id": "e33b52c1-8b4b-4c95-acd6-577f642c072e",
+    "date_posted": 1768442423,
+    "company_url": "https://www.linkedin.com/company/eli-lilly-and-company",
+    "is_visible": true
+  }, {
+    "date_updated": 1768442423,
+    "url": "https://ca.linkedin.com/jobs/view/digital-product-engineering-consulting-intern-may-2026-4-or-8-months-toronto-at-ibm-4352975514",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "IBM",
+    "title": "Digital Product Engineering Consulting Intern (May 2026 - 4 or 8 months - Toronto)",
+    "source": "linkedin_scraper",
+    "id": "ad47dc79-b0ef-46e3-8ba6-56e693a1c1fa",
+    "date_posted": 1768442423,
+    "company_url": "https://www.linkedin.com/company/ibm",
+    "is_visible": true
+  }, {
+    "date_updated": 1768442423,
+    "url": "https://ca.linkedin.com/jobs/view/ibm-payment-center-developer-intern-may-2026-8-months-toronto-at-ibm-4353065385",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "IBM",
+    "title": "IBM Payment Center Developer Intern (May 2026 - 8 Months - Toronto)",
+    "source": "linkedin_scraper",
+    "id": "fe85098e-0fee-4d78-bd46-9e5e256717db",
+    "date_posted": 1768442423,
+    "company_url": "https://www.linkedin.com/company/ibm",
+    "is_visible": true
+  }, {
+    "date_updated": 1768442480,
+    "url": "https://ca.linkedin.com/jobs/view/business-it-analyst-co-op-8-month-at-kenvue-4357651145",
+    "locations": [
+      "Markham, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Kenvue",
+    "title": "Business IT Analyst Co-op (8-month)",
+    "source": "linkedin_scraper",
+    "id": "96769ea6-6bad-4aa6-8269-338ef33494c0",
+    "date_posted": 1768442480,
+    "company_url": "https://www.linkedin.com/company/kenvue",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1768442480,
+    "url": "https://ca.linkedin.com/jobs/view/digital-analytics-co-op-student-at-olg-4354972946",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "OLG",
+    "title": "Digital Analytics Co-op Student",
+    "source": "linkedin_scraper",
+    "id": "3f357dba-603f-4b31-8500-02ae38dda612",
+    "date_posted": 1768442480,
+    "company_url": "https://ca.linkedin.com/company/olg",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1768442480,
+    "url": "https://ca.linkedin.com/jobs/view/co-op-student-it-support-at-city-of-mississauga-4353006194",
+    "locations": [
+      "Mississauga, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "City of Mississauga",
+    "title": "Co-Op Student - IT Support",
+    "source": "linkedin_scraper",
+    "id": "97c219d0-b2bf-4a1d-aaf0-f7d5c705d14e",
+    "date_posted": 1768442480,
+    "company_url": "https://ca.linkedin.com/company/city-of-mississauga",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1768442480,
+    "url": "https://ca.linkedin.com/jobs/view/software-developer-in-test-co-op-shift-at-redbrick-4359082130",
+    "locations": [
+      "Victoria, British Columbia, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Redbrick",
+    "title": "Software Developer In Test - Co-op - Shift",
+    "source": "linkedin_scraper",
+    "id": "244e03a0-821b-4837-9e99-72fd99909c3c",
+    "date_posted": 1768442480,
+    "company_url": "https://ca.linkedin.com/company/rdbrck",
+    "is_visible": true
+  }, {
+    "date_updated": 1768442554,
+    "url": "https://ca.linkedin.com/jobs/view/ota-test-automation-co-op-at-ericsson-4359112026",
+    "locations": [
+      "Ottawa, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Ericsson",
+    "title": "OTA Test Automation CO OP",
+    "source": "linkedin_scraper",
+    "id": "187ed783-a58c-4641-9dde-d71f36511feb",
+    "date_posted": 1768442554,
+    "company_url": "https://se.linkedin.com/company/ericsson",
+    "is_visible": true
   }
 ]
