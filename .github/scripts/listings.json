@@ -17014,5 +17014,278 @@
     "date_posted": 1768442554,
     "company_url": "https://se.linkedin.com/company/ericsson",
     "is_visible": true
+  },
+       {
+    "date_updated": 1768518739,
+    "url": "https://ca.linkedin.com/jobs/view/it-intern-end-user-support-at-cmic-4362852037",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "CMiC",
+    "title": "IT Intern - End-User Support",
+    "source": "linkedin_scraper",
+    "id": "2ede65b5-8f59-4c0a-af32-90535f4ce564",
+    "date_posted": 1768518739,
+    "company_url": "https://ca.linkedin.com/company/cmic",
+    "is_visible": true
+  }, {
+    "date_updated": 1768518739,
+    "url": "https://ca.linkedin.com/jobs/view/data-engineering-intern-at-hireshire-4353272033",
+    "locations": [
+      "Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Hireshire",
+    "title": "Data Engineering Intern",
+    "source": "linkedin_scraper",
+    "id": "59b037f7-e55f-4ae6-b772-fc47623f5879",
+    "date_posted": 1768518739,
+    "company_url": "https://www.linkedin.com/company/hireshire",
+    "is_visible": true
+  }, {
+    "date_updated": 1768518739,
+    "url": "https://ca.linkedin.com/jobs/view/ai-intern-at-vinci-construction-4362719504",
+    "locations": [
+      "North Vancouver, British Columbia, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "VINCI Construction",
+    "title": "AI Intern",
+    "source": "linkedin_scraper",
+    "id": "ede153bf-bb66-40b7-9eeb-879df2da6217",
+    "date_posted": 1768518739,
+    "company_url": "https://fr.linkedin.com/company/vinci-construction",
+    "is_visible": true
+  }, {
+    "date_updated": 1768518764,
+    "url": "https://ca.linkedin.com/jobs/view/automation-specialist-internship-at-boldmac-4359182317",
+    "locations": [
+      "Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "BoldMAC",
+    "title": "Automation Specialist Internship",
+    "source": "linkedin_scraper",
+    "id": "b13cda96-63fe-4737-8da6-d4a54eff240e",
+    "date_posted": 1768518764,
+    "company_url": "https://ca.linkedin.com/company/boldmac",
+    "is_visible": true
+  },  {
+    "date_updated": 1768518781,
+    "url": "https://ca.linkedin.com/jobs/view/intern-developer-summer-2026-at-ia-financial-group-industrial-alliance-4362852578",
+    "locations": [
+      "Québec, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "iA Financial Group (Industrial Alliance)",
+    "title": "Intern - Developer (Summer 2026)",
+    "source": "linkedin_scraper",
+    "id": "99da608f-86c5-499c-8052-c21f7ff0ce4a",
+    "date_posted": 1768518781,
+    "company_url": "https://ca.linkedin.com/company/industrielle_alliance",
+    "is_visible": true
+  },  {
+    "date_updated": 1768518864,
+    "url": "https://ca.linkedin.com/jobs/view/co-op-intern-engineer-data-and-analytics-at-kinaxis-4362493090",
+    "locations": [
+      "Waterloo, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Kinaxis",
+    "title": "Co-Op/Intern Engineer, Data and Analytics",
+    "source": "linkedin_scraper",
+    "id": "8ab45148-1c7f-4e6e-b3ba-0b5bc81d18e3",
+    "date_posted": 1768518864,
+    "company_url": "https://ca.linkedin.com/company/kinaxis",
+    "is_visible": true
+  }, {
+    "date_updated": 1768518864,
+    "url": "https://ca.linkedin.com/jobs/view/oracle-erp-technical-intern-at-calfus-inc-4342664342",
+    "locations": [
+      "Greater Vancouver, British Columbia, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Calfus Inc.",
+    "title": "Oracle ERP Technical Intern",
+    "source": "linkedin_scraper",
+    "id": "cc164563-1366-46fe-96c7-9903370a891e",
+    "date_posted": 1768518864,
+    "company_url": "https://www.linkedin.com/company/calfusinc",
+    "is_visible": true
+  },  {
+    "date_updated": 1768518864,
+    "url": "https://ca.linkedin.com/jobs/view/ai-agent-development-intern-summer-2026-at-ciena-4359019791",
+    "locations": [
+      "Ottawa, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Ciena",
+    "title": "AI Agent Development Intern (Summer 2026)",
+    "source": "linkedin_scraper",
+    "id": "b0f23c22-a3cd-4d1e-bbbb-a30445177bb5",
+    "date_posted": 1768518864,
+    "company_url": "https://www.linkedin.com/company/ciena",
+    "is_visible": true
+  },  {
+    "date_updated": 1768518907,
+    "url": "https://ca.linkedin.com/jobs/view/oracle-consulting-interns-jan-2026-4-months-toronto-ottawa-calgary-at-ibm-4352986407",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "IBM",
+    "title": "Oracle Consulting Interns (Jan 2026 - 4 months - Toronto, Ottawa, Calgary)",
+    "source": "linkedin_scraper",
+    "id": "7b3fee7c-c89d-4888-8d5b-46200b412b36",
+    "date_posted": 1768518907,
+    "company_url": "https://www.linkedin.com/company/ibm",
+    "is_visible": true
+  },  {
+    "date_updated": 1768518907,
+    "url": "https://ca.linkedin.com/jobs/view/operational-risk-intern-%E2%80%93-technology-expertise-summer-2026-at-bnp-paribas-4348286797",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "BNP Paribas",
+    "title": "Operational Risk Intern – Technology Expertise (Summer 2026)",
+    "source": "linkedin_scraper",
+    "id": "2ebaa959-93aa-4a9e-aa97-64f54107c351",
+    "date_posted": 1768518907,
+    "company_url": "https://fr.linkedin.com/company/bnp-paribas",
+    "is_visible": true
+  }, {
+    "date_updated": 1768518921,
+    "url": "https://ca.linkedin.com/jobs/view/professional-experience-year-pey-student-artificial-intelligence-machine-learning-engineer-at-rbc-4363500140",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "RBC",
+    "title": "Professional Experience Year (PEY) Student - Artificial Intelligence/Machine Learning Engineer",
+    "source": "linkedin_scraper",
+    "id": "5f66d719-96fa-430b-b693-0bf09a291401",
+    "date_posted": 1768518921,
+    "company_url": "https://ca.linkedin.com/company/rbc",
+    "is_visible": true
+  },  {
+    "date_updated": 1768518968,
+    "url": "https://ca.linkedin.com/jobs/view/c-cv-112-stage-en-int%C3%A9grit%C3%A9-des-donn%C3%A9es-et-intelligence-d%E2%80%99affaires-at-cae-4362499400",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "CAE",
+    "title": "C-CV-112-Stage en intégrité des données et intelligence d’affaires",
+    "source": "linkedin_scraper",
+    "id": "b120ec35-3d0e-4ad1-8492-153f52348fe4",
+    "date_posted": 1768518968,
+    "company_url": "https://ca.linkedin.com/school/cae/",
+    "is_visible": true
+  },  {
+    "date_updated": 1768518990,
+    "url": "https://ca.linkedin.com/jobs/view/software-developer-ii-co-op-canada-at-cisco-4362940681",
+    "locations": [
+      "Kanata, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Cisco",
+    "title": "Software Developer II (Co-op) - Canada",
+    "source": "linkedin_scraper",
+    "id": "18dcc096-ba23-4a60-a6e9-45f8027e3098",
+    "date_posted": 1768518990,
+    "company_url": "https://www.linkedin.com/company/cisco",
+    "is_visible": true
+  },  {
+    "date_updated": 1768519005,
+    "url": "https://ca.linkedin.com/jobs/view/automation-engineer-co-op-intern-at-nokia-4353501205",
+    "locations": [
+      "Kanata, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Nokia",
+    "title": "Automation Engineer Co-op/Intern",
+    "source": "linkedin_scraper",
+    "id": "4b579dd8-3789-4d8e-a8c5-8db3094bbc12",
+    "date_posted": 1768519005,
+    "company_url": "https://fi.linkedin.com/company/nokia",
+    "is_visible": true
+  },  {
+    "date_updated": 1768519025,
+    "url": "https://ca.linkedin.com/jobs/view/qa-automation-engineer-at-blastworks-inc-4357622439",
+    "locations": [
+      "Victoria, British Columbia, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Blastworks Inc.",
+    "title": "QA Automation Engineer",
+    "source": "linkedin_scraper",
+    "id": "000de49e-6caa-4d17-a106-b8db9269b981",
+    "date_posted": 1768519025,
+    "company_url": "https://ca.linkedin.com/company/blastworks-inc-",
+    "is_visible": true
+  }, {
+    "date_updated": 1768519048,
+    "url": "https://ca.linkedin.com/jobs/view/co-op-researcher-mobile-interaction-engineering-ml-at-huawei-canada-4362713283",
+    "locations": [
+      "Markham, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Huawei Canada",
+    "title": "Co-op Researcher - Mobile Interaction Engineering (ML)",
+    "source": "linkedin_scraper",
+    "id": "8b2ddf1b-cb1b-4666-9fc9-605abcbada27",
+    "date_posted": 1768519048,
+    "company_url": "https://ca.linkedin.com/company/huawei-technologies-canada-co-ltd",
+    "is_visible": true
+  }, {
+    "date_updated": 1768519048,
+    "url": "https://ca.linkedin.com/jobs/view/student-cloud-cx-consultant-summer-2026-at-sun-life-4361687362",
+    "locations": [
+      "Waterloo, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Sun Life",
+    "title": "Student, Cloud CX Consultant (Summer 2026)",
+    "source": "linkedin_scraper",
+    "id": "8e480ae7-a6ef-4426-8a16-df33ea63f62b",
+    "date_posted": 1768519048,
+    "company_url": "https://www.linkedin.com/company/sun-life-financial",
+    "is_visible": true
   }
 ]
