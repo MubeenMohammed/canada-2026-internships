@@ -17287,5 +17287,183 @@
     "date_posted": 1768519048,
     "company_url": "https://www.linkedin.com/company/sun-life-financial",
     "is_visible": true
+  },
+       {
+    "date_updated": 1768861838,
+    "url": "https://ca.linkedin.com/jobs/view/software-engineer-intern-co-op-at-td-4364315788",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "TD",
+    "title": "Software Engineer Intern/Co-op",
+    "source": "linkedin_scraper",
+    "id": "dd73d453-a9a5-4c1f-9d50-70f16c4942ca",
+    "date_posted": 1768861838,
+    "company_url": "https://ca.linkedin.com/company/td",
+    "is_visible": true
+  }, {
+    "date_updated": 1768861838,
+    "url": "https://ca.linkedin.com/jobs/view/software-developer-intern-co-op-summer-2026-at-td-4346495181",
+    "locations": [
+      "Greater Toronto Area, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "TD",
+    "title": "Software Developer Intern/Co-op (SUMMER 2026)",
+    "source": "linkedin_scraper",
+    "id": "47799629-4884-4294-981d-6c7d56f2ab2b",
+    "date_posted": 1768861838,
+    "company_url": "https://ca.linkedin.com/company/td",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1768861838,
+    "url": "https://ca.linkedin.com/jobs/view/ai2-software-engineer-co-op-intern-summer-2026-at-td-4346514712",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "TD",
+    "title": "AI2 Software Engineer Co-op/Intern (SUMMER 2026)",
+    "source": "linkedin_scraper",
+    "id": "6c8f5ec2-6046-45b5-91e0-5428887471ac",
+    "date_posted": 1768861838,
+    "company_url": "https://ca.linkedin.com/company/td",
+    "is_visible": true
+  }, {
+    "date_updated": 1768861898,
+    "url": "https://ca.linkedin.com/jobs/view/internal-ai-developer-spring-2026-co-op-at-d2l-4364395884",
+    "locations": [
+      "Kitchener, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "D2L",
+    "title": "Internal AI Developer - Spring 2026 Co-op",
+    "source": "linkedin_scraper",
+    "id": "f18b6234-724b-47c1-9eeb-dbd52fcb2a59",
+    "date_posted": 1768861898,
+    "company_url": "https://ca.linkedin.com/company/d2l",
+    "is_visible": true
+  }, {
+    "date_updated": 1768861964,
+    "url": "https://ca.linkedin.com/jobs/view/it-security-intern-at-cozey-4364315818",
+    "locations": [
+      "Mont-Royal, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Cozey",
+    "title": "IT & Security Intern",
+    "source": "linkedin_scraper",
+    "id": "28938b07-6936-464d-a21e-3f491bfc0af0",
+    "date_posted": 1768861964,
+    "company_url": "https://ca.linkedin.com/company/cozeycanada",
+    "is_visible": true
+  },{
+    "date_updated": 1768861964,
+    "url": "https://ca.linkedin.com/jobs/view/risk-management-applied-machine-learning-scientist-model-validation-intern-co-op-summer-2026-at-td-4346544110",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "TD",
+    "title": "Risk Management - Applied Machine Learning Scientist, Model Validation Intern/Co-op (Summer 2026)",
+    "source": "linkedin_scraper",
+    "id": "b02991dd-5b13-45ed-846d-eb3c2f87435b",
+    "date_posted": 1768861964,
+    "company_url": "https://ca.linkedin.com/company/td",
+    "is_visible": true
+  }, {
+    "date_updated": 1768861980,
+    "url": "https://ca.linkedin.com/jobs/view/intern-associate-engineer-llm-application-platform-at-huawei-canada-4364385635",
+    "locations": [
+      "Kingston, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Huawei Canada",
+    "title": "Intern Associate Engineer - LLM Application Platform",
+    "source": "linkedin_scraper",
+    "id": "9c44ad2b-3499-4a68-b0a2-45775da3993b",
+    "date_posted": 1768861980,
+    "company_url": "https://ca.linkedin.com/company/huawei-technologies-canada-co-ltd",
+    "is_visible": true
+  }, {
+    "date_updated": 1768861980,
+    "url": "https://ca.linkedin.com/jobs/view/quality-engineer-intern-co-op-summer-2026-at-td-4346514740",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "TD",
+    "title": "Quality Engineer Intern/Co-op (Summer 2026)",
+    "source": "linkedin_scraper",
+    "id": "69dae572-4e69-4d4c-acaf-11941481b3b3",
+    "date_posted": 1768861980,
+    "company_url": "https://ca.linkedin.com/company/td",
+    "is_visible": true
+  },{
+    "date_updated": 1768862080,
+    "url": "https://ca.linkedin.com/jobs/view/risk-management-model-development-intern-co-op-summer-2026-at-td-4346600098",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "TD",
+    "title": "Risk Management - Model Development Intern/Co-op (Summer 2026)",
+    "source": "linkedin_scraper",
+    "id": "d95709c0-4216-47eb-9540-1f59cba452a5",
+    "date_posted": 1768862080,
+    "company_url": "https://ca.linkedin.com/company/td",
+    "is_visible": true
+  }, {
+    "date_updated": 1768862093,
+    "url": "https://ca.linkedin.com/jobs/view/associate-software-engineer-at-jerry-4353857172",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Jerry",
+    "title": "Associate Software Engineer",
+    "source": "linkedin_scraper",
+    "id": "a6a6b0be-f051-4796-8052-2b1dc39206b4",
+    "date_posted": 1768862093,
+    "company_url": "https://www.linkedin.com/company/jerryinc",
+    "is_visible": true
+  },  {
+    "date_updated": 1768862093,
+    "url": "https://ca.linkedin.com/jobs/view/platform-engineering-co-op-student-at-arc-teryx-equipment-4364064398",
+    "locations": [
+      "North Vancouver, British Columbia, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Arc'teryx Equipment",
+    "title": "Platform Engineering Co-op Student",
+    "source": "linkedin_scraper",
+    "id": "5e5fb47b-7e3b-47ed-94f0-e4a227303ee5",
+    "date_posted": 1768862093,
+    "company_url": "https://ca.linkedin.com/company/arc-teryx-equipment-inc-",
+    "is_visible": true
   }
 ]
