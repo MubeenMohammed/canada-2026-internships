@@ -17465,5 +17465,279 @@
     "date_posted": 1768862093,
     "company_url": "https://ca.linkedin.com/company/arc-teryx-equipment-inc-",
     "is_visible": true
+  },
+       {
+    "date_updated": 1768954591,
+    "url": "https://ca.linkedin.com/jobs/view/summer-intern-%E2%80%93-software-engineer-at-general-motors-4364931421",
+    "locations": [
+      "Markham, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "General Motors",
+    "title": "Summer Intern – Software Engineer",
+    "source": "linkedin_scraper",
+    "id": "b3d38cd1-eeda-4982-96c5-0d2d9f06e704",
+    "date_posted": 1768954591,
+    "company_url": "https://www.linkedin.com/company/general-motors",
+    "is_visible": true
+  }, {
+    "date_updated": 1768954591,
+    "url": "https://ca.linkedin.com/jobs/view/software-engineer-intern-co-op-summer-2026-at-td-4364940257",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "TD",
+    "title": "Software Engineer Intern/Co-op (Summer 2026)",
+    "source": "linkedin_scraper",
+    "id": "55feea3b-765b-430c-af1f-d449eb21d065",
+    "date_posted": 1768954591,
+    "company_url": "https://ca.linkedin.com/company/td",
+    "is_visible": true
+  }, {
+    "date_updated": 1768954603,
+    "url": "https://ca.linkedin.com/jobs/view/velocity-devops-engineer-capital-markets-internship-co-op-12-16-months-summer-2026-at-scotiabank-4360397897",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Scotiabank",
+    "title": "Velocity - DevOps Engineer - Capital Markets Internship/Co-Op 12-16 Months - Summer 2026",
+    "source": "linkedin_scraper",
+    "id": "9d66adf8-4536-49c9-8cd9-37f213fbdb9c",
+    "date_posted": 1768954603,
+    "company_url": "https://ca.linkedin.com/company/scotiabank",
+    "is_visible": true
+  }, {
+    "date_updated": 1768954626,
+    "url": "https://ca.linkedin.com/jobs/view/product-engineer-intern-at-galvion-4360973681",
+    "locations": [
+      "Montréal-Ouest, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Galvion",
+    "title": "Product Engineer Intern",
+    "source": "linkedin_scraper",
+    "id": "7ca5c13a-2359-41c1-8c36-a08a76ea276e",
+    "date_posted": 1768954626,
+    "company_url": "https://www.linkedin.com/company/galvion",
+    "is_visible": true
+  }, {
+    "date_updated": 1768954626,
+    "url": "https://ca.linkedin.com/jobs/view/systems-engineering-intern-co-op-ajiss-ec-at-thales-4364954442",
+    "locations": [
+      "Victoria, British Columbia, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Thales",
+    "title": "Systems Engineering Intern /CO-OP - AJISS EC",
+    "source": "linkedin_scraper",
+    "id": "a19a030c-6ebc-4850-aecc-9807f63e3657",
+    "date_posted": 1768954626,
+    "company_url": "https://fr.linkedin.com/company/thales",
+    "is_visible": true
+  }, {
+    "date_updated": 1768954649,
+    "url": "https://ca.linkedin.com/jobs/view/student-intern-automation-support-development-engineering-at-celestica-4326039940",
+    "locations": [
+      "Newmarket, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Celestica",
+    "title": "Student Intern, Automation Support / Development Engineering",
+    "source": "linkedin_scraper",
+    "id": "f58e45f4-997b-4d3f-a535-f051eb203ffb",
+    "date_posted": 1768954649,
+    "company_url": "https://ca.linkedin.com/company/celestica",
+    "is_visible": true
+  }, {
+    "date_updated": 1768954649,
+    "url": "https://ca.linkedin.com/jobs/view/summer-intern-2026-data-office-platform-support-at-mackenzie-investments-4342734409",
+    "locations": [
+      "Greater Toronto Area, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Mackenzie Investments",
+    "title": "Summer Intern 2026 - Data Office Platform Support",
+    "source": "linkedin_scraper",
+    "id": "323e0299-b1e4-4cc0-a5ad-23d926ac9c61",
+    "date_posted": 1768954649,
+    "company_url": "https://ca.linkedin.com/company/mackenzie-investments",
+    "is_visible": true
+  },  {
+    "date_updated": 1768954714,
+    "url": "https://ca.linkedin.com/jobs/view/summer-intern-2026-data-science-toronto-office-at-mackenzie-investments-4342776659",
+    "locations": [
+      "Greater Toronto Area, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Mackenzie Investments",
+    "title": "Summer Intern 2026 - Data Science (Toronto Office)",
+    "source": "linkedin_scraper",
+    "id": "add617b3-5a9b-414e-9701-dae9ed731db3",
+    "date_posted": 1768954714,
+    "company_url": "https://ca.linkedin.com/company/mackenzie-investments",
+    "is_visible": true
+  }, {
+    "date_updated": 1768954714,
+    "url": "https://ca.linkedin.com/jobs/view/web-portal-dev-co-op-intern-at-nokia-4353924938",
+    "locations": [
+      "Kanata, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Nokia",
+    "title": "Web Portal Dev Co-op/Intern",
+    "source": "linkedin_scraper",
+    "id": "9d20a0cd-4d80-452d-8d59-850f1baaa8b1",
+    "date_posted": 1768954714,
+    "company_url": "https://fi.linkedin.com/company/nokia",
+    "is_visible": true
+  }, {
+    "date_updated": 1768954817,
+    "url": "https://ca.linkedin.com/jobs/view/software-designer-co-op-intern-at-nokia-4353990870",
+    "locations": [
+      "Kanata, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Nokia",
+    "title": "Software Designer Co-op/Intern",
+    "source": "linkedin_scraper",
+    "id": "09c8aac4-8de3-41a5-90ef-b613bf726530",
+    "date_posted": 1768954817,
+    "company_url": "https://fi.linkedin.com/company/nokia",
+    "is_visible": true
+  }, {
+    "date_updated": 1768954817,
+    "url": "https://ca.linkedin.com/jobs/view/software-engineer-i-at-planview-4350743051",
+    "locations": [
+      "Vancouver, British Columbia, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Planview",
+    "title": "Software Engineer I",
+    "source": "linkedin_scraper",
+    "id": "b6779c36-5946-4a50-90ce-4bf2c28fcae0",
+    "date_posted": 1768954817,
+    "company_url": "https://www.linkedin.com/company/planview",
+    "is_visible": true
+  }, {
+    "date_updated": 1768954817,
+    "url": "https://ca.linkedin.com/jobs/view/business-systems-analyst-co-op-at-cibc-4364227300",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "CIBC",
+    "title": "Business Systems Analyst Co-op",
+    "source": "linkedin_scraper",
+    "id": "48678e46-b6b8-4019-b23a-447a1feba9c8",
+    "date_posted": 1768954817,
+    "company_url": "https://ca.linkedin.com/company/cibc",
+    "is_visible": true
+  },{
+    "date_updated": 1768954841,
+    "url": "https://ca.linkedin.com/jobs/view/intern-developer-ai-ml-at-kinaxis-4364673392",
+    "locations": [
+      "Ottawa, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Kinaxis",
+    "title": "Intern Developer - AI/ML",
+    "source": "linkedin_scraper",
+    "id": "f3a3b883-df13-4173-817a-ec007b1717c8",
+    "date_posted": 1768954841,
+    "company_url": "https://ca.linkedin.com/company/kinaxis",
+    "is_visible": true
+  },{
+    "date_updated": 1768954841,
+    "url": "https://ca.linkedin.com/jobs/view/student-martech-software-engineer-summer-2026-at-sun-life-4364957797",
+    "locations": [
+      "Waterloo, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Sun Life",
+    "title": "Student, MarTech Software Engineer (Summer 2026)",
+    "source": "linkedin_scraper",
+    "id": "1ea91e7e-68ec-4e5a-aee9-62f43ad48acc",
+    "date_posted": 1768954841,
+    "company_url": "https://www.linkedin.com/company/sun-life-financial",
+    "is_visible": true
+  }, {
+    "date_updated": 1768954841,
+    "url": "https://ca.linkedin.com/jobs/view/it-project-management-co-op-at-cibc-4364347280",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "CIBC",
+    "title": "IT Project Management Co-op",
+    "source": "linkedin_scraper",
+    "id": "c837051f-d066-4e49-b267-00812f3e0aea",
+    "date_posted": 1768954841,
+    "company_url": "https://ca.linkedin.com/company/cibc",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1768954854,
+    "url": "https://ca.linkedin.com/jobs/view/co-op-software-developer-summer-2026-may-august-canada-ontario-remote-at-info-tech-research-group-4364914569",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Info-Tech Research Group",
+    "title": "Co-op Software Developer - Summer 2026 (May - August) - Canada, Ontario (Remote)",
+    "source": "linkedin_scraper",
+    "id": "a5341071-352a-4ac1-b655-5b37b0607074",
+    "date_posted": 1768954854,
+    "company_url": "https://ca.linkedin.com/company/info-tech-research-group",
+    "is_visible": true
+  }, {
+    "date_updated": 1768954877,
+    "url": "https://ca.linkedin.com/jobs/view/co-op-test-automation-at-alberta-investment-management-corporation-aimco-4362063584",
+    "locations": [
+      "Edmonton, Alberta, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Alberta Investment Management Corporation (AIMCo)",
+    "title": "Co-op, Test Automation",
+    "source": "linkedin_scraper",
+    "id": "ec86bbcc-87bb-4541-bbbc-8a9359b9e8e8",
+    "date_posted": 1768954877,
+    "company_url": "https://ca.linkedin.com/company/alberta-investment-management-corporation-aimco-",
+    "is_visible": true
   }
 ]
