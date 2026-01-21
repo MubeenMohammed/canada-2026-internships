@@ -17739,5 +17739,182 @@
     "date_posted": 1768954877,
     "company_url": "https://ca.linkedin.com/company/alberta-investment-management-corporation-aimco-",
     "is_visible": true
+  },
+      {
+    "date_updated": 1769028752,
+    "url": "https://ca.linkedin.com/jobs/view/data-science-intern-at-the-coca-cola-company-4364980460",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "The Coca-Cola Company",
+    "title": "Data Science Intern",
+    "source": "linkedin_scraper",
+    "id": "2f547fea-7d2f-428d-8037-75b99b1d7052",
+    "date_posted": 1769028752,
+    "company_url": "https://www.linkedin.com/company/the-coca-cola-company",
+    "is_visible": true
+  },  {
+    "date_updated": 1769028752,
+    "url": "https://ca.linkedin.com/jobs/view/software-development-intern-at-boeing-4353968335",
+    "locations": [
+      "Richmond, British Columbia, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Boeing",
+    "title": "Software Development Intern",
+    "source": "linkedin_scraper",
+    "id": "73ad1502-258c-459d-991d-e32e02cd01af",
+    "date_posted": 1769028752,
+    "company_url": "https://www.linkedin.com/company/boeing",
+    "is_visible": true
+  }, {
+    "date_updated": 1769028765,
+    "url": "https://ca.linkedin.com/jobs/view/digital-security-group-security-analyst-3-month-internship-at-kpmg-canada-4364996483",
+    "locations": [
+      "Vaughan, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "KPMG Canada",
+    "title": "Digital Security Group Security Analyst - 3 month internship",
+    "source": "linkedin_scraper",
+    "id": "148fa87e-47ee-49e0-89f6-cc657ea00915",
+    "date_posted": 1769028765,
+    "company_url": "https://ca.linkedin.com/company/kpmg-canada",
+    "is_visible": true
+  }, {
+    "date_updated": 1769028788,
+    "url": "https://ca.linkedin.com/jobs/view/summer-2026-toronto-software-engineering-internship-at-the-trade-desk-4332343774",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "The Trade Desk",
+    "title": "Summer 2026 Toronto Software Engineering Internship",
+    "source": "linkedin_scraper",
+    "id": "39e8ba84-1f8a-4142-a958-6dfed92819ee",
+    "date_posted": 1769028788,
+    "company_url": "https://www.linkedin.com/company/the-trade-desk",
+    "is_visible": true
+  }, {
+    "date_updated": 1769028849,
+    "url": "https://ca.linkedin.com/jobs/view/intern-data-at-generac-4353969773",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Generac",
+    "title": "Intern Data",
+    "source": "linkedin_scraper",
+    "id": "9ddd3e20-9334-47ea-851e-d34d1be420a6",
+    "date_posted": 1769028849,
+    "company_url": "https://www.linkedin.com/company/generac-power-systems",
+    "is_visible": true
+  }, {
+    "date_updated": 1769028891,
+    "url": "https://ca.linkedin.com/jobs/view/software-engineer-app-foundations-at-abnormal-ai-4362016034",
+    "locations": [
+      "Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Abnormal AI",
+    "title": "Software Engineer (App Foundations)",
+    "source": "linkedin_scraper",
+    "id": "fff03bd5-1064-4e4c-89cf-6a45b41e5408",
+    "date_posted": 1769028891,
+    "company_url": "https://www.linkedin.com/company/abnormal-ai",
+    "is_visible": true
+  }, {
+    "date_updated": 1769028891,
+    "url": "https://ca.linkedin.com/jobs/view/ai-innovation-project-assistant-intern-at-paro-centre-for-women-s-enterprise-canada-4365113784",
+    "locations": [
+      "Thunder Bay, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "PARO Centre For Women's Enterprise Canada",
+    "title": "AI Innovation & Project Assistant Intern",
+    "source": "linkedin_scraper",
+    "id": "d73af04b-056c-4138-8cd1-a43b0f517cc7",
+    "date_posted": 1769028891,
+    "company_url": "https://ca.linkedin.com/company/paro-centre-for-womens-enterprise",
+    "is_visible": true
+  }, {
+    "date_updated": 1769028950,
+    "url": "https://ca.linkedin.com/jobs/view/software-developer-co-op-at-corpay-4192183195",
+    "locations": [
+      "Vancouver, British Columbia, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Corpay",
+    "title": "Software Developer (Co-op)",
+    "source": "linkedin_scraper",
+    "id": "3d80b434-c188-4e11-a21c-4464007ebc8c",
+    "date_posted": 1769028950,
+    "company_url": "https://www.linkedin.com/company/corpay",
+    "is_visible": true
+  }, {
+    "date_updated": 1769028950,
+    "url": "https://ca.linkedin.com/jobs/view/data-analyst-co-op-at-cibc-4365105828",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "CIBC",
+    "title": "Data Analyst Co-op",
+    "source": "linkedin_scraper",
+    "id": "30a65a7c-836d-43e2-9d55-aa80fe7990b5",
+    "date_posted": 1769028950,
+    "company_url": "https://ca.linkedin.com/company/cibc",
+    "is_visible": true
+  }, {
+    "date_updated": 1769028967,
+    "url": "https://ca.linkedin.com/jobs/view/application-software-developer-co-op-enterprise-technology-business-management-at-cibc-4364995481",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "CIBC",
+    "title": "Application/Software Developer Co-op - Enterprise Technology & Business Management",
+    "source": "linkedin_scraper",
+    "id": "77d04306-1bd9-48bb-8419-3afbc4f6fc89",
+    "date_posted": 1769028967,
+    "company_url": "https://ca.linkedin.com/company/cibc",
+    "is_visible": true
+  }, {
+    "date_updated": 1769028967,
+    "url": "https://ca.linkedin.com/jobs/view/test-engineer-co-op-at-arlo-technologies-inc-4353995165",
+    "locations": [
+      "Richmond, British Columbia, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Arlo Technologies, Inc.",
+    "title": "Test Engineer Co-op",
+    "source": "linkedin_scraper",
+    "id": "ead38d05-4a08-4802-bfda-5d8b6cf9608d",
+    "date_posted": 1769028967,
+    "company_url": "https://www.linkedin.com/company/arlo-smart-home",
+    "is_visible": true
   }
 ]
