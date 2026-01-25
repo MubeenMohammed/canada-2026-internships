@@ -17916,5 +17916,151 @@
     "date_posted": 1769028967,
     "company_url": "https://www.linkedin.com/company/arlo-smart-home",
     "is_visible": true
+  },
+    {
+    "date_updated": 1769358468,
+    "url": "https://ca.linkedin.com/jobs/view/data-analyst-intern-at-precision-drilling-4365724399",
+    "locations": [
+      "Calgary, Alberta, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Precision Drilling",
+    "title": "Data Analyst Intern",
+    "source": "linkedin_scraper",
+    "id": "39a373b3-1edb-4260-9b62-4cd9f8a4d454",
+    "date_posted": 1769358468,
+    "company_url": "https://ca.linkedin.com/company/precision-drilling",
+    "is_visible": true
+  }, {
+    "date_updated": 1769358468,
+    "url": "https://ca.linkedin.com/jobs/view/data-developer-intern-at-precision-drilling-4365735045",
+    "locations": [
+      "Calgary, Alberta, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Precision Drilling",
+    "title": "Data Developer Intern",
+    "source": "linkedin_scraper",
+    "id": "34fc5897-6960-4973-bb72-379afb079379",
+    "date_posted": 1769358468,
+    "company_url": "https://ca.linkedin.com/company/precision-drilling",
+    "is_visible": true
+  },  {
+    "date_updated": 1769358468,
+    "url": "https://ca.linkedin.com/jobs/view/network-infrastructure-cyber-security-intern-at-precision-drilling-4365735042",
+    "locations": [
+      "Calgary, Alberta, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Precision Drilling",
+    "title": "Network Infrastructure & Cyber Security Intern",
+    "source": "linkedin_scraper",
+    "id": "f769e4b9-e587-4e21-85cc-c3d24688ee4c",
+    "date_posted": 1769358468,
+    "company_url": "https://ca.linkedin.com/company/precision-drilling",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1769358468,
+    "url": "https://ca.linkedin.com/jobs/view/it-service-desk-intern-at-precision-drilling-4365718844",
+    "locations": [
+      "Calgary, Alberta, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Precision Drilling",
+    "title": "IT Service Desk Intern",
+    "source": "linkedin_scraper",
+    "id": "3fd800f1-89d1-4461-b8da-f1d06b14a10f",
+    "date_posted": 1769358468,
+    "company_url": "https://ca.linkedin.com/company/precision-drilling",
+    "is_visible": true
+  },  {
+    "date_updated": 1769358468,
+    "url": "https://ca.linkedin.com/jobs/view/tools-programmer-intern-at-epic-games-4312616027",
+    "locations": [
+      "Greater Montreal Metropolitan Area"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Epic Games",
+    "title": "Tools Programmer Intern",
+    "source": "linkedin_scraper",
+    "id": "02d0b99d-c691-4f7b-9758-e117f36ce61c",
+    "date_posted": 1769358468,
+    "company_url": "https://www.linkedin.com/company/epic-games",
+    "is_visible": true
+  },{
+    "date_updated": 1769358468,
+    "url": "https://ca.linkedin.com/jobs/view/sap-development-intern-at-precision-drilling-4365720522",
+    "locations": [
+      "Calgary, Alberta, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Precision Drilling",
+    "title": "SAP Development - Intern",
+    "source": "linkedin_scraper",
+    "id": "e54566ae-87b0-4002-8812-27ae5bc649cd",
+    "date_posted": 1769358468,
+    "company_url": "https://ca.linkedin.com/company/precision-drilling",
+    "is_visible": true
+  }, {
+    "date_updated": 1769358490,
+    "url": "https://ca.linkedin.com/jobs/view/stage-en-exploitation-developpeur-at-ericsson-4321502437",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Ericsson",
+    "title": "Stage en exploitation developpeur",
+    "source": "linkedin_scraper",
+    "id": "9b975f3c-fa0b-487a-8305-d5b0371faadf",
+    "date_posted": 1769358490,
+    "company_url": "https://se.linkedin.com/company/ericsson",
+    "is_visible": true
+  },  {
+    "date_updated": 1769358535,
+    "url": "https://ca.linkedin.com/jobs/view/sap-ixp-intern-technical-project-coordinator-at-sap-4323704169",
+    "locations": [
+      "Vancouver, British Columbia, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "SAP",
+    "title": "SAP iXp Intern - Technical Project Coordinator",
+    "source": "linkedin_scraper",
+    "id": "31ce9f5b-558c-490a-9557-94be9bd17bbc",
+    "date_posted": 1769358535,
+    "company_url": "https://de.linkedin.com/company/sap",
+    "is_visible": true
+  },  {
+    "date_updated": 1769358573,
+    "url": "https://ca.linkedin.com/jobs/view/devops-engineer-12-month-co-op-at-rakuten-kobo-inc-4365751041",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Rakuten Kobo Inc.",
+    "title": "DevOps Engineer (12-Month Co-op)",
+    "source": "linkedin_scraper",
+    "id": "c36279f0-4305-479c-b3ce-fa59169d7a3e",
+    "date_posted": 1769358573,
+    "company_url": "https://ca.linkedin.com/company/rakutenkobo",
+    "is_visible": true
   }
 ]
