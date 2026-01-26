@@ -18062,5 +18062,133 @@
     "date_posted": 1769358573,
     "company_url": "https://ca.linkedin.com/company/rakutenkobo",
     "is_visible": true
+  }     {
+    "date_updated": 1769465330,
+    "url": "https://ca.linkedin.com/jobs/view/data-science-intern-master-s-montreal-2026-start-date-stage-scientifique-des-donn%C3%A9es-dipl%C3%B4me-de-ma%C3%AEtrise-montr%C3%A9al-date-de-d%C3%A9but-2026-at-analysis-group-4339172692",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Analysis Group",
+    "title": "Data Science Intern (Master's) - Montreal (2026 Start Date) | Stage - Scientifique des données (diplôme de maîtrise) - Montréal (Date de début 2026)",
+    "source": "linkedin_scraper",
+    "id": "417d888b-052d-4b0b-a214-896b26f01877",
+    "date_posted": 1769465330,
+    "company_url": "https://www.linkedin.com/company/analysis-group",
+    "is_visible": true
+  }, {
+    "date_updated": 1769465346,
+    "url": "https://ca.linkedin.com/jobs/view/senior-data-science-intern-phd-montreal-2026-start-date-stage-scientifique-des-donn%C3%A9es-senior-dipl%C3%B4me-de-doctorat-montr%C3%A9al-date-de-d%C3%A9but-2026-at-analysis-group-4339352210",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Analysis Group",
+    "title": "Senior Data Science Intern (PhD) - Montreal (2026 Start Date) | Stage - Scientifique des données senior (diplôme de doctorat) - Montréal (Date de début 2026",
+    "source": "linkedin_scraper",
+    "id": "3f4a4068-d5aa-4241-a8de-6641166ce855",
+    "date_posted": 1769465346,
+    "company_url": "https://www.linkedin.com/company/analysis-group",
+    "is_visible": true
+  }, {
+    "date_updated": 1769465360,
+    "url": "https://ca.linkedin.com/jobs/view/summer-intern-co-op-%E2%80%93-software-developer-agentic-ai-at-ciena-4321476921",
+    "locations": [
+      "Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Ciena",
+    "title": "Summer Intern / Co-op – Software Developer (Agentic AI)",
+    "source": "linkedin_scraper",
+    "id": "ad743eb5-cfcc-4873-9742-45a824dfa529",
+    "date_posted": 1769465360,
+    "company_url": "https://www.linkedin.com/company/ciena",
+    "is_visible": true
+  }, {
+    "date_updated": 1769465443,
+    "url": "https://ca.linkedin.com/jobs/view/2026-summer-rbcx-junior-developer-intern-4-months-at-rbcx-4366148898",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "RBCx",
+    "title": "2026 Summer - RBCx, Junior Developer Intern (4 Months)",
+    "source": "linkedin_scraper",
+    "id": "6ba4cf06-e0e8-4e2f-b7d2-10351b2c6c3d",
+    "date_posted": 1769465443,
+    "company_url": "https://ca.linkedin.com/company/rbcx",
+    "is_visible": true
+  },  {
+    "date_updated": 1769465443,
+    "url": "https://ca.linkedin.com/jobs/view/2026-summer-rbcx-client-intelligence-power-bi-development-intern-4-months-at-rbcx-4366151829",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "RBCx",
+    "title": "2026 Summer - RBCx, Client Intelligence & Power BI Development Intern (4 Months)",
+    "source": "linkedin_scraper",
+    "id": "f3f47836-da33-45ae-9fea-a4018dff31de",
+    "date_posted": 1769465443,
+    "company_url": "https://ca.linkedin.com/company/rbcx",
+    "is_visible": true
+  },  {
+    "date_updated": 1769465458,
+    "url": "https://ca.linkedin.com/jobs/view/devops-developer-co-op-at-bc-pension-corporation-4355729125",
+    "locations": [
+      "Victoria, British Columbia, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "BC Pension Corporation",
+    "title": "DevOps Developer Co-op",
+    "source": "linkedin_scraper",
+    "id": "08a1c4e3-dc75-40b7-a68b-0ba7bfbec8b7",
+    "date_posted": 1769465458,
+    "company_url": "https://ca.linkedin.com/company/bc-pension-corporation",
+    "is_visible": true
+  }, {
+    "date_updated": 1769465458,
+    "url": "https://ca.linkedin.com/jobs/view/intern-end-user-technology-may-2026-12-months-at-ontario-teachers-%E2%80%8B-pension-plan-4354533001",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Ontario Teachers' Pension Plan",
+    "title": "Intern - End-User Technology (May 2026 - 12 months)",
+    "source": "linkedin_scraper",
+    "id": "81251512-4ed0-45b3-9ca4-227b2a85f6ca",
+    "date_posted": 1769465458,
+    "company_url": "https://ca.linkedin.com/company/otpp",
+    "is_visible": true
+  },  {
+    "date_updated": 1769465472,
+    "url": "https://ca.linkedin.com/jobs/view/simplii-financial-client-experience-analyst-co-op-8-months-summer-2026-at-cibc-4366197650",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "CIBC",
+    "title": "Simplii Financial, Client Experience Analyst Co-op (8 months), Summer 2026",
+    "source": "linkedin_scraper",
+    "id": "2a751d2f-c197-4972-b90c-f74dffb2d453",
+    "date_posted": 1769465472,
+    "company_url": "https://ca.linkedin.com/company/cibc",
+    "is_visible": true
   }
 ]
