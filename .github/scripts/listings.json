@@ -18190,5 +18190,279 @@
     "date_posted": 1769465472,
     "company_url": "https://ca.linkedin.com/company/cibc",
     "is_visible": true
+  },
+       {
+    "date_updated": 1769555700,
+    "url": "https://ca.linkedin.com/jobs/view/software-development-engineer-intern-at-criteo-4366380608",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Criteo",
+    "title": "Software Development Engineer Intern",
+    "source": "linkedin_scraper",
+    "id": "f35e77c1-98e7-40c8-ae99-89d683e8dad7",
+    "date_posted": 1769555700,
+    "company_url": "https://fr.linkedin.com/company/criteo",
+    "is_visible": true
+  }, {
+    "date_updated": 1769555742,
+    "url": "https://ca.linkedin.com/jobs/view/simplii-financial-product-analyst-co-op-summer-2026-at-cibc-4366389975",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "CIBC",
+    "title": "Simplii Financial, Product Analyst Co-op (Summer 2026)",
+    "source": "linkedin_scraper",
+    "id": "82c2fecb-cf6b-4d72-952f-56a6557a7b81",
+    "date_posted": 1769555742,
+    "company_url": "https://ca.linkedin.com/company/cibc",
+    "is_visible": true
+  },  {
+    "date_updated": 1769555742,
+    "url": "https://ca.linkedin.com/jobs/view/software-developer-in-test-networking-at-cisco-4366609533",
+    "locations": [
+      "Kanata, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Cisco",
+    "title": "Software Developer in Test-Networking",
+    "source": "linkedin_scraper",
+    "id": "13de5346-ba89-4332-bfeb-d122fc0884d9",
+    "date_posted": 1769555742,
+    "company_url": "https://www.linkedin.com/company/cisco",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1769555742,
+    "url": "https://ca.linkedin.com/jobs/view/digital-security-group-compliance-analyst-6-month-internship-at-kpmg-canada-4366287971",
+    "locations": [
+      "Vaughan, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "KPMG Canada",
+    "title": "Digital Security Group Compliance Analyst - 6 month internship",
+    "source": "linkedin_scraper",
+    "id": "37350ef6-bebf-4301-afcb-4a64737ce66d",
+    "date_posted": 1769555742,
+    "company_url": "https://ca.linkedin.com/company/kpmg-canada",
+    "is_visible": true
+  }, {
+    "date_updated": 1769555781,
+    "url": "https://ca.linkedin.com/jobs/view/technicien-support-informatique-1-2-at-highspring-4366063279",
+    "locations": [
+      "Québec, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Highspring",
+    "title": "Technicien - Support informatique 1-2",
+    "source": "linkedin_scraper",
+    "id": "6ab80536-8fcb-49fd-9721-383f4cdeaf02",
+    "date_posted": 1769555781,
+    "company_url": "https://www.linkedin.com/company/highspring",
+    "is_visible": true
+  }, {
+    "date_updated": 1769555797,
+    "url": "https://ca.linkedin.com/jobs/view/software-developer-intern-at-blackline-safety-4366399867",
+    "locations": [
+      "Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Blackline Safety",
+    "title": "Software Developer Intern",
+    "source": "linkedin_scraper",
+    "id": "047b698f-af4b-4b6c-a841-bd0743d5cd99",
+    "date_posted": 1769555797,
+    "company_url": "https://ca.linkedin.com/company/blacklinesafety",
+    "is_visible": true
+  }, {
+    "date_updated": 1769555797,
+    "url": "https://ca.linkedin.com/jobs/view/intern-software-development-wwise-core-at-audiokinetic-4366074627",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Audiokinetic",
+    "title": "Intern, Software Development (Wwise Core)",
+    "source": "linkedin_scraper",
+    "id": "ed5e6a6a-2010-4f71-a14e-fbff65acaf3e",
+    "date_posted": 1769555797,
+    "company_url": "https://ca.linkedin.com/company/audiokinetic",
+    "is_visible": true
+  },  {
+    "date_updated": 1769555822,
+    "url": "https://ca.linkedin.com/jobs/view/software-engineering-intern-summer-2026-at-ciena-4355949548",
+    "locations": [
+      "Ottawa, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Ciena",
+    "title": "Software Engineering Intern (Summer 2026)",
+    "source": "linkedin_scraper",
+    "id": "16adbcff-ceaf-4704-afc9-5fe686db2c2a",
+    "date_posted": 1769555822,
+    "company_url": "https://www.linkedin.com/company/ciena",
+    "is_visible": true
+  },  {
+    "date_updated": 1769555836,
+    "url": "https://ca.linkedin.com/jobs/view/intern-software-developer-stagiaire-en-d%C3%A9veloppement-logiciel-at-autodesk-4365951487",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Autodesk",
+    "title": "Intern Software Developer, Stagiaire en Développement Logiciel",
+    "source": "linkedin_scraper",
+    "id": "3aeba7a6-ffa1-4710-a130-fabe07b59291",
+    "date_posted": 1769555836,
+    "company_url": "https://www.linkedin.com/company/autodesk",
+    "is_visible": true
+  }, {
+    "date_updated": 1769555836,
+    "url": "https://ca.linkedin.com/jobs/view/rpa-development-intern-at-schneider-electric-4365897054",
+    "locations": [
+      "Edmonton, Alberta, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Schneider Electric",
+    "title": "RPA Development Intern",
+    "source": "linkedin_scraper",
+    "id": "a9f75435-e894-44b0-8656-9dd7abb264d3",
+    "date_posted": 1769403600,
+    "company_url": "https://fr.linkedin.com/company/schneider-electric",
+    "is_visible": true
+  }, {
+    "date_updated": 1769555875,
+    "url": "https://ca.linkedin.com/jobs/view/intern-model-based-systems-engineering-at-autodesk-4366046782",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Autodesk",
+    "title": "Intern, Model Based Systems Engineering",
+    "source": "linkedin_scraper",
+    "id": "436d4429-bde1-423b-936c-f5d1029e97fd",
+    "date_posted": 1769555875,
+    "company_url": "https://www.linkedin.com/company/autodesk",
+    "is_visible": true
+  }, {
+    "date_updated": 1769555894,
+    "url": "https://ca.linkedin.com/jobs/view/data-engineer-8-month-summer-coop-at-eq-bank-equitable-bank-4366377752",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "EQ Bank | Equitable Bank",
+    "title": "Data Engineer - 8 month Summer Coop",
+    "source": "linkedin_scraper",
+    "id": "75f14f88-b9e4-450b-a01d-e45760b66016",
+    "date_posted": 1769555894,
+    "company_url": "https://ca.linkedin.com/company/equitablebank",
+    "is_visible": true
+  }, {
+    "date_updated": 1769555941,
+    "url": "https://ca.linkedin.com/jobs/view/data-analyst-1-2-years-experience-ontario-%E2%80%93-extrada-tech-at-extrada-tech-4366056297",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Extrada Tech",
+    "title": "Data Analyst (1-2 years experience, Ontario) – Extrada Tech",
+    "source": "linkedin_scraper",
+    "id": "b1258cde-eab7-4f6a-8144-4d916cc2079e",
+    "date_posted": 1769555941,
+    "company_url": "https://ca.linkedin.com/company/extradatech",
+    "is_visible": true
+  }, {
+    "date_updated": 1769555941,
+    "url": "https://ca.linkedin.com/jobs/view/software-developer-co-op-intern-at-nokia-4356055439",
+    "locations": [
+      "Kanata, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Nokia",
+    "title": "Software Developer Co-op/Intern",
+    "source": "linkedin_scraper",
+    "id": "09f707dd-035d-4751-9c33-508bdb93c37c",
+    "date_posted": 1769555941,
+    "company_url": "https://fi.linkedin.com/company/nokia",
+    "is_visible": true
+  }, {
+    "date_updated": 1769555958,
+    "url": "https://ca.linkedin.com/jobs/view/software-developer-unity-acc-co-op-at-motorola-solutions-4366624645",
+    "locations": [
+      "Vancouver, British Columbia, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Motorola Solutions",
+    "title": "Software Developer (Unity/ACC), Co-Op",
+    "source": "linkedin_scraper",
+    "id": "1470434d-f312-4a69-8841-03bf25f51ee7",
+    "date_posted": 1769555958,
+    "company_url": "https://www.linkedin.com/company/motorolasolutions",
+    "is_visible": true
+  }, {
+    "date_updated": 1769555983,
+    "url": "https://ca.linkedin.com/jobs/view/firmware-validation-co-op-at-motorola-solutions-4366636012",
+    "locations": [
+      "Vancouver, British Columbia, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Motorola Solutions",
+    "title": "Firmware Validation, Co-Op",
+    "source": "linkedin_scraper",
+    "id": "562c79cc-ea8b-4124-835f-0228d0f511c8",
+    "date_posted": 1769555983,
+    "company_url": "https://www.linkedin.com/company/motorolasolutions",
+    "is_visible": true
+  },  {
+    "date_updated": 1769555999,
+    "url": "https://ca.linkedin.com/jobs/view/enterprise-digital-ai-enablement-co-op-summer-2026-at-cibc-4366273288",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "CIBC",
+    "title": "Enterprise Digital & AI Enablement Co-op, Summer 2026",
+    "source": "linkedin_scraper",
+    "id": "8ceff320-62ee-4852-ab1f-275eb19d77ca",
+    "date_posted": 1769555999,
+    "company_url": "https://ca.linkedin.com/company/cibc",
+    "is_visible": true
   }
 ]
