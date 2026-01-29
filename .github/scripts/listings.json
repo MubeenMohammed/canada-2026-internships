@@ -18464,5 +18464,278 @@
     "date_posted": 1769555999,
     "company_url": "https://ca.linkedin.com/company/cibc",
     "is_visible": true
+  },
+       {
+    "date_updated": 1769642658,
+    "url": "https://ca.linkedin.com/jobs/view/data-analyst-intern-at-super-com-4366798530",
+    "locations": [
+      "Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Super.com",
+    "title": "Data Analyst Intern",
+    "source": "linkedin_scraper",
+    "id": "dbb635f7-f3bd-40f0-8f5a-e0f35064ed99",
+    "date_posted": 1769642658,
+    "company_url": "https://www.linkedin.com/company/superdotcom",
+    "is_visible": true
+  }, {
+    "date_updated": 1769642658,
+    "url": "https://ca.linkedin.com/jobs/view/software-engineering-intern-at-super-com-4366791904",
+    "locations": [
+      "Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Super.com",
+    "title": "Software Engineering Intern",
+    "source": "linkedin_scraper",
+    "id": "68fc6892-893f-4a87-b1d1-50a7610de447",
+    "date_posted": 1769642658,
+    "company_url": "https://www.linkedin.com/company/superdotcom",
+    "is_visible": true
+  }, {
+    "date_updated": 1769642680,
+    "url": "https://ca.linkedin.com/jobs/view/data-engineering-intern-at-super-com-4366796677",
+    "locations": [
+      "Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Super.com",
+    "title": "Data Engineering Intern",
+    "source": "linkedin_scraper",
+    "id": "bdc31f29-3ae5-4d36-9381-55febc86abd0",
+    "date_posted": 1769642680,
+    "company_url": "https://www.linkedin.com/company/superdotcom",
+    "is_visible": true
+  }, {
+    "date_updated": 1769642699,
+    "url": "https://ca.linkedin.com/jobs/view/gbm-trade-floor-technology-consultant-internship-co-op-summer-2026-at-scotiabank-4344061641",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Scotiabank",
+    "title": "GBM - Trade Floor Technology Consultant Internship/Co-Op - Summer 2026",
+    "source": "linkedin_scraper",
+    "id": "16778ca3-bd40-49fa-8892-0690ea5a1701",
+    "date_posted": 1769642699,
+    "company_url": "https://ca.linkedin.com/company/scotiabank",
+    "is_visible": true
+  },  {
+    "date_updated": 1769642762,
+    "url": "https://ca.linkedin.com/jobs/view/intern-technology-ai-data-science-at-kroll-4356561229",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Kroll",
+    "title": "Intern, Technology - AI & Data Science",
+    "source": "linkedin_scraper",
+    "id": "5dadc145-5e7a-4fef-ad58-6ef7da6aef36",
+    "date_posted": 1769642762,
+    "company_url": "https://www.linkedin.com/company/kroll",
+    "is_visible": true
+  },{
+    "date_updated": 1769642762,
+    "url": "https://ca.linkedin.com/jobs/view/intern-software-developer-at-autodesk-4366413081",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Autodesk",
+    "title": "Intern, Software Developer",
+    "source": "linkedin_scraper",
+    "id": "406ca4e4-513c-4021-b352-d00da99f79c3",
+    "date_posted": 1769642762,
+    "company_url": "https://www.linkedin.com/company/autodesk",
+    "is_visible": true
+  },{
+    "date_updated": 1769642762,
+    "url": "https://ca.linkedin.com/jobs/view/data-analyst-intern-8-months-at-super-com-4366793790",
+    "locations": [
+      "Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Super.com",
+    "title": "Data Analyst Intern (8 Months)",
+    "source": "linkedin_scraper",
+    "id": "1a299785-b5f1-4b71-98ef-4cbc621f352f",
+    "date_posted": 1769642762,
+    "company_url": "https://www.linkedin.com/company/superdotcom",
+    "is_visible": true
+  }, {
+    "date_updated": 1769642777,
+    "url": "https://ca.linkedin.com/jobs/view/it-intern-at-freedom-mobile-4366536185",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Freedom Mobile",
+    "title": "IT Intern",
+    "source": "linkedin_scraper",
+    "id": "938e5d21-0fd1-40d3-a59c-fde45193a224",
+    "date_posted": 1769642777,
+    "company_url": "https://ca.linkedin.com/company/freedom-mobile",
+    "is_visible": true
+  }, {
+    "date_updated": 1769642777,
+    "url": "https://ca.linkedin.com/jobs/view/applied-scientist-intern-summer-2026-at-coveo-4366901475",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Coveo",
+    "title": "Applied Scientist Intern (Summer 2026)",
+    "source": "linkedin_scraper",
+    "id": "daeb0d85-ad8c-4b67-9e7b-2fae4532f273",
+    "date_posted": 1769642777,
+    "company_url": "https://ca.linkedin.com/company/coveo",
+    "is_visible": true
+  },  {
+    "date_updated": 1769642777,
+    "url": "https://ca.linkedin.com/jobs/view/software-analyst-intern-summer-2026-at-hitachi-rail-4366907760",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Hitachi Rail",
+    "title": "Software Analyst Intern (Summer 2026)",
+    "source": "linkedin_scraper",
+    "id": "b85367ea-6372-4407-aca0-c46d07dd01a2",
+    "date_posted": 1769642777,
+    "company_url": "https://uk.linkedin.com/company/hitachirail",
+    "is_visible": true
+  }, {
+    "date_updated": 1769642797,
+    "url": "https://ca.linkedin.com/jobs/view/5g-ai-automation-intern-at-dell-technologies-4366719126",
+    "locations": [
+      "Ottawa, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Dell Technologies",
+    "title": "5G AI Automation Intern",
+    "source": "linkedin_scraper",
+    "id": "6d08de72-8272-43b4-9360-01e764600b04",
+    "date_posted": 1769642797,
+    "company_url": "https://www.linkedin.com/company/delltechnologies",
+    "is_visible": true
+  }, {
+    "date_updated": 1769642797,
+    "url": "https://ca.linkedin.com/jobs/view/intern-%E2%80%93-development-at-innergex-4366532752",
+    "locations": [
+      "Vancouver, British Columbia, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Innergex",
+    "title": "Intern – Development",
+    "source": "linkedin_scraper",
+    "id": "59b2dc2d-39a8-4edd-b763-4818fac29085",
+    "date_posted": 1769642797,
+    "company_url": "https://ca.linkedin.com/company/innergex-energie-renouvelable-inc",
+    "is_visible": true
+  }, {
+    "date_updated": 1769642813,
+    "url": "https://ca.linkedin.com/jobs/view/embedded-firmware-engineer-intern-summer-2026-at-square-4356521427",
+    "locations": [
+      "Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Square",
+    "title": "Embedded/Firmware Engineer Intern (Summer 2026)",
+    "source": "linkedin_scraper",
+    "id": "f41ded42-904f-4cbf-9343-cfe7a117059a",
+    "date_posted": 1769642813,
+    "company_url": "https://www.linkedin.com/company/joinsquare",
+    "is_visible": true
+  }, {
+    "date_updated": 1769642835,
+    "url": "https://ca.linkedin.com/jobs/view/2026-16-month-internship-canada-ats-alt-product-manager-at-zebra-technologies-4356542033",
+    "locations": [
+      "Mississauga, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Zebra Technologies",
+    "title": "2026 (16-Month) Internship (Canada) - ATS/ALT Product Manager",
+    "source": "linkedin_scraper",
+    "id": "940376cd-d168-42a0-8081-03d5138ca463",
+    "date_posted": 1769642835,
+    "company_url": "https://www.linkedin.com/company/zebra-technologies",
+    "is_visible": true
+  }, {
+    "date_updated": 1769642869,
+    "url": "https://ca.linkedin.com/jobs/view/developer-co-op-at-holman-4366950138",
+    "locations": [
+      "Mississauga, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Holman",
+    "title": "Developer Co-Op",
+    "source": "linkedin_scraper",
+    "id": "a7a29317-a1a2-4a64-9efa-60bc11f2425e",
+    "date_posted": 1769642869,
+    "company_url": "https://www.linkedin.com/company/holmanhq",
+    "is_visible": true
+  }, {
+    "date_updated": 1769642887,
+    "url": "https://ca.linkedin.com/jobs/view/student-software-engineer-summer-2026-at-sun-life-4366934813",
+    "locations": [
+      "Waterloo, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Sun Life",
+    "title": "Student, Software Engineer (Summer 2026)",
+    "source": "linkedin_scraper",
+    "id": "2632e801-0986-43fc-b35e-68a54a0b985e",
+    "date_posted": 1769642887,
+    "company_url": "https://www.linkedin.com/company/sun-life-financial",
+    "is_visible": true
+  }, {
+    "date_updated": 1769642925,
+    "url": "https://ca.linkedin.com/jobs/view/summer-2026-co-op-wise-associate-developer-4-months-at-cgi-4366671437",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "CGI",
+    "title": "Summer 2026 Co-op: WiSE Associate Developer (4 Months)",
+    "source": "linkedin_scraper",
+    "id": "f273b2a1-f6d7-459b-9462-43761e89075b",
+    "date_posted": 1769642925,
+    "company_url": "https://ca.linkedin.com/company/cgi",
+    "is_visible": true
   }
 ]
