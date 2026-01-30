@@ -18737,5 +18737,454 @@
     "date_posted": 1769642925,
     "company_url": "https://ca.linkedin.com/company/cgi",
     "is_visible": true
+  },
+      {
+    "date_updated": 1769737689,
+    "url": "https://ca.linkedin.com/jobs/view/data-science-intern-at-the-coca-cola-company-4367318569",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "The Coca-Cola Company",
+    "title": "Data Science Intern",
+    "source": "linkedin_scraper",
+    "id": "0d4a3775-48aa-4b44-857a-1e7c539c1807",
+    "date_posted": 1769737689,
+    "company_url": "https://www.linkedin.com/company/the-coca-cola-company",
+    "is_visible": true
+  },  {
+    "date_updated": 1769737689,
+    "url": "https://ca.linkedin.com/jobs/view/software-developer-summer-intern-2026-at-eq-bank-equitable-bank-4367323199",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "EQ Bank (Equitable Bank)",
+    "title": "Software Developer - Summer Intern 2026",
+    "source": "linkedin_scraper",
+    "id": "6d3da4ee-53bf-4d50-b706-ad9aeffe9923",
+    "date_posted": 1769737689,
+    "company_url": "https://ca.linkedin.com/company/equitablebank",
+    "is_visible": true
+  }, {
+    "date_updated": 1769737689,
+    "url": "https://ca.linkedin.com/jobs/view/responsiveads-full-stack-developer-2026-summer-and-fall-internship-at-responsiveads-4366975162",
+    "locations": [
+      "Vancouver, British Columbia, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "ResponsiveAds",
+    "title": "ResponsiveAds Full-Stack Developer (2026 Summer and Fall Internship)",
+    "source": "linkedin_scraper",
+    "id": "70d3aeb6-4843-4760-a2d9-31f72b01909d",
+    "date_posted": 1769662800,
+    "company_url": "https://www.linkedin.com/company/responsiveads",
+    "is_visible": true
+  }, {
+    "date_updated": 1769737708,
+    "url": "https://ca.linkedin.com/jobs/view/stagiaire-d%C3%A9veloppement-de-logiciel-intern-software-development-at-grass-valley-4356436577",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Grass Valley",
+    "title": "Stagiaire, développement de logiciel (Intern, Software Development)",
+    "source": "linkedin_scraper",
+    "id": "772532e2-556d-4506-9289-338aa1dd530e",
+    "date_posted": 1769737708,
+    "company_url": "https://ca.linkedin.com/company/grassvalley",
+    "is_visible": true
+  },  {
+    "date_updated": 1769737723,
+    "url": "https://ca.linkedin.com/jobs/view/generative-ai-engineer-at-apptoza-inc-4356645700",
+    "locations": [
+      "Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Apptoza Inc.",
+    "title": "Generative AI Engineer",
+    "source": "linkedin_scraper",
+    "id": "af60125a-313e-475d-a830-03cfd62bced2",
+    "date_posted": 1769737723,
+    "company_url": "https://ca.linkedin.com/company/apptoza-inc",
+    "is_visible": true
+  }, {
+    "date_updated": 1769737723,
+    "url": "https://ca.linkedin.com/jobs/view/c-ge-113-c%2B%2B-full-stack-display-software-developer-intern-en-at-cae-4356487712",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "CAE",
+    "title": "C-GE-113 - C++ Full-Stack Display Software Developer Intern-EN",
+    "source": "linkedin_scraper",
+    "id": "0308ae07-7d2b-4c9e-9e45-52bdf94e76f0",
+    "date_posted": 1769737723,
+    "company_url": "https://ca.linkedin.com/school/cae/",
+    "is_visible": true
+  }, {
+    "date_updated": 1769737723,
+    "url": "https://ca.linkedin.com/jobs/view/research-intern-%E2%80%93-explainable-ai-and-reporting-framework-for-power-grid-machine-learning-applications-at-hitachi-energy-4356653326",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Hitachi Energy",
+    "title": "Research Intern – Explainable AI and Reporting Framework for Power Grid Machine Learning Applications",
+    "source": "linkedin_scraper",
+    "id": "c761b24b-da1d-44fa-ad29-a1b4d5aa8756",
+    "date_posted": 1769737723,
+    "company_url": "https://ch.linkedin.com/company/hitachienergy",
+    "is_visible": true
+  },  {
+    "date_updated": 1769737742,
+    "url": "https://ca.linkedin.com/jobs/view/may-2026-ai-automation-co-op-student-at-atco-electric-4366570596",
+    "locations": [
+      "Edmonton, Alberta, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "ATCO Electric",
+    "title": "May 2026 AI & Automation Co-op Student",
+    "source": "linkedin_scraper",
+    "id": "13550359-a903-4db9-88c6-9c87808736b5",
+    "date_posted": 1769737742,
+    "company_url": "https://ca.linkedin.com/company/atco-electric",
+    "is_visible": true
+  }, {
+    "date_updated": 1769737742,
+    "url": "https://ca.linkedin.com/jobs/view/engineering-ai-machine-learning-internship-summer-2026-at-idemia-public-security-4344530149",
+    "locations": [
+      "Oakville, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "IDEMIA Public Security",
+    "title": "Engineering AI / Machine Learning Internship - Summer 2026",
+    "source": "linkedin_scraper",
+    "id": "928f2096-0f69-46d2-a2b9-0951d186fe2b",
+    "date_posted": 1769737742,
+    "company_url": "https://fr.linkedin.com/company/idemia-public-security",
+    "is_visible": true
+  }, {
+    "date_updated": 1769737785,
+    "url": "https://ca.linkedin.com/jobs/view/software-development-intern-at-trackunit-4366889927",
+    "locations": [
+      "London, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Trackunit",
+    "title": "Software Development Intern",
+    "source": "linkedin_scraper",
+    "id": "a591dc77-6190-4cea-9568-0dce02a73ba8",
+    "date_posted": 1769737785,
+    "company_url": "https://dk.linkedin.com/company/trackunit-a-s",
+    "is_visible": true
+  }, {
+    "date_updated": 1769737785,
+    "url": "https://ca.linkedin.com/jobs/view/software-developer-intern-at-teachworks-4367001171",
+    "locations": [
+      "Markham, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Teachworks",
+    "title": "Software Developer - Intern",
+    "source": "linkedin_scraper",
+    "id": "b780f2ed-25f7-4eb1-ae62-191eece3772d",
+    "date_posted": 1769737785,
+    "company_url": "https://ca.linkedin.com/company/teachworks",
+    "is_visible": true
+  }, {
+    "date_updated": 1769737785,
+    "url": "https://ca.linkedin.com/jobs/view/android-software-development-intern-at-trackunit-4367010071",
+    "locations": [
+      "London, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Trackunit",
+    "title": "Android Software Development Intern",
+    "source": "linkedin_scraper",
+    "id": "b44f0e55-87e0-4596-9249-91a436abbe3b",
+    "date_posted": 1769737785,
+    "company_url": "https://dk.linkedin.com/company/trackunit-a-s",
+    "is_visible": true
+  }, {
+    "date_updated": 1769737785,
+    "url": "https://ca.linkedin.com/jobs/view/intern-software-developer-at-jonas-software-4367180574",
+    "locations": [
+      "Markham, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Jonas Software",
+    "title": "Intern Software Developer",
+    "source": "linkedin_scraper",
+    "id": "49bef2d9-2d39-4747-bc64-d44d27fdc5a3",
+    "date_posted": 1769737785,
+    "company_url": "https://ca.linkedin.com/company/jonas-software",
+    "is_visible": true
+  }, {
+    "date_updated": 1769737810,
+    "url": "https://ca.linkedin.com/jobs/view/intern-data-science-ai-digital-innovation-office-summer-2026-at-bombardier-4367183590",
+    "locations": [
+      "Dorval, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Bombardier",
+    "title": "Intern, Data Science & AI - Digital Innovation Office (Summer 2026)",
+    "source": "linkedin_scraper",
+    "id": "54736140-9704-4fac-bf3c-8a6c24a62a93",
+    "date_posted": 1769737810,
+    "company_url": "https://www.linkedin.com/company/bombardier",
+    "is_visible": true
+  }, {
+    "date_updated": 1769737831,
+    "url": "https://ca.linkedin.com/jobs/view/next-gen-ai-co-op-intern-at-nokia-4356557349",
+    "locations": [
+      "Kanata, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Nokia",
+    "title": "Next-Gen AI Co-op/Intern",
+    "source": "linkedin_scraper",
+    "id": "eeea4401-ee6f-44e9-b913-7bda52a72e0c",
+    "date_posted": 1769737831,
+    "company_url": "https://fi.linkedin.com/company/nokia",
+    "is_visible": true
+  },  {
+    "date_updated": 1769737831,
+    "url": "https://ca.linkedin.com/jobs/view/fy26-intern-software-toolchains-engineering-internship-canada-12-or-16-months-at-qualcomm-4330902929",
+    "locations": [
+      "Markham, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Qualcomm",
+    "title": "FY26 Intern - Software Toolchains Engineering Internship - Canada (12 or 16 months)",
+    "source": "linkedin_scraper",
+    "id": "3897f20e-be49-4eac-a17a-5b604ad35d8d",
+    "date_posted": 1769737831,
+    "company_url": "https://www.linkedin.com/company/qualcomm",
+    "is_visible": true
+  },  {
+    "date_updated": 1769737863,
+    "url": "https://ca.linkedin.com/jobs/view/rf-integration-coop-intern-at-ericsson-4366872766",
+    "locations": [
+      "Ottawa, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Ericsson",
+    "title": "RF Integration Coop/Intern",
+    "source": "linkedin_scraper",
+    "id": "06081a59-97fb-4df3-b826-ac6a43d92a2d",
+    "date_posted": 1769737863,
+    "company_url": "https://se.linkedin.com/company/ericsson",
+    "is_visible": true
+  },  {
+    "date_updated": 1769737863,
+    "url": "https://ca.linkedin.com/jobs/view/intern-it-service-delivery-at-saputo-inc-4366982112",
+    "locations": [
+      "Saint-Laurent, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Saputo Inc.",
+    "title": "Intern, IT Service Delivery",
+    "source": "linkedin_scraper",
+    "id": "97f41b39-f531-4c60-b1b9-b46186e52d56",
+    "date_posted": 1769737863,
+    "company_url": "https://ca.linkedin.com/company/saputo",
+    "is_visible": true
+  }, {
+    "date_updated": 1769737923,
+    "url": "https://ca.linkedin.com/jobs/view/data-scientist-co-op-4-months-at-olg-4367037067",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "OLG",
+    "title": "Data Scientist Co-op (4 Months)",
+    "source": "linkedin_scraper",
+    "id": "1fdb86bc-d368-4fa7-8c8f-3f2fbdfe286b",
+    "date_posted": 1769737923,
+    "company_url": "https://ca.linkedin.com/company/olg",
+    "is_visible": true
+  },  {
+    "date_updated": 1769737923,
+    "url": "https://ca.linkedin.com/jobs/view/data-analyst-co-op-at-cibc-4367368638",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "CIBC",
+    "title": "Data Analyst Co-op",
+    "source": "linkedin_scraper",
+    "id": "d60dff37-69dc-4e3c-9d45-0f04b5795c74",
+    "date_posted": 1769737923,
+    "company_url": "https://ca.linkedin.com/company/cibc",
+    "is_visible": true
+  }, {
+    "date_updated": 1769737923,
+    "url": "https://ca.linkedin.com/jobs/view/data-scientist-co-op-8-months-at-olg-4367037065",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "OLG",
+    "title": "Data Scientist Co-op (8 Months)",
+    "source": "linkedin_scraper",
+    "id": "d32909ca-819c-4d71-bce2-12c26079da8f",
+    "date_posted": 1769737923,
+    "company_url": "https://ca.linkedin.com/company/olg",
+    "is_visible": true
+  }, {
+    "date_updated": 1769737923,
+    "url": "https://ca.linkedin.com/jobs/view/may-2026-data-developer-co-op-at-elk-valley-resources-4356607592",
+    "locations": [
+      "Sparwood, British Columbia, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Elk Valley Resources",
+    "title": "May 2026 Data Developer Co-op",
+    "source": "linkedin_scraper",
+    "id": "6d16460c-9b7e-4c71-8f2d-b0547d1e37ae",
+    "date_posted": 1769737923,
+    "company_url": "https://www.linkedin.com/company/elkvalleyresources",
+    "is_visible": true
+  }, {
+    "date_updated": 1769737923,
+    "url": "https://ca.linkedin.com/jobs/view/co-op-student-technology-analyst-at-worksafebc-4366801773",
+    "locations": [
+      "Richmond, British Columbia, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "WorkSafeBC",
+    "title": "Co-op Student, Technology Analyst",
+    "source": "linkedin_scraper",
+    "id": "a3dedf57-853f-451c-aa64-d93c7cd6364c",
+    "date_posted": 1769737923,
+    "company_url": "https://ca.linkedin.com/company/worksafebc",
+    "is_visible": true
+  },  {
+    "date_updated": 1769737944,
+    "url": "https://ca.linkedin.com/jobs/view/cyber-security-analyst-co-op-at-cibc-4367318689",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "CIBC",
+    "title": "Cyber Security Analyst Co-Op",
+    "source": "linkedin_scraper",
+    "id": "60e4a276-bd6a-47fc-868a-6f6bc1060e71",
+    "date_posted": 1769737944,
+    "company_url": "https://ca.linkedin.com/company/cibc",
+    "is_visible": true
+  },  {
+    "date_updated": 1769737944,
+    "url": "https://ca.linkedin.com/jobs/view/data-science-intern-may-to-december-2026-at-visier-inc-4330893427",
+    "locations": [
+      "Vancouver, British Columbia, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Visier Inc.",
+    "title": "Data Science Intern (May to December 2026)",
+    "source": "linkedin_scraper",
+    "id": "0da8d09c-19c1-4149-a34a-e08f9d89e4bd",
+    "date_posted": 1769662800,
+    "company_url": "https://ca.linkedin.com/company/visier-analytics",
+    "is_visible": true
+  },  {
+    "date_updated": 1769737961,
+    "url": "https://ca.linkedin.com/jobs/view/machine-learning-engineer-risk-management-summer-2026-co-op-internship-4-months-at-bmo-4367198746",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "BMO",
+    "title": "Machine Learning Engineer, Risk Management, Summer 2026 (Co-op/Internship) - 4 Months",
+    "source": "linkedin_scraper",
+    "id": "0fefd278-d982-4ffe-80b2-d75803c27377",
+    "date_posted": 1769737961,
+    "company_url": "https://ca.linkedin.com/company/bank-of-montreal",
+    "is_visible": true
+  }, {
+    "date_updated": 1769737961,
+    "url": "https://ca.linkedin.com/jobs/view/simulation-platform-developer-co-op-at-hammond-power-solutions-4356597516",
+    "locations": [
+      "Guelph, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Hammond Power Solutions",
+    "title": "Simulation Platform Developer Co-op",
+    "source": "linkedin_scraper",
+    "id": "7c48a1d7-d6a8-4e31-800f-139f97cb0a4a",
+    "date_posted": 1769737961,
+    "company_url": "https://ca.linkedin.com/company/hammond-power-solutions",
+    "is_visible": true
+  }, {
+    "date_updated": 1769737983,
+    "url": "https://ca.linkedin.com/jobs/view/data-centre-engineer-at-accenture-4366431013",
+    "locations": [
+      "Ottawa, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Accenture",
+    "title": "Data Centre Engineer",
+    "source": "linkedin_scraper",
+    "id": "bcc8b7df-3bf8-49cc-96b1-a73003c7381b",
+    "date_posted": 1769737983,
+    "company_url": "https://ie.linkedin.com/company/accenture",
+    "is_visible": true
   }
 ]
