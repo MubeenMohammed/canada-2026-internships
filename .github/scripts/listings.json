@@ -19186,5 +19186,405 @@
     "date_posted": 1769737983,
     "company_url": "https://ie.linkedin.com/company/accenture",
     "is_visible": true
+  }, {
+    "date_updated": 1769827875,
+    "url": "https://ca.linkedin.com/jobs/view/developer-at-scotiabank-4367047920",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Scotiabank",
+    "title": "Developer",
+    "source": "linkedin_scraper",
+    "id": "882a08fe-4f6a-4f04-b081-8c4863c6150d",
+    "date_posted": 1769749200,
+    "company_url": "https://ca.linkedin.com/company/scotiabank",
+    "is_visible": true
+  }, {
+    "date_updated": 1769827875,
+    "url": "https://ca.linkedin.com/jobs/view/applied-research-intern-at-thomson-reuters-4332220008",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Thomson Reuters",
+    "title": "Applied Research Intern",
+    "source": "linkedin_scraper",
+    "id": "525b4278-56da-44fb-8074-b35378dbc98d",
+    "date_posted": 1769827875,
+    "company_url": "https://ca.linkedin.com/company/thomson-reuters",
+    "is_visible": true
+  }, {
+    "date_updated": 1769827893,
+    "url": "https://ca.linkedin.com/jobs/view/developer-intern-data-access-summer-2026-at-1password-4367662112",
+    "locations": [
+      "Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "1Password",
+    "title": "Developer Intern - Data & Access - Summer 2026",
+    "source": "linkedin_scraper",
+    "id": "5a590f41-7bf1-418f-b11b-91920138f3b4",
+    "date_posted": 1769827893,
+    "company_url": "https://ca.linkedin.com/company/1password",
+    "is_visible": true
+  }, {
+    "date_updated": 1769827893,
+    "url": "https://ca.linkedin.com/jobs/view/itv-specialist-intern-summer-2026-at-hitachi-rail-4367632511",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Hitachi Rail",
+    "title": "ITV Specialist Intern (Summer 2026)",
+    "source": "linkedin_scraper",
+    "id": "0009f33b-a889-48c3-8259-fd305256b141",
+    "date_posted": 1769827893,
+    "company_url": "https://uk.linkedin.com/company/hitachirail",
+    "is_visible": true
+  },{
+    "date_updated": 1769827893,
+    "url": "https://ca.linkedin.com/jobs/view/devops-analyst-at-deloitte-4344883532",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Deloitte",
+    "title": "DevOps Analyst",
+    "source": "linkedin_scraper",
+    "id": "45b2bc4c-791e-4f7f-87d6-d9b1811dcf32",
+    "date_posted": 1769827893,
+    "company_url": "https://www.linkedin.com/company/deloitte",
+    "is_visible": true
+  },{
+    "date_updated": 1769827912,
+    "url": "https://ca.linkedin.com/jobs/view/co-op-intern-manufacturing-software-development-aerospace-16-months-may-2026-at-schaeffler-4359620493",
+    "locations": [
+      "Stratford, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Schaeffler",
+    "title": "Co-Op/Intern - Manufacturing Software Development - Aerospace (16 months; May 2026)",
+    "source": "linkedin_scraper",
+    "id": "b1688d8d-ecce-4afe-8c4e-9ae73ba50b17",
+    "date_posted": 1769827912,
+    "company_url": "https://de.linkedin.com/company/schaeffler",
+    "is_visible": true
+  }, {
+    "date_updated": 1769827937,
+    "url": "https://ca.linkedin.com/jobs/view/developer-intern-knox-summer-2026-at-1password-4367666028",
+    "locations": [
+      "Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "1Password",
+    "title": "Developer Intern - Knox - Summer 2026",
+    "source": "linkedin_scraper",
+    "id": "7d04ad0d-9e5c-4b7d-96e6-00a0b8b781c8",
+    "date_posted": 1769827937,
+    "company_url": "https://ca.linkedin.com/company/1password",
+    "is_visible": true
+  }, {
+    "date_updated": 1769827937,
+    "url": "https://ca.linkedin.com/jobs/view/developer-intern-device-security-summer-2026-at-1password-4367663088",
+    "locations": [
+      "Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "1Password",
+    "title": "Developer Intern - Device Security - Summer 2026",
+    "source": "linkedin_scraper",
+    "id": "315f8d18-834a-4ddc-bd99-4800ed96d4b6",
+    "date_posted": 1769827937,
+    "company_url": "https://ca.linkedin.com/company/1password",
+    "is_visible": true
+  }, {
+    "date_updated": 1769827937,
+    "url": "https://ca.linkedin.com/jobs/view/production-intern-at-ripple-effect-studios-4356880286",
+    "locations": [
+      "Greater Vancouver Metropolitan Area"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Ripple Effect Studios",
+    "title": "Production Intern",
+    "source": "linkedin_scraper",
+    "id": "d8518350-dad0-457c-9f8b-b6b015eedb6e",
+    "date_posted": 1769827937,
+    "company_url": "https://www.linkedin.com/company/ripple-effect-studios",
+    "is_visible": true
+  },  {
+    "date_updated": 1769827951,
+    "url": "https://ca.linkedin.com/jobs/view/data-analyst-bariatric-assessment-at-providence-healthcare-4367232638",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Providence Healthcare",
+    "title": "Data Analyst Bariatric Assessment",
+    "source": "linkedin_scraper",
+    "id": "5402a0fb-6108-4979-9211-51cc3dac198a",
+    "date_posted": 1769827951,
+    "company_url": "https://ca.linkedin.com/company/providence-healthcare",
+    "is_visible": true
+  }, {
+    "date_updated": 1769827951,
+    "url": "https://ca.linkedin.com/jobs/view/intern-engineering-operations-technology-at-saputo-inc-4367682714",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Saputo Inc.",
+    "title": "Intern, Engineering Operations Technology",
+    "source": "linkedin_scraper",
+    "id": "2dfaffd1-7772-4750-8e18-6b3f69ac5691",
+    "date_posted": 1769827951,
+    "company_url": "https://ca.linkedin.com/company/saputo",
+    "is_visible": true
+  }, {
+    "date_updated": 1769827974,
+    "url": "https://ca.linkedin.com/jobs/view/ai-ops-intern-at-klue-4367618357",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Klue",
+    "title": "AI Ops Intern",
+    "source": "linkedin_scraper",
+    "id": "9755eeac-7afe-4941-b63d-bb2ed0ee237c",
+    "date_posted": 1769827974,
+    "company_url": "https://ca.linkedin.com/company/klue",
+    "is_visible": true
+  }, {
+    "date_updated": 1769827974,
+    "url": "https://ca.linkedin.com/jobs/view/intern-technology-program-at-kensington-4367606798",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Kensington",
+    "title": "Intern - Technology Program",
+    "source": "linkedin_scraper",
+    "id": "c18c604f-7530-4514-8896-cbf8275384c7",
+    "date_posted": 1769827974,
+    "company_url": "https://ca.linkedin.com/company/kensington-tours",
+    "is_visible": true
+  }, {
+    "date_updated": 1769827974,
+    "url": "https://ca.linkedin.com/jobs/view/intern-software-developer-at-triparc-4367612219",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "TripArc",
+    "title": "Intern - Software Developer",
+    "source": "linkedin_scraper",
+    "id": "e7396da9-69d4-459f-82aa-9d529f00ce73",
+    "date_posted": 1769827974,
+    "company_url": "https://ca.linkedin.com/company/triparc",
+    "is_visible": true
+  }, {
+    "date_updated": 1769827974,
+    "url": "https://ca.linkedin.com/jobs/view/software-engineer-intern-at-a-stanford-led-ai-startup-at-soranoai-4367266992",
+    "locations": [
+      "Vancouver, British Columbia, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "SoranoAI",
+    "title": "Software Engineer Intern at a Stanford-led AI startup",
+    "source": "linkedin_scraper",
+    "id": "747edd7d-4a8e-45aa-b691-19a97d6455bf",
+    "date_posted": 1769827974,
+    "company_url": "https://www.linkedin.com/company/soranoai",
+    "is_visible": true
+  }, {
+    "date_updated": 1769827990,
+    "url": "https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur%C2%B7euse-full-stack-stagiaire-full-stack-developer-intern-at-sid-lee-4367654298",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Sid Lee",
+    "title": "Développeur·euse full-stack, stagiaire - Full-Stack Developer, Intern",
+    "source": "linkedin_scraper",
+    "id": "19ca1358-8eaa-41e2-95b6-23f3e34e55a4",
+    "date_posted": 1769827990,
+    "company_url": "https://ca.linkedin.com/company/sid-lee",
+    "is_visible": true
+  }, {
+    "date_updated": 1769827990,
+    "url": "https://ca.linkedin.com/jobs/view/information-technology-intern-at-compugen-inc-4367280708",
+    "locations": [
+      "Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Compugen Inc",
+    "title": "Information Technology Intern",
+    "source": "linkedin_scraper",
+    "id": "2988bd03-ce50-4a9a-8d13-d6fad2a7717f",
+    "date_posted": 1769827990,
+    "company_url": "https://ca.linkedin.com/company/compugen",
+    "is_visible": true
+  }, {
+    "date_updated": 1769828003,
+    "url": "https://ca.linkedin.com/jobs/view/2026-summer-intern-software-development-at-roche-4367068420",
+    "locations": [
+      "Mississauga, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Roche",
+    "title": "2026 Summer Intern - Software Development",
+    "source": "linkedin_scraper",
+    "id": "2c7199d7-f7b7-4945-bed5-424a6938e413",
+    "date_posted": 1769828003,
+    "company_url": "https://ch.linkedin.com/company/roche",
+    "is_visible": true
+  }, {
+    "date_updated": 1769828003,
+    "url": "https://ca.linkedin.com/jobs/view/applied-research-fellow-at-the-decision-lab-4367616995",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "The Decision Lab",
+    "title": "Applied Research Fellow",
+    "source": "linkedin_scraper",
+    "id": "55740f05-9575-4729-9aa1-d9fba995f5f8",
+    "date_posted": 1769828003,
+    "company_url": "https://ca.linkedin.com/company/thedecisionlab",
+    "is_visible": true
+  }, {
+    "date_updated": 1769828026,
+    "url": "https://ca.linkedin.com/jobs/view/intern-investment-data-architecture-at-connor-clark-lunn-financial-group-cc-l-4367641779",
+    "locations": [
+      "Vancouver, British Columbia, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Connor, Clark & Lunn Financial Group (CC&L)",
+    "title": "Intern, Investment Data Architecture",
+    "source": "linkedin_scraper",
+    "id": "6cd0d608-413d-4518-a83e-49a5fe7cd88f",
+    "date_posted": 1769828026,
+    "company_url": "https://ca.linkedin.com/company/connor-clark-lunn-financial-group",
+    "is_visible": true
+  }, {
+    "date_updated": 1769828026,
+    "url": "https://ca.linkedin.com/jobs/view/master-data-specialist-intern-at-compugen-inc-4367295199",
+    "locations": [
+      "Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Compugen Inc",
+    "title": "Master Data Specialist Intern",
+    "source": "linkedin_scraper",
+    "id": "6e5856d8-6e85-4db4-85bd-80b855cb86ae",
+    "date_posted": 1769828026,
+    "company_url": "https://ca.linkedin.com/company/compugen",
+    "is_visible": true
+  }, {
+    "date_updated": 1769828081,
+    "url": "https://ca.linkedin.com/jobs/view/ilab-coordinator-ai-data-systems-co-op-at-dexterra-4367642056",
+    "locations": [
+      "Mississauga, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Dexterra",
+    "title": "iLab Coordinator, AI & Data Systems CO-OP",
+    "source": "linkedin_scraper",
+    "id": "f5c329f6-2f72-4f21-8a39-876b579f2db3",
+    "date_posted": 1769828081,
+    "company_url": "https://ca.linkedin.com/company/dexterraservices",
+    "is_visible": true
+  },{
+    "date_updated": 1769828105,
+    "url": "https://ca.linkedin.com/jobs/view/full-stack-engineer-co-op-at-flexspring-4367277993",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Flexspring",
+    "title": "Full Stack Engineer Co-op",
+    "source": "linkedin_scraper",
+    "id": "a82515b7-c616-4ce1-ae41-7e990460e9c9",
+    "date_posted": 1769828105,
+    "company_url": "https://www.linkedin.com/company/flexspring",
+    "is_visible": true
+  },  {
+    "date_updated": 1769828130,
+    "url": "https://ca.linkedin.com/jobs/view/firmware-developer-co-op-at-motorola-solutions-4367346176",
+    "locations": [
+      "Concord, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Motorola Solutions",
+    "title": "Firmware Developer - Co-Op",
+    "source": "linkedin_scraper",
+    "id": "16c39d2a-565e-442d-85b6-e151d3221a0e",
+    "date_posted": 1769828130,
+    "company_url": "https://www.linkedin.com/company/motorolasolutions",
+    "is_visible": true
+  }, {
+    "date_updated": 1769828166,
+    "url": "https://ca.linkedin.com/jobs/view/cloud-finops-co-op-summer-2026-at-magnet-forensics-4367490655",
+    "locations": [
+      "Waterloo, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Magnet Forensics",
+    "title": "Cloud FinOps Co-op (Summer 2026)",
+    "source": "linkedin_scraper",
+    "id": "0eacb4c7-6d3a-4d62-a1b1-065bcc0cc337",
+    "date_posted": 1769828166,
+    "company_url": "https://www.linkedin.com/company/magnet-forensics",
+    "is_visible": true
   }
 ]
