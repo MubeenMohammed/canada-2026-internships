@@ -19586,5 +19586,294 @@
     "date_posted": 1769828166,
     "company_url": "https://www.linkedin.com/company/magnet-forensics",
     "is_visible": true
+  },
+       {
+    "date_updated": 1770072761,
+    "url": "https://ca.linkedin.com/jobs/view/intern-data-science-at-gildan-4368366596",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Gildan",
+    "title": "Intern, Data Science",
+    "source": "linkedin_scraper",
+    "id": "86ce1a25-e5db-4060-94cd-ae1115560da6",
+    "date_posted": 1770072761,
+    "company_url": "https://ca.linkedin.com/company/gildan",
+    "is_visible": true
+  }, {
+    "date_updated": 1770072761,
+    "url": "https://ca.linkedin.com/jobs/view/intern-business-intelligence-at-gildan-4368356846",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Gildan",
+    "title": "Intern, Business Intelligence",
+    "source": "linkedin_scraper",
+    "id": "357cb24e-7386-4c45-92d2-fb305579d35d",
+    "date_posted": 1770072761,
+    "company_url": "https://ca.linkedin.com/company/gildan",
+    "is_visible": true
+  }, {
+    "date_updated": 1770072761,
+    "url": "https://ca.linkedin.com/jobs/view/software-developer-intern-at-resmed-4368362897",
+    "locations": [
+      "Halifax, Nova Scotia, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Resmed",
+    "title": "Software Developer Intern",
+    "source": "linkedin_scraper",
+    "id": "13fa73b4-8cac-4914-a33b-3f9fa66b068f",
+    "date_posted": 1770072761,
+    "company_url": "https://www.linkedin.com/company/resmed",
+    "is_visible": true
+  }, {
+    "date_updated": 1770072761,
+    "url": "https://ca.linkedin.com/jobs/view/software-engineer-intern-at-brickred-systems-4368161000",
+    "locations": [
+      "Burnaby, British Columbia, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "BrickRed Systems",
+    "title": "Software Engineer Intern",
+    "source": "linkedin_scraper",
+    "id": "f918b102-13a1-45f8-901d-edc406b043c4",
+    "date_posted": 1770072761,
+    "company_url": "https://www.linkedin.com/company/brickred-systems",
+    "is_visible": true
+  }, {
+    "date_updated": 1770072761,
+    "url": "https://ca.linkedin.com/jobs/view/ml-intern-research-at-valence-labs-4368145105",
+    "locations": [
+      "Montréal-Ouest, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Valence Labs",
+    "title": "ML Intern, Research",
+    "source": "linkedin_scraper",
+    "id": "d786aa52-ab8c-4189-b07b-72ccb1096f82",
+    "date_posted": 1769922000,
+    "company_url": "https://ca.linkedin.com/company/valenceailabs",
+    "is_visible": true
+  }, {
+    "date_updated": 1770072787,
+    "url": "https://ca.linkedin.com/jobs/view/intern-full-stack-ai-developer-may-2026-at-avanade-4368404484",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Avanade",
+    "title": "Intern, Full Stack AI Developer May 2026",
+    "source": "linkedin_scraper",
+    "id": "175d50d1-a0c5-4317-b65f-ed9dba0a7715",
+    "date_posted": 1770072787,
+    "company_url": "https://www.linkedin.com/company/avanade",
+    "is_visible": true
+  },  {
+    "date_updated": 1770072787,
+    "url": "https://ca.linkedin.com/jobs/view/devops-engineering-intern-at-staffline-solutions-4357432686",
+    "locations": [
+      "Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Staffline Solutions",
+    "title": "DevOps Engineering Intern",
+    "source": "linkedin_scraper",
+    "id": "4b1bab13-1f3a-4f11-9165-752827aafba9",
+    "date_posted": 1770072787,
+    "company_url": "https://www.linkedin.com/company/staffline-solutions",
+    "is_visible": true
+  },  {
+    "date_updated": 1770072812,
+    "url": "https://ca.linkedin.com/jobs/view/intern-cloud-engineering-may-2026-at-avanade-4368404485",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Avanade",
+    "title": "Intern, Cloud Engineering May 2026",
+    "source": "linkedin_scraper",
+    "id": "ebf4070e-b620-421e-b666-5ace69163011",
+    "date_posted": 1770072812,
+    "company_url": "https://www.linkedin.com/company/avanade",
+    "is_visible": true
+  }, {
+    "date_updated": 1770072812,
+    "url": "https://ca.linkedin.com/jobs/view/data-science-intern-master-s-montreal-2026-start-date-stage-scientifique-des-donn%C3%A9es-dipl%C3%B4me-de-ma%C3%AEtrise-montr%C3%A9al-date-de-d%C3%A9but-2026-at-analysis-group-4339172692",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Analysis Group",
+    "title": "Data Science Intern (Master's) - Montreal (2026 Start Date) ( Stage - Scientifique des données (diplôme de maîtrise) - Montréal (Date de début 2026))",
+    "source": "linkedin_scraper",
+    "id": "d0c4e6dc-8d61-48c6-9b3f-14edd404afd7",
+    "date_posted": 1770072812,
+    "company_url": "https://www.linkedin.com/company/analysis-group",
+    "is_visible": true
+  }, {
+    "date_updated": 1770072828,
+    "url": "https://ca.linkedin.com/jobs/view/webber-summer-engineering-intern-infrastructure-management-at-ferrovial-4368368545",
+    "locations": [
+      "Kingston, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Ferrovial",
+    "title": "Webber - Summer Engineering Intern - Infrastructure Management",
+    "source": "linkedin_scraper",
+    "id": "6341cdab-42d9-47a6-bd2c-f5e2ef261231",
+    "date_posted": 1770072828,
+    "company_url": "https://nl.linkedin.com/company/ferrovial",
+    "is_visible": true
+  }, {
+    "date_updated": 1770072854,
+    "url": "https://ca.linkedin.com/jobs/view/data-internship-at-aviva-canada-4357473518",
+    "locations": [
+      "Markham, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Aviva Canada",
+    "title": "Data Internship",
+    "source": "linkedin_scraper",
+    "id": "953ab92b-a762-4648-ae0e-31b7de65a2bb",
+    "date_posted": 1770072854,
+    "company_url": "https://ca.linkedin.com/company/aviva-canada",
+    "is_visible": true
+  }, {
+    "date_updated": 1770072854,
+    "url": "https://ca.linkedin.com/jobs/view/data-science-internship-at-staffline-solutions-4357432669",
+    "locations": [
+      "Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Staffline Solutions",
+    "title": "Data Science Internship",
+    "source": "linkedin_scraper",
+    "id": "1b1cfaf2-8f4e-42f2-a7bc-1235e611980e",
+    "date_posted": 1770072854,
+    "company_url": "https://www.linkedin.com/company/staffline-solutions",
+    "is_visible": true
+  },  {
+    "date_updated": 1770072875,
+    "url": "https://ca.linkedin.com/jobs/view/quality-engineer-intern-co-op-summer-2026-at-td-4368389045",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "TD",
+    "title": "Quality Engineer Intern/Co-op (Summer 2026)",
+    "source": "linkedin_scraper",
+    "id": "6eddd37b-f2cd-4ad6-b2cb-3846d495c78e",
+    "date_posted": 1770072875,
+    "company_url": "https://ca.linkedin.com/company/td",
+    "is_visible": true
+  },  {
+    "date_updated": 1770072896,
+    "url": "https://ca.linkedin.com/jobs/view/intern-research-foundational-models-at-autodesk-4368381717",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Autodesk",
+    "title": "Intern, Research Foundational Models",
+    "source": "linkedin_scraper",
+    "id": "37ddcc6c-b73c-4fc1-ae3f-d411064adcc2",
+    "date_posted": 1770072896,
+    "company_url": "https://www.linkedin.com/company/autodesk",
+    "is_visible": true
+  },  {
+    "date_updated": 1770072910,
+    "url": "https://ca.linkedin.com/jobs/view/intern-quality-assurance-systems-at-saputo-inc-4368374831",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Saputo Inc.",
+    "title": "Intern, Quality Assurance Systems",
+    "source": "linkedin_scraper",
+    "id": "46331ecf-9da4-44e7-af81-9497b858270f",
+    "date_posted": 1770072910,
+    "company_url": "https://ca.linkedin.com/company/saputo",
+    "is_visible": true
+  }, {
+    "date_updated": 1770072942,
+    "url": "https://ca.linkedin.com/jobs/view/stagiaire-analyste-applications-d-affaires-dynamics-365-mai-2026-at-avanade-4368416355",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Avanade",
+    "title": "Stagiaire, Analyste applications d'affaires Dynamics 365 - Mai 2026",
+    "source": "linkedin_scraper",
+    "id": "ebfe9d7e-362d-4251-baf2-eebf95ffae35",
+    "date_posted": 1770072942,
+    "company_url": "https://www.linkedin.com/company/avanade",
+    "is_visible": true
+  }, {
+    "date_updated": 1770072964,
+    "url": "https://ca.linkedin.com/jobs/view/it-co-op-at-martinrea-international-4367814442",
+    "locations": [
+      "Etobicoke, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Martinrea International",
+    "title": "IT Co-op",
+    "source": "linkedin_scraper",
+    "id": "966efd7c-5e5a-4922-8fed-abc554e75432",
+    "date_posted": 1770072964,
+    "company_url": "https://ca.linkedin.com/company/martinreainternational",
+    "is_visible": true
+  },  {
+    "date_updated": 1770072986,
+    "url": "https://ca.linkedin.com/jobs/view/aquatic-informatics-machine-learning-co-op-intern-at-hach-4368155265",
+    "locations": [
+      "Vancouver, British Columbia, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Hach",
+    "title": "Aquatic Informatics - Machine Learning Co-Op (Intern)",
+    "source": "linkedin_scraper",
+    "id": "1df55b71-bbef-4738-a2da-2d26b7d5d78c",
+    "date_posted": 1770072986,
+    "company_url": "https://www.linkedin.com/company/hach",
+    "is_visible": true
   }
 ]
