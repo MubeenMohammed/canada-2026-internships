@@ -19875,5 +19875,310 @@
     "date_posted": 1770072986,
     "company_url": "https://www.linkedin.com/company/hach",
     "is_visible": true
+  },
+    {
+    "date_updated": 1770166164,
+    "url": "https://ca.linkedin.com/jobs/view/cognizant-consultant-intern-canada-at-cognizant-4368281816",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Cognizant",
+    "title": "Cognizant Consultant Intern (Canada)",
+    "source": "linkedin_scraper",
+    "id": "5d876b1d-0a35-4b12-8069-d4fd1b03878e",
+    "date_posted": 1770166164,
+    "company_url": "https://www.linkedin.com/company/cognizant",
+    "is_visible": true
+  }, {
+    "date_updated": 1770166164,
+    "url": "https://ca.linkedin.com/jobs/view/intern-data-distribution-at-gildan-4368645600",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Gildan",
+    "title": "Intern, Data Distribution",
+    "source": "linkedin_scraper",
+    "id": "819f1ef1-bff6-4c41-8885-8d131bf87759",
+    "date_posted": 1770166164,
+    "company_url": "https://ca.linkedin.com/company/gildan",
+    "is_visible": true
+  }, {
+    "date_updated": 1770166176,
+    "url": "https://ca.linkedin.com/jobs/view/quality-engineer-intern-co-op-at-td-4368426786",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "TD",
+    "title": "Quality Engineer Intern/Co-op",
+    "source": "linkedin_scraper",
+    "id": "e781ec30-7041-4d36-b362-ca323f54420f",
+    "date_posted": 1770166176,
+    "company_url": "https://ca.linkedin.com/company/td",
+    "is_visible": true
+  }, {
+    "date_updated": 1770166176,
+    "url": "https://ca.linkedin.com/jobs/view/summer-2026-it-internships-%E2%80%93-university-level-at-cima%2B-4368431269",
+    "locations": [
+      "Guelph, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "CIMA+",
+    "title": "Summer 2026 | IT Internships – University Level",
+    "source": "linkedin_scraper",
+    "id": "64e3f203-8299-4e0d-b77d-c2244841e2b1",
+    "date_posted": 1770094800,
+    "company_url": "https://ca.linkedin.com/company/cima-",
+    "is_visible": true
+  }, {
+    "date_updated": 1770166176,
+    "url": "https://ca.linkedin.com/jobs/view/quality-engineer-intern-co-op-at-td-securities-4368630087",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "TD Securities",
+    "title": "Quality Engineer Intern/Co-op",
+    "source": "linkedin_scraper",
+    "id": "99c534bc-92cd-4c05-a32d-688742a06e21",
+    "date_posted": 1770166176,
+    "company_url": "https://ca.linkedin.com/company/tdsecurities",
+    "is_visible": true
+  },  {
+    "date_updated": 1770166176,
+    "url": "https://ca.linkedin.com/jobs/view/deep-learning-researcher-intern-model-quantization-at-stmicroelectronics-4361394915",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "STMicroelectronics",
+    "title": "Deep Learning Researcher Intern - Model Quantization",
+    "source": "linkedin_scraper",
+    "id": "b05211fb-658b-463f-a2ff-926f849e7947",
+    "date_posted": 1770166176,
+    "company_url": "https://ch.linkedin.com/company/stmicroelectronics",
+    "is_visible": true
+  }, {
+    "date_updated": 1770166176,
+    "url": "https://ca.linkedin.com/jobs/view/backend-software-engineer-internship-spring-2026-at-datavisor-4368245391",
+    "locations": [
+      "Vancouver, British Columbia, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "DataVisor",
+    "title": "Backend Software Engineer Internship Spring 2026",
+    "source": "linkedin_scraper",
+    "id": "ad1e835e-296a-48e8-b2b7-016433ed7722",
+    "date_posted": 1770166176,
+    "company_url": "https://www.linkedin.com/company/datavisor",
+    "is_visible": true
+  }, {
+    "date_updated": 1770166198,
+    "url": "https://ca.linkedin.com/jobs/view/quality-engineer-intern-co-op-summer-2026-at-td-securities-4368632088",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "TD Securities",
+    "title": "Quality Engineer Intern/Co-op (Summer 2026)",
+    "source": "linkedin_scraper",
+    "id": "39556f53-717e-4f9b-8a37-32bed493e9cc",
+    "date_posted": 1770166198,
+    "company_url": "https://ca.linkedin.com/company/tdsecurities",
+    "is_visible": true
+  }, {
+    "date_updated": 1770166212,
+    "url": "https://ca.linkedin.com/jobs/view/junior-developer-summer-2026-co-op-internship-4-months-at-bmo-4368426521",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "BMO",
+    "title": "Junior Developer, Summer 2026 (Co-op/Internship) - 4 months",
+    "source": "linkedin_scraper",
+    "id": "d47d52fc-b28d-43e2-91d6-815c73f56792",
+    "date_posted": 1770166212,
+    "company_url": "https://ca.linkedin.com/company/bank-of-montreal",
+    "is_visible": true
+  }, {
+    "date_updated": 1770166249,
+    "url": "https://ca.linkedin.com/jobs/view/data-analyst-intern-summer-2026-windsor-on-at-rocket-innovation-studio-4368257306",
+    "locations": [
+      "Windsor, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Rocket Innovation Studio",
+    "title": "Data Analyst Intern - Summer 2026 (Windsor, ON)",
+    "source": "linkedin_scraper",
+    "id": "900c5f4d-0a68-4c38-8922-338a118a76be",
+    "date_posted": 1770166249,
+    "company_url": "https://ca.linkedin.com/company/rocket-innovation-studio",
+    "is_visible": true
+  }, {
+    "date_updated": 1770166249,
+    "url": "https://ca.linkedin.com/jobs/view/intern-data-engineering-at-gildan-4368649524",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Gildan",
+    "title": "Intern, Data Engineering",
+    "source": "linkedin_scraper",
+    "id": "886e16b7-5ecb-4870-af9f-9c05522f5d5f",
+    "date_posted": 1770166249,
+    "company_url": "https://ca.linkedin.com/company/gildan",
+    "is_visible": true
+  }, {
+    "date_updated": 1770166249,
+    "url": "https://ca.linkedin.com/jobs/view/data-analytics-intern-at-boston-scientific-4368620799",
+    "locations": [
+      "Ottawa, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Boston Scientific",
+    "title": "Data Analytics Intern",
+    "source": "linkedin_scraper",
+    "id": "3db8eca1-3722-482d-a75e-63bad029afe8",
+    "date_posted": 1770166249,
+    "company_url": "https://www.linkedin.com/company/boston-scientific",
+    "is_visible": true
+  }, {
+    "date_updated": 1770166270,
+    "url": "https://ca.linkedin.com/jobs/view/developer-summer-2026-co-op-internship-%E2%80%934-months-at-bmo-4368421735",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "BMO",
+    "title": "Developer, Summer 2026 (Co-op/Internship) –4 Months",
+    "source": "linkedin_scraper",
+    "id": "4d96edb4-77b7-4a2d-96de-cae07c70a339",
+    "date_posted": 1770166270,
+    "company_url": "https://ca.linkedin.com/company/bank-of-montreal",
+    "is_visible": true
+  },  {
+    "date_updated": 1770166270,
+    "url": "https://ca.linkedin.com/jobs/view/software-engineering-intern-at-trimble-inc-4368812115",
+    "locations": [
+      "Richmond Hill, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Trimble Inc.",
+    "title": "Software Engineering Intern",
+    "source": "linkedin_scraper",
+    "id": "3661ac6c-b163-42a0-ac77-36eab755f836",
+    "date_posted": 1770166270,
+    "company_url": "https://www.linkedin.com/company/trimble",
+    "is_visible": true
+  }, {
+    "date_updated": 1770166270,
+    "url": "https://ca.linkedin.com/jobs/view/summer-squad-ai-product-development-intern-at-salt-xc-4357901508",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Salt XC",
+    "title": "Summer Squad - AI Product Development Intern",
+    "source": "linkedin_scraper",
+    "id": "612071d6-b43c-4829-8f0c-0c55e316c2e3",
+    "date_posted": 1770166270,
+    "company_url": "https://ca.linkedin.com/company/saltxc",
+    "is_visible": true
+  }, {
+    "date_updated": 1770166346,
+    "url": "https://ca.linkedin.com/jobs/view/summer-2026-student-data-analyst-mfd-pey-12-month-at-rbc-4368638320",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "RBC",
+    "title": "Summer 2026 Student - Data Analyst, MFD PEY (12-month)",
+    "source": "linkedin_scraper",
+    "id": "43e3df21-ffbe-40c3-a676-3f1d4d3bf5fb",
+    "date_posted": 1770166346,
+    "company_url": "https://ca.linkedin.com/company/rbc",
+    "is_visible": true
+  }, {
+    "date_updated": 1770166394,
+    "url": "https://ca.linkedin.com/jobs/view/junior-systems-administrator-co-op-at-s-c-electric-company-4361345284",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "S&C Electric Company",
+    "title": "Junior Systems Administrator (Co-op)",
+    "source": "linkedin_scraper",
+    "id": "4f2347d8-6ab1-439f-ba92-4ebbd0ee8c2f",
+    "date_posted": 1770166394,
+    "company_url": "https://www.linkedin.com/company/s&c-electric-company",
+    "is_visible": true
+  }, {
+    "date_updated": 1770166394,
+    "url": "https://ca.linkedin.com/jobs/view/data-platform-engineer-student-position-at-canada-life-4357456487",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Canada Life",
+    "title": "Data Platform Engineer (Student Position)",
+    "source": "linkedin_scraper",
+    "id": "03aa395b-452a-402e-aea8-200426ffcc4b",
+    "date_posted": 1770166394,
+    "company_url": "https://ca.linkedin.com/company/canada-life",
+    "is_visible": true
+  }, {
+    "date_updated": 1770166410,
+    "url": "https://ca.linkedin.com/jobs/view/wise-summer-2026-co-op-developer-4-months-at-cgi-4368447101",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "CGI",
+    "title": "WiSE Summer 2026 Co-op: Developer (4 Months)",
+    "source": "linkedin_scraper",
+    "id": "07a28acd-898b-4c99-8341-d44c43bcceec",
+    "date_posted": 1770166410,
+    "company_url": "https://ca.linkedin.com/company/cgi",
+    "is_visible": true
   }
 ]
