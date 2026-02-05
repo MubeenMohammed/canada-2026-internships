@@ -20180,5 +20180,310 @@
     "date_posted": 1770166410,
     "company_url": "https://ca.linkedin.com/company/cgi",
     "is_visible": true
+  },
+   {
+    "date_updated": 1770249773,
+    "url": "https://ca.linkedin.com/jobs/view/product-developer-intern-at-umbra-4369267688",
+    "locations": [
+      "Scarborough, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Umbra",
+    "title": "Product Developer Intern",
+    "source": "linkedin_scraper",
+    "id": "1dea3211-18fe-4d22-b99d-a6093f725289",
+    "date_posted": 1770249773,
+    "company_url": "https://ca.linkedin.com/company/umbra",
+    "is_visible": true
+  }, {
+    "date_updated": 1770249773,
+    "url": "https://ca.linkedin.com/jobs/view/artificial-intelligence-intern-at-forest-group-4369255212",
+    "locations": [
+      "Vaughan, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Forest Group",
+    "title": "Artificial Intelligence Intern",
+    "source": "linkedin_scraper",
+    "id": "d697b138-f840-4938-b37c-f3e1fd36714c",
+    "date_posted": 1770181200,
+    "company_url": "https://ca.linkedin.com/company/forest-group1",
+    "is_visible": true
+  }, {
+    "date_updated": 1770249773,
+    "url": "https://ca.linkedin.com/jobs/view/information-systems-ta-summer-student-internship-coop-at-tarion-4368736057",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Tarion",
+    "title": "Information Systems, TA Summer Student Internship/Coop",
+    "source": "linkedin_scraper",
+    "id": "a4dadea6-4b7d-4865-88e1-f3b488bbf6b7",
+    "date_posted": 1770249773,
+    "company_url": "https://ca.linkedin.com/company/tarion_on",
+    "is_visible": true
+  }, {
+    "date_updated": 1770249773,
+    "url": "https://ca.linkedin.com/jobs/view/software-engineering-intern-ai-platform-at-midra-ai-4368550513",
+    "locations": [
+      "Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Midra AI",
+    "title": "Software Engineering Intern (AI Platform)",
+    "source": "linkedin_scraper",
+    "id": "fa017429-314c-44ee-8b22-258cdd11fd2e",
+    "date_posted": 1770249773,
+    "company_url": "https://ca.linkedin.com/company/midra-ai",
+    "is_visible": true
+  }, {
+    "date_updated": 1770249773,
+    "url": "https://ca.linkedin.com/jobs/view/intern-machine-learning-developer-at-autodesk-4368780430",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Autodesk",
+    "title": "Intern, Machine Learning Developer",
+    "source": "linkedin_scraper",
+    "id": "819c92d4-c8fe-40a2-ac00-2f8fde62f6a7",
+    "date_posted": 1770249773,
+    "company_url": "https://www.linkedin.com/company/autodesk",
+    "is_visible": true
+  },{
+    "date_updated": 1770249789,
+    "url": "https://ca.linkedin.com/jobs/view/ai-innovation-analyst-intern-at-precision-drilling-4369265083",
+    "locations": [
+      "Calgary, Alberta, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Precision Drilling",
+    "title": "AI Innovation Analyst - Intern",
+    "source": "linkedin_scraper",
+    "id": "b1facc55-6228-448b-bc62-7a140d3a9d41",
+    "date_posted": 1770249789,
+    "company_url": "https://ca.linkedin.com/company/precision-drilling",
+    "is_visible": true
+  }, {
+    "date_updated": 1770249814,
+    "url": "https://ca.linkedin.com/jobs/view/internship-opex-data-analytics-4-month-perth-on-canada-at-eaton-4358813024",
+    "locations": [
+      "Perth, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Eaton",
+    "title": "Internship: OPEX Data Analytics (4-month) - Perth, ON, Canada",
+    "source": "linkedin_scraper",
+    "id": "4ddfc10d-b2a4-4bd2-8133-7f72e2f003d1",
+    "date_posted": 1770249814,
+    "company_url": "https://ie.linkedin.com/company/eaton",
+    "is_visible": true
+  }, {
+    "date_updated": 1770249814,
+    "url": "https://ca.linkedin.com/jobs/view/intern-technology-%E2%80%93-it-service-management-at-kroll-4368556695",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Kroll",
+    "title": "Intern, Technology – IT Service Management",
+    "source": "linkedin_scraper",
+    "id": "53998c94-d766-48d4-8fec-7bf307cda90f",
+    "date_posted": 1770249814,
+    "company_url": "https://www.linkedin.com/company/kroll",
+    "is_visible": true
+  }, {
+    "date_updated": 1770249832,
+    "url": "https://ca.linkedin.com/jobs/view/test-validation-software-developer-intern-at-octasic-4368764794",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Octasic",
+    "title": "Test Validation Software Developer Intern",
+    "source": "linkedin_scraper",
+    "id": "97b3b157-99a6-4805-a961-b1ff5d095666",
+    "date_posted": 1770249832,
+    "company_url": "https://ca.linkedin.com/company/octasic",
+    "is_visible": true
+  }, {
+    "date_updated": 1770249852,
+    "url": "https://ca.linkedin.com/jobs/view/product-design-intern-design-ux-saas-manager-summer-2026-at-1password-4368882612",
+    "locations": [
+      "Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "1Password",
+    "title": "Product Design Intern - Design & UX, SaaS Manager - Summer 2026",
+    "source": "linkedin_scraper",
+    "id": "c74d2e5b-bc5d-42e7-9fb1-a3fc2bfd3582",
+    "date_posted": 1770249852,
+    "company_url": "https://ca.linkedin.com/company/1password",
+    "is_visible": true
+  },  {
+    "date_updated": 1770249874,
+    "url": "https://ca.linkedin.com/jobs/view/software-developer-1-at-intuit-4359519611",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Intuit",
+    "title": "Software Developer 1",
+    "source": "linkedin_scraper",
+    "id": "f157f03e-439d-4db8-8045-dd815d49212b",
+    "date_posted": 1770249874,
+    "company_url": "https://www.linkedin.com/company/intuit",
+    "is_visible": true
+  }, {
+    "date_updated": 1770249874,
+    "url": "https://ca.linkedin.com/jobs/view/research-intern-artificial-intelligence-at-microsoft-4341085429",
+    "locations": [
+      "Vancouver, British Columbia, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Microsoft",
+    "title": "Research Intern - Artificial Intelligence",
+    "source": "linkedin_scraper",
+    "id": "92e00597-0976-4808-bfca-21c718955848",
+    "date_posted": 1770249874,
+    "company_url": "https://www.linkedin.com/company/microsoft",
+    "is_visible": true
+  },  {
+    "date_updated": 1770249874,
+    "url": "https://ca.linkedin.com/jobs/view/information-systems-qa-summer-student-internship-coop-at-tarion-4368733197",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Tarion",
+    "title": "Information Systems, QA Summer Student Internship/Coop",
+    "source": "linkedin_scraper",
+    "id": "a369b21f-360c-4c84-97e1-cdd7b3c65c5f",
+    "date_posted": 1770249874,
+    "company_url": "https://ca.linkedin.com/company/tarion_on",
+    "is_visible": true
+  }, {
+    "date_updated": 1770249896,
+    "url": "https://ca.linkedin.com/jobs/view/deep-learning-researcher-intern-model-quantization-at-stmicroelectronics-4354858712",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "STMicroelectronics",
+    "title": "Deep Learning Researcher Intern - Model Quantization",
+    "source": "linkedin_scraper",
+    "id": "18fac7a9-ad24-4aeb-a9ff-af5772a2d857",
+    "date_posted": 1770249896,
+    "company_url": "https://ch.linkedin.com/company/stmicroelectronics",
+    "is_visible": true
+  }, {
+    "date_updated": 1770249945,
+    "url": "https://ca.linkedin.com/jobs/view/data-analyst-bariatric-assessment-at-providence-healthcare-4367232638",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Providence Healthcare",
+    "title": "Data Analyst Bariatric Assessment",
+    "source": "linkedin_scraper",
+    "id": "9574c52a-e06f-4a8f-9d78-a3edf93c447b",
+    "date_posted": 1770249945,
+    "company_url": "https://ca.linkedin.com/company/providence-healthcare",
+    "is_visible": true
+  }, {
+    "date_updated": 1770249991,
+    "url": "https://ca.linkedin.com/jobs/view/coop-ti-et-ing%C3%A9nierie-at-canadian-security-intelligence-service-csis-service-canadien-du-renseignement-de-s%C3%A9curit%C3%A9-scrs-4368769835",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Canadian Security Intelligence Service (CSIS) Service canadien du renseignement de sécurité (SCRS)",
+    "title": "Coop : TI et ingénierie",
+    "source": "linkedin_scraper",
+    "id": "dd0128d1-bc97-44f4-bc43-4e40637f72f4",
+    "date_posted": 1770249991,
+    "company_url": "https://ca.linkedin.com/company/canadian-security-intelligence-service-service",
+    "is_visible": true
+  }, {
+    "date_updated": 1770250005,
+    "url": "https://ca.linkedin.com/jobs/view/embedded-software-developer-student-co-op-at-smartrend-manufacturing-group-smg-4360540258",
+    "locations": [
+      "Winnipeg, Manitoba, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Smartrend Manufacturing Group (SMG)",
+    "title": "Embedded Software Developer Student Co-Op",
+    "source": "linkedin_scraper",
+    "id": "4f99d5ac-ad62-45e0-b40a-a5614ffe072c",
+    "date_posted": 1770250005,
+    "company_url": "https://ca.linkedin.com/company/smgrp",
+    "is_visible": true
+  }, {
+    "date_updated": 1770250054,
+    "url": "https://ca.linkedin.com/jobs/view/co-op-student-information-technology-at-baker-tilly-canada-4369005207",
+    "locations": [
+      "Dartmouth, Nova Scotia, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Baker Tilly Canada",
+    "title": "Co-op Student, Information Technology",
+    "source": "linkedin_scraper",
+    "id": "74212de8-c93a-4e99-9e07-60aab1d69db2",
+    "date_posted": 1770250054,
+    "company_url": "https://ca.linkedin.com/company/baker-tilly-canada",
+    "is_visible": true
+  }, {
+    "date_updated": 1770250096,
+    "url": "https://ca.linkedin.com/jobs/view/governance-compliance-analyst-co-op-at-cibc-4368898219",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "CIBC",
+    "title": "Governance/Compliance Analyst Co-op",
+    "source": "linkedin_scraper",
+    "id": "3317ec0e-6b4f-430a-b5a6-e82d5c7ee86c",
+    "date_posted": 1770250096,
+    "company_url": "https://ca.linkedin.com/company/cibc",
+    "is_visible": true
   }
 ]
