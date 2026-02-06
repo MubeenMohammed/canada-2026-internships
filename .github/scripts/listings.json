@@ -20485,5 +20485,310 @@
     "date_posted": 1770250096,
     "company_url": "https://ca.linkedin.com/company/cibc",
     "is_visible": true
+  },
+       {
+    "date_updated": 1770348070,
+    "url": "https://ca.linkedin.com/jobs/view/software-engineer-intern-data-engineering-summer-2026-at-ripple-4369128393",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Ripple",
+    "title": "Software Engineer Intern, Data Engineering (Summer 2026)",
+    "source": "linkedin_scraper",
+    "id": "a7043cef-4c6d-4777-a3c1-ecd701c467e3",
+    "date_posted": 1770348070,
+    "company_url": "https://www.linkedin.com/company/ripple",
+    "is_visible": true
+  }, {
+    "date_updated": 1770348070,
+    "url": "https://ca.linkedin.com/jobs/view/data-science-internship-at-staffline-solutions-4360534109",
+    "locations": [
+      "Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Staffline Solutions",
+    "title": "Data Science Internship",
+    "source": "linkedin_scraper",
+    "id": "f07b84e2-9bea-4cac-9c8f-024900b80d60",
+    "date_posted": 1770348070,
+    "company_url": "https://www.linkedin.com/company/staffline-solutions",
+    "is_visible": true
+  }, {
+    "date_updated": 1770348070,
+    "url": "https://ca.linkedin.com/jobs/view/part-time-ai-machine-learning-internship-at-findora-ai-4359891941",
+    "locations": [
+      "Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Findora AI",
+    "title": "Part-Time AI & Machine Learning Internship",
+    "source": "linkedin_scraper",
+    "id": "1b9ddd02-2eae-4ec1-a0a3-a9537d790af0",
+    "date_posted": 1770348070,
+    "company_url": "https://www.linkedin.com/company/findora-ai",
+    "is_visible": true
+  }, {
+    "date_updated": 1770348084,
+    "url": "https://ca.linkedin.com/jobs/view/machine-learning-research-intern-summer-2026-at-astrazeneca-4369162421",
+    "locations": [
+      "Mississauga, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "AstraZeneca",
+    "title": "Machine Learning Research Intern - Summer 2026",
+    "source": "linkedin_scraper",
+    "id": "b291541e-df71-4ee6-9e8c-41cef3b1b6a4",
+    "date_posted": 1770348084,
+    "company_url": "https://uk.linkedin.com/company/astrazeneca",
+    "is_visible": true
+  }, {
+    "date_updated": 1770348084,
+    "url": "https://ca.linkedin.com/jobs/view/ai-research-intern-summer-2026-at-bmo-4369715731",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "BMO",
+    "title": "AI Research Intern - Summer 2026",
+    "source": "linkedin_scraper",
+    "id": "1a3ac0c7-d205-41b8-a6c9-e50ec46a93ca",
+    "date_posted": 1770348084,
+    "company_url": "https://ca.linkedin.com/company/bank-of-montreal",
+    "is_visible": true
+  }, {
+    "date_updated": 1770348097,
+    "url": "https://ca.linkedin.com/jobs/view/developer-intern-insights-summer-2026-at-1password-4369700763",
+    "locations": [
+      "Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "1Password",
+    "title": "Developer Intern - Insights - Summer 2026",
+    "source": "linkedin_scraper",
+    "id": "4abd1fff-c218-48fa-8cbd-1a767dac45bf",
+    "date_posted": 1770348097,
+    "company_url": "https://ca.linkedin.com/company/1password",
+    "is_visible": true
+  }, {
+    "date_updated": 1770348097,
+    "url": "https://ca.linkedin.com/jobs/view/product-design-intern-design-ux-saas-manager-summer-2026-at-1password-4369704687",
+    "locations": [
+      "Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "1Password",
+    "title": "Product Design Intern - Design & UX, SaaS Manager - Summer 2026",
+    "source": "linkedin_scraper",
+    "id": "0a450238-9d7d-4742-be28-4932dfbb628d",
+    "date_posted": 1770348097,
+    "company_url": "https://ca.linkedin.com/company/1password",
+    "is_visible": true
+  },  {
+    "date_updated": 1770348128,
+    "url": "https://ca.linkedin.com/jobs/view/product-ops-intern-epm-summer-2026-at-1password-4369717332",
+    "locations": [
+      "Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "1Password",
+    "title": "Product Ops Intern - EPM - Summer 2026",
+    "source": "linkedin_scraper",
+    "id": "e2e624dc-61ec-4c13-a18c-1f521e34d8d4",
+    "date_posted": 1770348128,
+    "company_url": "https://ca.linkedin.com/company/1password",
+    "is_visible": true
+  },  {
+    "date_updated": 1770348128,
+    "url": "https://ca.linkedin.com/jobs/view/computational-biology-ai-intern-summer-2026-at-astrazeneca-4369147519",
+    "locations": [
+      "Mississauga, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "AstraZeneca",
+    "title": "Computational Biology & AI Intern - Summer 2026",
+    "source": "linkedin_scraper",
+    "id": "267d4f4c-bef6-42d8-ab52-1f7b6e3ff557",
+    "date_posted": 1770348128,
+    "company_url": "https://uk.linkedin.com/company/astrazeneca",
+    "is_visible": true
+  }, {
+    "date_updated": 1770348146,
+    "url": "https://ca.linkedin.com/jobs/view/ai-engineer-intern-at-kdata-ai-4369137612",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "KData AI",
+    "title": "AI Engineer Intern",
+    "source": "linkedin_scraper",
+    "id": "d83fefa2-1044-4f08-b4cc-7b438de4e8ef",
+    "date_posted": 1770348146,
+    "company_url": "https://ca.linkedin.com/company/kdataai",
+    "is_visible": true
+  }, {
+    "date_updated": 1770348146,
+    "url": "https://ca.linkedin.com/jobs/view/data-analytics-intern-at-boston-scientific-4368620799",
+    "locations": [
+      "Ottawa, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Boston Scientific",
+    "title": "Data Analytics Intern",
+    "source": "linkedin_scraper",
+    "id": "c560a3a2-3cb7-4bdb-9e6d-90ec42bdef21",
+    "date_posted": 1770348146,
+    "company_url": "https://www.linkedin.com/company/boston-scientific",
+    "is_visible": true
+  }, {
+    "date_updated": 1770348146,
+    "url": "https://ca.linkedin.com/jobs/view/gold-rush-summer-intern-ai-and-data-science-at-kinross-gold-corporation-4369426851",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Kinross Gold Corporation",
+    "title": "Gold Rush Summer Intern - AI and Data Science",
+    "source": "linkedin_scraper",
+    "id": "d95b9336-6227-4859-a623-45c854811b22",
+    "date_posted": 1770348146,
+    "company_url": "https://ca.linkedin.com/company/kinross-gold-corporation",
+    "is_visible": true
+  }, {
+    "date_updated": 1770348146,
+    "url": "https://ca.linkedin.com/jobs/view/product-engineer-co-op-at-safety-4369722928",
+    "locations": [
+      "Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Safety",
+    "title": "Product Engineer Co-op",
+    "source": "linkedin_scraper",
+    "id": "60d2a91c-fc28-443d-ae1a-15f56312a4ed",
+    "date_posted": 1770348146,
+    "company_url": "https://ca.linkedin.com/company/safetycli",
+    "is_visible": true
+  }, {
+    "date_updated": 1770348187,
+    "url": "https://ca.linkedin.com/jobs/view/data-services-developer-intern-may-2026-4-month-toronto-or-ottawa-at-ibm-4353035476",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "IBM",
+    "title": "Data Services Developer Intern (May 2026 - 4 month - Toronto or Ottawa)",
+    "source": "linkedin_scraper",
+    "id": "e03612e8-015d-41d6-a4b8-f7752c6791d2",
+    "date_posted": 1770348187,
+    "company_url": "https://www.linkedin.com/company/ibm",
+    "is_visible": true
+  }, {
+    "date_updated": 1770348203,
+    "url": "https://ca.linkedin.com/jobs/view/machine-learning-developer-intern-may-2026-4-months-toronto-ottawa-montreal-at-ibm-4353035482",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "IBM",
+    "title": "Machine Learning Developer Intern (May 2026 - 4 months - Toronto - Ottawa - Montreal)",
+    "source": "linkedin_scraper",
+    "id": "fec33b96-d368-4317-9636-71dae60ab5b6",
+    "date_posted": 1770348203,
+    "company_url": "https://www.linkedin.com/company/ibm",
+    "is_visible": true
+  }, {
+    "date_updated": 1770348203,
+    "url": "https://ca.linkedin.com/jobs/view/data-science-phd-intern-at-instacart-4369712874",
+    "locations": [
+      "Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Instacart",
+    "title": "Data Science PhD Intern",
+    "source": "linkedin_scraper",
+    "id": "ad92bf2a-d082-4a9c-bf32-3bf9ce403a9a",
+    "date_posted": 1770348203,
+    "company_url": "https://www.linkedin.com/company/instacart",
+    "is_visible": true
+  }, {
+    "date_updated": 1770348222,
+    "url": "https://ca.linkedin.com/jobs/view/intern-at-cintas-canada-4361657861",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Cintas Canada",
+    "title": "Intern",
+    "source": "linkedin_scraper",
+    "id": "061b47e4-80bb-4733-87ab-dd95cba49704",
+    "date_posted": 1770348222,
+    "company_url": "https://ca.linkedin.com/company/cintas-corporation---canada",
+    "is_visible": true
+  }, {
+    "date_updated": 1770348283,
+    "url": "https://ca.linkedin.com/jobs/view/fixed-income-and-reference-data-analyst-intern-summer-2026-at-tmx-group-4369183804",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "TMX Group",
+    "title": "Fixed Income and Reference Data Analyst Intern (Summer 2026)",
+    "source": "linkedin_scraper",
+    "id": "7a37e0fe-6e44-4513-94c7-b838f9b7660f",
+    "date_posted": 1770348283,
+    "company_url": "https://ca.linkedin.com/company/tmx-group",
+    "is_visible": true
+  },{
+    "date_updated": 1770348330,
+    "url": "https://ca.linkedin.com/jobs/view/waveserver-platform-software-developer-co-op-summer-8-months-at-ciena-4369164956",
+    "locations": [
+      "Ottawa, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Ciena",
+    "title": "Waveserver Platform Software Developer Co-op - Summer (8 months)",
+    "source": "linkedin_scraper",
+    "id": "06301da5-c50c-4fe3-8485-69c7567826c6",
+    "date_posted": 1770348330,
+    "company_url": "https://www.linkedin.com/company/ciena",
+    "is_visible": true
   }
 ]
