@@ -20790,5 +20790,198 @@
     "date_posted": 1770348330,
     "company_url": "https://www.linkedin.com/company/ciena",
     "is_visible": true
+  },
+       {
+    "date_updated": 1770438803,
+    "url": "https://ca.linkedin.com/jobs/view/intern-qa-at-audiokinetic-4369970909",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Audiokinetic",
+    "title": "Intern, QA",
+    "source": "linkedin_scraper",
+    "id": "6956ed52-c44e-49c0-b99c-a6df8325593e",
+    "date_posted": 1770438803,
+    "company_url": "https://ca.linkedin.com/company/audiokinetic",
+    "is_visible": true
+  }, {
+    "date_updated": 1770438821,
+    "url": "https://ca.linkedin.com/jobs/view/bi-developer-co-op-at-iko-north-america-4360006105",
+    "locations": [
+      "Mississauga, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "IKO North America",
+    "title": "BI Developer Co-Op",
+    "source": "linkedin_scraper",
+    "id": "1916d0d6-746e-4d9c-9dff-2d29798a6b16",
+    "date_posted": 1770438821,
+    "company_url": "https://ca.linkedin.com/company/iko-north-america",
+    "is_visible": true
+  }, {
+    "date_updated": 1770438821,
+    "url": "https://ca.linkedin.com/jobs/view/summer-student-product-4-months-%C3%A9tudiant-d-%C3%A9t%C3%A9-produits-4-mois-at-moneris-4369373198",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Moneris",
+    "title": "Summer Student - Product (4 months) / Étudiant d'été - Produits (4 mois)",
+    "source": "linkedin_scraper",
+    "id": "4a081bbc-51d6-4c32-b43e-512ba4610850",
+    "date_posted": 1770438821,
+    "company_url": "https://ca.linkedin.com/company/moneris-solutions",
+    "is_visible": true
+  }, {
+    "date_updated": 1770438846,
+    "url": "https://ca.linkedin.com/jobs/view/summer-2026-software-development-intern-at-synopsys-inc-4369765837",
+    "locations": [
+      "Waterloo, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Synopsys Inc",
+    "title": "Summer 2026 - Software Development Intern",
+    "source": "linkedin_scraper",
+    "id": "5d533f65-40b0-4a17-b12a-bda851a6b8d3",
+    "date_posted": 1770438846,
+    "company_url": "https://www.linkedin.com/company/synopsys",
+    "is_visible": true
+  },  {
+    "date_updated": 1770438907,
+    "url": "https://ca.linkedin.com/jobs/view/ux-intern-6-month-contract-at-rakuten-kobo-inc-4369969526",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Rakuten Kobo Inc.",
+    "title": "UX Intern (6-month contract)",
+    "source": "linkedin_scraper",
+    "id": "f4224140-c9d7-4ae2-a8e4-30d83c315227",
+    "date_posted": 1770438907,
+    "company_url": "https://ca.linkedin.com/company/rakutenkobo",
+    "is_visible": true
+  },  {
+    "date_updated": 1770438907,
+    "url": "https://ca.linkedin.com/jobs/view/data-science-intern-summer-2026-at-guardian-capital-group-4361403886",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Guardian Capital Group",
+    "title": "Data Science Intern (Summer 2026)",
+    "source": "linkedin_scraper",
+    "id": "21588119-7c46-4ecd-9ee9-fe7a7859fc42",
+    "date_posted": 1770438907,
+    "company_url": "https://ca.linkedin.com/company/guardian-capital",
+    "is_visible": true
+  },  {
+    "date_updated": 1770438946,
+    "url": "https://ca.linkedin.com/jobs/view/non-erp-junior-is-analyst-intern-summer-2026-at-abb-4370122163",
+    "locations": [
+      "Milton, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "ABB",
+    "title": "Non-ERP Junior IS Analyst Intern - Summer 2026",
+    "source": "linkedin_scraper",
+    "id": "b70fb57e-a6bd-4c3a-b8e2-0b5134c21d0d",
+    "date_posted": 1770438946,
+    "company_url": "https://ch.linkedin.com/company/abb",
+    "is_visible": true
+  }, {
+    "date_updated": 1770438946,
+    "url": "https://ca.linkedin.com/jobs/view/software-design-intern-may-2026-12-months-at-ciena-4369546579",
+    "locations": [
+      "Ottawa, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Ciena",
+    "title": "Software Design Intern (May 2026 - 12 Months)",
+    "source": "linkedin_scraper",
+    "id": "deae2f4e-d271-4252-b17c-4e6c6ab3aff2",
+    "date_posted": 1770438946,
+    "company_url": "https://www.linkedin.com/company/ciena",
+    "is_visible": true
+  }, {
+    "date_updated": 1770438972,
+    "url": "https://ca.linkedin.com/jobs/view/co-op-intern-cloud-developer-platform-engineering-at-kinaxis-4359898607",
+    "locations": [
+      "Ottawa, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Kinaxis",
+    "title": "Co-op/Intern Cloud Developer, Platform Engineering",
+    "source": "linkedin_scraper",
+    "id": "292ee7c5-25c2-4829-84e2-9feb3069dac6",
+    "date_posted": 1770438972,
+    "company_url": "https://ca.linkedin.com/company/kinaxis",
+    "is_visible": true
+  }, {
+    "date_updated": 1770439010,
+    "url": "https://ca.linkedin.com/jobs/view/data-ai-consultant-i-and-developer-at-insight-public-sector-4369829828",
+    "locations": [
+      "Edmonton, Alberta, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Insight Public Sector",
+    "title": "Data & AI Consultant I and Developer",
+    "source": "linkedin_scraper",
+    "id": "68fb7291-c965-4637-8106-81922c5ba8ad",
+    "date_posted": 1770439010,
+    "company_url": "https://www.linkedin.com/company/insight-public-sector",
+    "is_visible": true
+  }, {
+    "date_updated": 1770439058,
+    "url": "https://ca.linkedin.com/jobs/view/co-op-intern-software-engineer-ai-at-kinaxis-4360538793",
+    "locations": [
+      "Ottawa, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Kinaxis",
+    "title": "Co-Op/Intern Software Engineer, AI",
+    "source": "linkedin_scraper",
+    "id": "65f91b1f-3447-48f2-9a54-671ba3a2916a",
+    "date_posted": 1770439058,
+    "company_url": "https://ca.linkedin.com/company/kinaxis",
+    "is_visible": true
+  }, {
+    "date_updated": 1770439058,
+    "url": "https://ca.linkedin.com/jobs/view/software-development-student-android-at-blackberry-4370106536",
+    "locations": [
+      "Waterloo, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "BlackBerry",
+    "title": "Software Development Student - Android",
+    "source": "linkedin_scraper",
+    "id": "e4602d7b-dd64-4e8b-870b-46b401aa8f27",
+    "date_posted": 1770439058,
+    "company_url": "https://ca.linkedin.com/company/blackberry",
+    "is_visible": true
   }
 ]
