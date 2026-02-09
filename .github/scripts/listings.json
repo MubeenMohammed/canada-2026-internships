@@ -20983,5 +20983,231 @@
     "date_posted": 1770439058,
     "company_url": "https://ca.linkedin.com/company/blackberry",
     "is_visible": true
+  },
+   {
+    "date_updated": 1770679064,
+    "url": "https://ca.linkedin.com/jobs/view/healthcare-data-science-intern-at-mikata-health-4370800814",
+    "locations": [
+      "Calgary, Alberta, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Mikata Health",
+    "title": "Healthcare Data Science Intern",
+    "source": "linkedin_scraper",
+    "id": "036b8b2e-18d3-43a3-96e3-26f8ef6ec7ce",
+    "date_posted": 1770679064,
+    "company_url": "https://ca.linkedin.com/company/mikatahealth",
+    "is_visible": true
+  }, {
+    "date_updated": 1770679076,
+    "url": "https://ca.linkedin.com/jobs/view/internship-software-tester-stage-testeur-logiciel-at-hewlett-packard-enterprise-4370512123",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Hewlett Packard Enterprise",
+    "title": "Internship - Software tester / Stage - Testeur logiciel",
+    "source": "linkedin_scraper",
+    "id": "3e7f9ff9-8757-49f6-8c76-e8e4e9c78066",
+    "date_posted": 1770679076,
+    "company_url": "https://www.linkedin.com/company/hewlett-packard-enterprise",
+    "is_visible": true
+  },  {
+    "date_updated": 1770679076,
+    "url": "https://ca.linkedin.com/jobs/view/intern-business-technology-solutions-erp-implementation-8-months-at-seaspan-ulc-4370844233",
+    "locations": [
+      "North Vancouver, British Columbia, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Seaspan ULC",
+    "title": "Intern, Business Technology Solutions - ERP Implementation (8 Months)",
+    "source": "linkedin_scraper",
+    "id": "431d5557-e829-4f08-a550-2647f99f7b99",
+    "date_posted": 1770679076,
+    "company_url": "https://ca.linkedin.com/company/seaspan-ulc",
+    "is_visible": true
+  }, {
+    "date_updated": 1770679117,
+    "url": "https://ca.linkedin.com/jobs/view/phd-intern-hci-visualization-research-at-autodesk-4318622021",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Autodesk",
+    "title": "PhD Intern, HCI & Visualization Research",
+    "source": "linkedin_scraper",
+    "id": "5cfb1dac-b3b2-4434-9c0b-c238a429778c",
+    "date_posted": 1770679117,
+    "company_url": "https://www.linkedin.com/company/autodesk",
+    "is_visible": true
+  },  {
+    "date_updated": 1770679199,
+    "url": "https://ca.linkedin.com/jobs/view/intern-dto-enterprise-analytics-8-months-at-seaspan-ulc-4370846193",
+    "locations": [
+      "North Vancouver, British Columbia, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Seaspan ULC",
+    "title": "Intern, DTO, Enterprise Analytics (8 Months)",
+    "source": "linkedin_scraper",
+    "id": "c81c3d63-72f0-442a-87a9-efb9d881c6d0",
+    "date_posted": 1770679199,
+    "company_url": "https://ca.linkedin.com/company/seaspan-ulc",
+    "is_visible": true
+  }, {
+    "date_updated": 1770679231,
+    "url": "https://ca.linkedin.com/jobs/view/%C3%A9tudiant-e-d-%C3%A9t%C3%A9-ing%C3%A9nierie-logicielle-d%C3%A9veloppeur-euse-c%23-summer-student-software-engineering-c%23-developer-at-jubilant-pharma-limited-4370886395",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Jubilant Pharma Limited",
+    "title": "Étudiant(e) d'été, ingénierie logicielle, développeur(euse) C# / Summer Student, Software Engineering (C# Developer)",
+    "source": "linkedin_scraper",
+    "id": "9dc90907-d499-40da-b30b-2086c64325ad",
+    "date_posted": 1770679231,
+    "company_url": "https://www.linkedin.com/company/jubilantpharma",
+    "is_visible": true
+  },  {
+    "date_updated": 1770679246,
+    "url": "https://ca.linkedin.com/jobs/view/co-op-intern-ai-software-developer-at-ciena-4370413785",
+    "locations": [
+      "Ottawa, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Ciena",
+    "title": "CO-OP/Intern: AI Software Developer",
+    "source": "linkedin_scraper",
+    "id": "674b2c8d-1f36-454e-8486-a7c72ad66f2f",
+    "date_posted": 1770679246,
+    "company_url": "https://www.linkedin.com/company/ciena",
+    "is_visible": true
+  }, {
+    "date_updated": 1770679246,
+    "url": "https://ca.linkedin.com/jobs/view/ai-software-developer-co-op-summer-2026-8-months-at-ciena-4370419658",
+    "locations": [
+      "Ottawa, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Ciena",
+    "title": "AI Software Developer Co-Op - Summer 2026 (8 Months)",
+    "source": "linkedin_scraper",
+    "id": "1a68d00e-f78a-4fd5-8034-c23e9bdae5fe",
+    "date_posted": 1770679246,
+    "company_url": "https://www.linkedin.com/company/ciena",
+    "is_visible": true
+  },  {
+    "date_updated": 1770679260,
+    "url": "https://ca.linkedin.com/jobs/view/jr-desktop-engineering-specialist-student-position-at-canada-life-4370460142",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Canada Life",
+    "title": "Jr. Desktop Engineering Specialist (Student Position)",
+    "source": "linkedin_scraper",
+    "id": "3e67a76f-2901-49e0-b1c2-9c8acf709d83",
+    "date_posted": 1770679260,
+    "company_url": "https://ca.linkedin.com/company/canada-life",
+    "is_visible": true
+  }, {
+    "date_updated": 1770679076,
+    "url": "https://ca.linkedin.com/jobs/view/intern-power-platform-8-months-at-seaspan-ulc-4370834569",
+    "locations": [
+      "North Vancouver, British Columbia, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Seaspan ULC",
+    "title": "Intern, Power Platform (8 Months)",
+    "source": "linkedin_scraper",
+    "id": "31bb78fc-6ea2-4891-9f0b-81f185442a8a",
+    "date_posted": 1770679076,
+    "company_url": "https://ca.linkedin.com/company/seaspan-ulc",
+    "is_visible": true
+  },  {
+    "date_updated": 1770679076,
+    "url": "https://ca.linkedin.com/jobs/view/experienced-backend-developer-c%23-net-at-riva-international-inc-4370867471",
+    "locations": [
+      "Edmonton, Alberta, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Riva International, Inc.",
+    "title": "Experienced Backend Developer (C#/.NET)",
+    "source": "linkedin_scraper",
+    "id": "ce1a7ec8-fffe-4e5a-90c5-f95cae240be1",
+    "date_posted": 1770679076,
+    "company_url": "https://ca.linkedin.com/company/riva-engine",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1770679076,
+    "url": "https://ca.linkedin.com/jobs/view/intern-developer-summer-2026-at-ia-financial-group-industrial-alliance-4370590885",
+    "locations": [
+      "Québec, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "iA Financial Group (Industrial Alliance)",
+    "title": "Intern - Developer (Summer 2026)",
+    "source": "linkedin_scraper",
+    "id": "01844be4-d069-4580-b9ae-8de9719f0ea1",
+    "date_posted": 1770679076,
+    "company_url": "https://ca.linkedin.com/company/industrielle_alliance",
+    "is_visible": true
+  }, {
+    "date_updated": 1770679153,
+    "url": "https://ca.linkedin.com/jobs/view/intern-c%23-full-stack-developer-at-riva-international-inc-4370867467",
+    "locations": [
+      "Edmonton, Alberta, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Riva International, Inc.",
+    "title": "Intern C# Full Stack Developer",
+    "source": "linkedin_scraper",
+    "id": "2fdd71b8-ddf3-40c2-9d64-081787a7b9cb",
+    "date_posted": 1770679153,
+    "company_url": "https://ca.linkedin.com/company/riva-engine",
+    "is_visible": true
+  },  {
+    "date_updated": 1770679246,
+    "url": "https://ca.linkedin.com/jobs/view/devops-engineer-student-position-at-canada-life-4370451901",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Canada Life",
+    "title": "DevOps Engineer (Student Position)",
+    "source": "linkedin_scraper",
+    "id": "a42701fa-f485-49c2-b0ad-9a40a9b61c65",
+    "date_posted": 1770679246,
+    "company_url": "https://ca.linkedin.com/company/canada-life",
+    "is_visible": true
   }
 ]
