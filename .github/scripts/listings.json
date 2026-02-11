@@ -21209,5 +21209,279 @@
     "date_posted": 1770679246,
     "company_url": "https://ca.linkedin.com/company/canada-life",
     "is_visible": true
+  },
+   {
+    "date_updated": 1770776164,
+    "url": "https://ca.linkedin.com/jobs/view/software-engineer-intern-canada-at-twilio-4371053319",
+    "locations": [
+      "Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Twilio",
+    "title": "Software Engineer Intern - Canada",
+    "source": "linkedin_scraper",
+    "id": "f0119d0a-88b5-4d3f-be54-e1ffdae3df7d",
+    "date_posted": 1770776164,
+    "company_url": "https://www.linkedin.com/company/twilio-inc-",
+    "is_visible": true
+  },{
+    "date_updated": 1770776164,
+    "url": "https://ca.linkedin.com/jobs/view/intern-data-analytics-at-halton-region-4371063049",
+    "locations": [
+      "Oakville, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Halton Region",
+    "title": "Intern - Data Analytics",
+    "source": "linkedin_scraper",
+    "id": "96c08edd-3141-4f8f-8be2-2b1f027d6c6d",
+    "date_posted": 1770776164,
+    "company_url": "https://ca.linkedin.com/company/halton-region",
+    "is_visible": true
+  }, {
+    "date_updated": 1770776182,
+    "url": "https://ca.linkedin.com/jobs/view/software-engineering-intern-at-trc-companies-inc-4363045950",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "TRC Companies, Inc.",
+    "title": "Software Engineering Intern",
+    "source": "linkedin_scraper",
+    "id": "f44d1f97-0c2c-495b-871c-c7c2a0afcf3d",
+    "date_posted": 1770776182,
+    "company_url": "https://www.linkedin.com/company/trc-companies-inc",
+    "is_visible": true
+  }, {
+    "date_updated": 1770776182,
+    "url": "https://ca.linkedin.com/jobs/view/data-scientist-co-op-at-ericsson-4370699209",
+    "locations": [
+      "Ottawa, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Ericsson",
+    "title": "Data Scientist Co-Op",
+    "source": "linkedin_scraper",
+    "id": "b245594e-d87b-4880-9a26-6bda88423cf5",
+    "date_posted": 1770776182,
+    "company_url": "https://se.linkedin.com/company/ericsson",
+    "is_visible": true
+  },  {
+    "date_updated": 1770776182,
+    "url": "https://ca.linkedin.com/jobs/view/data-analyst-intern-hybrid-%E2%80%93-summer-2026-internship-at-motorola-solutions-4371051767",
+    "locations": [
+      "Greater Vancouver Metropolitan Area"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Motorola Solutions",
+    "title": "Data Analyst Intern (Hybrid) – (Summer 2026 Internship)",
+    "source": "linkedin_scraper",
+    "id": "044ac2b9-8501-42ad-a2bc-02032d79d96e",
+    "date_posted": 1770776182,
+    "company_url": "https://www.linkedin.com/company/motorolasolutions",
+    "is_visible": true
+  },  {
+    "date_updated": 1770776205,
+    "url": "https://ca.linkedin.com/jobs/view/ai-engineer-intern-ai-ml-genai-design-development-at-product-manager-accelerator-4370999578",
+    "locations": [
+      "Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Product Manager Accelerator",
+    "title": "AI Engineer Intern - AI/ML/GenAI Design & Development",
+    "source": "linkedin_scraper",
+    "id": "71fe8d4a-5c22-438d-b020-bfe86423aead",
+    "date_posted": 1770776205,
+    "company_url": "https://www.linkedin.com/school/pmaccelerator/",
+    "is_visible": true
+  }, {
+    "date_updated": 1770776222,
+    "url": "https://ca.linkedin.com/jobs/view/technical-support-analyst-intern-hybrid-summer-2026-internship-at-motorola-solutions-4371047810",
+    "locations": [
+      "Greater Vancouver Metropolitan Area"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Motorola Solutions",
+    "title": "Technical Support Analyst Intern (Hybrid) (Summer 2026 Internship)",
+    "source": "linkedin_scraper",
+    "id": "452d492e-53d5-4d07-90eb-73abab85231a",
+    "date_posted": 1770776222,
+    "company_url": "https://www.linkedin.com/company/motorolasolutions",
+    "is_visible": true
+  },  {
+    "date_updated": 1770776222,
+    "url": "https://ca.linkedin.com/jobs/view/software-development-engineer-%E2%80%93-infrastructure-at-amd-4362259949",
+    "locations": [
+      "Markham, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "AMD",
+    "title": "Software Development Engineer – Infrastructure",
+    "source": "linkedin_scraper",
+    "id": "2db3ca86-7e1c-4941-b241-cee642af13e8",
+    "date_posted": 1770776222,
+    "company_url": "https://www.linkedin.com/company/amd",
+    "is_visible": true
+  }, {
+    "date_updated": 1770776240,
+    "url": "https://ca.linkedin.com/jobs/view/engineering-student-systems-software-design-summer-2026-at-mda-space-4364204970",
+    "locations": [
+      "Brampton, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "MDA Space",
+    "title": "Engineering Student, Systems (Software) Design - Summer 2026",
+    "source": "linkedin_scraper",
+    "id": "e4902251-008d-4208-a40e-14064be51390",
+    "date_posted": 1770776240,
+    "company_url": "https://ca.linkedin.com/company/mdaspace",
+    "is_visible": true
+  }, {
+    "date_updated": 1770776300,
+    "url": "https://ca.linkedin.com/jobs/view/software-developer-summer-2026-co-op-intern-at-fullscript-4371239296",
+    "locations": [
+      "Ottawa, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Fullscript",
+    "title": "Software Developer  (Summer 2026 - Co-op/Intern)",
+    "source": "linkedin_scraper",
+    "id": "2dea7661-d012-4d92-a2b3-2e214c4484f5",
+    "date_posted": 1770776300,
+    "company_url": "https://ca.linkedin.com/company/fullscript",
+    "is_visible": true
+  }, {
+    "date_updated": 1770776300,
+    "url": "https://ca.linkedin.com/jobs/view/backend-developer-intern-summer-2026-semester-may-august-remote-canada-at-blaise-transit-4370671414",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Blaise Transit",
+    "title": "Backend Developer Intern - Summer 2026 Semester (May-August, Remote - Canada)",
+    "source": "linkedin_scraper",
+    "id": "c508c2f4-6615-4fb7-a943-469e8801ad58",
+    "date_posted": 1770776300,
+    "company_url": "https://ca.linkedin.com/company/blaisetransit",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1770776319,
+    "url": "https://ca.linkedin.com/jobs/view/data-analyst-summer-2026-co-op-at-cibc-4371039797",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "CIBC",
+    "title": "Data Analyst, Summer 2026 Co-op",
+    "source": "linkedin_scraper",
+    "id": "3b9a9868-858a-402f-b88e-5c6e959ed4c4",
+    "date_posted": 1770776319,
+    "company_url": "https://ca.linkedin.com/company/cibc",
+    "is_visible": true
+  }, {
+    "date_updated": 1770776337,
+    "url": "https://ca.linkedin.com/jobs/view/qa-analyst-intern-summer-2026-semester-april-august-remote-canada-at-blaise-transit-4370670443",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Blaise Transit",
+    "title": "QA Analyst Intern - Summer 2026 Semester (April-August, Remote - Canada)",
+    "source": "linkedin_scraper",
+    "id": "ec909ce1-2ca6-4dc6-8c2f-a2d2444cae46",
+    "date_posted": 1770776337,
+    "company_url": "https://ca.linkedin.com/company/blaisetransit",
+    "is_visible": true
+  }, {
+    "date_updated": 1770776356,
+    "url": "https://ca.linkedin.com/jobs/view/system-simulation-engineering-intern-at-intel-corporation-4370720300",
+    "locations": [
+      "Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Intel Corporation",
+    "title": "System Simulation Engineering Intern",
+    "source": "linkedin_scraper",
+    "id": "0d9592d5-4697-4472-8b1b-c2b54cfbf9f5",
+    "date_posted": 1770776356,
+    "company_url": "https://www.linkedin.com/company/intel-corporation",
+    "is_visible": true
+  }, {
+    "date_updated": 1770776370,
+    "url": "https://ca.linkedin.com/jobs/view/embedded-hardware-designer-intern-at-trojan-technologies-4371095649",
+    "locations": [
+      "London, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Trojan Technologies",
+    "title": "Embedded Hardware Designer (Intern)",
+    "source": "linkedin_scraper",
+    "id": "6add3ae9-0c27-4734-93b3-3987cf4c1159",
+    "date_posted": 1770776370,
+    "company_url": "https://ca.linkedin.com/company/trojan-technologies",
+    "is_visible": true
+  }, {
+    "date_updated": 1770776391,
+    "url": "https://ca.linkedin.com/jobs/view/2026-16-month-internship-can-mv-systems-engineering-at-zebra-technologies-4361876198",
+    "locations": [
+      "Mississauga, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Zebra Technologies",
+    "title": "2026 (16-month) Internship (CAN) - MV Systems Engineering",
+    "source": "linkedin_scraper",
+    "id": "e1fc53a9-2623-44e2-8c77-f0082c6a7b48",
+    "date_posted": 1770776391,
+    "company_url": "https://www.linkedin.com/company/zebra-technologies",
+    "is_visible": true
+  }, {
+    "date_updated": 1770776537,
+    "url": "https://ca.linkedin.com/jobs/view/platform-engineering-student-co-op-summer-2026-at-irving-shipbuilding-4371071863",
+    "locations": [
+      "Dartmouth, Nova Scotia, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Irving Shipbuilding",
+    "title": "Platform Engineering Student/Co-op- Summer 2026",
+    "source": "linkedin_scraper",
+    "id": "c8b3848f-e64d-43c8-8f7f-397a788503b7",
+    "date_posted": 1770776537,
+    "company_url": "https://ca.linkedin.com/company/irvingshipbuilding",
+    "is_visible": true
   }
 ]
