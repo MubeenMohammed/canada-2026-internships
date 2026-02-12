@@ -21483,5 +21483,262 @@
     "date_posted": 1770776537,
     "company_url": "https://ca.linkedin.com/company/irvingshipbuilding",
     "is_visible": true
+  },
+  {
+    "date_updated": 1770864597,
+    "url": "https://ca.linkedin.com/jobs/view/data-science-internship-at-staffline-solutions-4363260208",
+    "locations": [
+      "Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Staffline Solutions",
+    "title": "Data Science Internship",
+    "source": "linkedin_scraper",
+    "id": "2dc3d2c9-0704-4d84-a311-1cef6690cd0c",
+    "date_posted": 1770864597,
+    "company_url": "https://www.linkedin.com/company/staffline-solutions",
+    "is_visible": true
+  }, {
+    "date_updated": 1770864597,
+    "url": "https://ca.linkedin.com/jobs/view/ai-robotics-intern-at-trexo-robotics-4371490725",
+    "locations": [
+      "Mississauga, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Trexo Robotics",
+    "title": "AI Robotics Intern",
+    "source": "linkedin_scraper",
+    "id": "ca8a5fac-adf7-4978-8236-82e8da17bebf",
+    "date_posted": 1770864597,
+    "company_url": "https://ca.linkedin.com/company/trexo-robotics",
+    "is_visible": true
+  }, {
+    "date_updated": 1770864620,
+    "url": "https://ca.linkedin.com/jobs/view/intern-data-management-and-analysis-summer-2026-at-bombardier-4371616976",
+    "locations": [
+      "Dorval, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Bombardier",
+    "title": "Intern, Data Management and Analysis (Summer 2026)",
+    "source": "linkedin_scraper",
+    "id": "e2b84e1d-1046-43b0-a0b5-a22f8cc2dce1",
+    "date_posted": 1770864620,
+    "company_url": "https://www.linkedin.com/company/bombardier",
+    "is_visible": true
+  }, {
+    "date_updated": 1770864699,
+    "url": "https://ca.linkedin.com/jobs/view/stage-de-doctorat-en-sciences-appliqu%C3%A9es-ph-%E2%80%AFd-applied-scientist-phd-internship-at-microsoft-4371296972",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Microsoft",
+    "title": "Stage de doctorat en sciences appliquées (Ph. D.) / Applied Scientist PhD Internship",
+    "source": "linkedin_scraper",
+    "id": "28cd0852-1ff5-416b-b64c-ecd6cf531b2b",
+    "date_posted": 1770864699,
+    "company_url": "https://www.linkedin.com/company/microsoft",
+    "is_visible": true
+  }, {
+    "date_updated": 1770864723,
+    "url": "https://ca.linkedin.com/jobs/view/android-software-development-intern-at-trackunit-4371198027",
+    "locations": [
+      "London, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Trackunit",
+    "title": "Android Software Development Intern",
+    "source": "linkedin_scraper",
+    "id": "8cdcc023-a8b6-4fae-aa9e-910210fe23e3",
+    "date_posted": 1770864723,
+    "company_url": "https://dk.linkedin.com/company/trackunit-a-s",
+    "is_visible": true
+  },  {
+    "date_updated": 1770864744,
+    "url": "https://ca.linkedin.com/jobs/view/radio-software-developer-intern-at-ericsson-4371149884",
+    "locations": [
+      "Ottawa, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Ericsson",
+    "title": "Radio Software Developer Intern",
+    "source": "linkedin_scraper",
+    "id": "e0d8824b-b347-41b5-adb6-dfa8629d0927",
+    "date_posted": 1770864744,
+    "company_url": "https://se.linkedin.com/company/ericsson",
+    "is_visible": true
+  }, {
+    "date_updated": 1770864744,
+    "url": "https://ca.linkedin.com/jobs/view/2026-4-month-summer-internship-canada-%E2%80%93-software-engineer-at-zebra-technologies-4363174139",
+    "locations": [
+      "Mississauga, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Zebra Technologies",
+    "title": "2026 (4-month) Summer Internship (Canada) – Software Engineer",
+    "source": "linkedin_scraper",
+    "id": "fabb3d45-1725-4e15-a1dd-2bcd87cd1a76",
+    "date_posted": 1770864744,
+    "company_url": "https://www.linkedin.com/company/zebra-technologies",
+    "is_visible": true
+  }, {
+    "date_updated": 1770864783,
+    "url": "https://ca.linkedin.com/jobs/view/development-intern-multifamily-at-brookfield-properties-4370756909",
+    "locations": [
+      "Calgary, Alberta, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Brookfield Properties",
+    "title": "Development Intern (MultiFamily)",
+    "source": "linkedin_scraper",
+    "id": "77fd1927-71c6-4461-9c40-f104051fa550",
+    "date_posted": 1770864783,
+    "company_url": "https://www.linkedin.com/company/brookfieldproperties",
+    "is_visible": true
+  }, {
+    "date_updated": 1770864803,
+    "url": "https://ca.linkedin.com/jobs/view/stagiaire-d%C3%A9veloppeur-euse-logiciel-intern-software-developer-at-eaton-4363231446",
+    "locations": [
+      "Brossard, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Eaton",
+    "title": "Stagiaire: Développeur(euse) logiciel / Intern: Software Developer",
+    "source": "linkedin_scraper",
+    "id": "5c1005c1-4bf4-4883-a85c-ed07cac220b5",
+    "date_posted": 1770864803,
+    "company_url": "https://ie.linkedin.com/company/eaton",
+    "is_visible": true
+  }, {
+    "date_updated": 1770864803,
+    "url": "https://ca.linkedin.com/jobs/view/2026-4-month-summer-internship-canada-%E2%80%93-quality-assurance-engineer-at-zebra-technologies-4363154179",
+    "locations": [
+      "Mississauga, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Zebra Technologies",
+    "title": "2026 (4-month) Summer Internship (Canada) – Quality Assurance Engineer",
+    "source": "linkedin_scraper",
+    "id": "079b4c14-2cc1-418e-8547-1460de23c9c1",
+    "date_posted": 1770864803,
+    "company_url": "https://www.linkedin.com/company/zebra-technologies",
+    "is_visible": true
+  }, {
+    "date_updated": 1770864889,
+    "url": "https://ca.linkedin.com/jobs/view/it-operations-co-op-student-at-stackteck-systems-ltd-4371410270",
+    "locations": [
+      "Brampton, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "StackTeck Systems Ltd.",
+    "title": "IT Operations Co-op Student",
+    "source": "linkedin_scraper",
+    "id": "1ca276d0-64c9-4d5f-918b-da38a81369f5",
+    "date_posted": 1770864889,
+    "company_url": "https://ca.linkedin.com/company/stackteck",
+    "is_visible": true
+  },  {
+    "date_updated": 1770864889,
+    "url": "https://ca.linkedin.com/jobs/view/software-developer-co-op-at-motorola-solutions-4371240568",
+    "locations": [
+      "Greater Vancouver Metropolitan Area"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Motorola Solutions",
+    "title": "Software Developer Co-Op",
+    "source": "linkedin_scraper",
+    "id": "7bc1f73d-240a-40cd-a6f1-ed5f84fd1678",
+    "date_posted": 1770864889,
+    "company_url": "https://www.linkedin.com/company/motorolasolutions",
+    "is_visible": true
+  },  {
+    "date_updated": 1770864889,
+    "url": "https://ca.linkedin.com/jobs/view/data-modelling-co-op-student-toronto-summer-2026-at-irving-consumer-products-4371606375",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Irving Consumer Products",
+    "title": "Data Modelling Co-op Student - Toronto - Summer 2026",
+    "source": "linkedin_scraper",
+    "id": "8b05ee27-2eb2-4fb2-aabe-76ff100af5e7",
+    "date_posted": 1770864889,
+    "company_url": "https://ca.linkedin.com/company/irving-consumer-products",
+    "is_visible": true
+  },  {
+    "date_updated": 1770864903,
+    "url": "https://ca.linkedin.com/jobs/view/test-qa-analyst-co-op-enterprise-technology-business-management-at-cibc-4371496156",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "CIBC",
+    "title": "Test/QA Analyst Co-op - Enterprise Technology & Business Management",
+    "source": "linkedin_scraper",
+    "id": "14d85976-2f91-4ada-bb96-17f9c68042a2",
+    "date_posted": 1770864903,
+    "company_url": "https://ca.linkedin.com/company/cibc",
+    "is_visible": true
+  }, {
+    "date_updated": 1770864903,
+    "url": "https://ca.linkedin.com/jobs/view/ai-solutions-engineer-co-op-internship-at-sopra-steria-4371457549",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Sopra Steria",
+    "title": "AI Solutions Engineer - Co-op/Internship",
+    "source": "linkedin_scraper",
+    "id": "948fd586-0ce8-477b-a917-6ec045676937",
+    "date_posted": 1770864903,
+    "company_url": "https://fr.linkedin.com/company/soprasteria",
+    "is_visible": true
+  },  {
+    "date_updated": 1770864903,
+    "url": "https://ca.linkedin.com/jobs/view/automation-test-developer-co-op-at-carfax-canada-4371194795",
+    "locations": [
+      "London, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "CARFAX Canada",
+    "title": "Automation Test Developer, Co-op",
+    "source": "linkedin_scraper",
+    "id": "881ac206-b029-426e-a07e-20ff36d246a2",
+    "date_posted": 1770864903,
+    "company_url": "https://ca.linkedin.com/company/carfax-canada",
+    "is_visible": true
   }
 ]
