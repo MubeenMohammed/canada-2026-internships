@@ -21740,5 +21740,245 @@
     "date_posted": 1770864903,
     "company_url": "https://ca.linkedin.com/company/carfax-canada",
     "is_visible": true
+  },
+    {
+    "date_updated": 1770950413,
+    "url": "https://ca.linkedin.com/jobs/view/intern-software-developer-at-autodesk-4371563486",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Autodesk",
+    "title": "Intern, Software Developer",
+    "source": "linkedin_scraper",
+    "id": "00f13a5c-102e-40d4-a87d-f427e2209f34",
+    "date_posted": 1770950413,
+    "company_url": "https://www.linkedin.com/company/autodesk",
+    "is_visible": true
+  }, {
+    "date_updated": 1770950413,
+    "url": "https://ca.linkedin.com/jobs/view/intern-design-summer-2026-at-wealthsimple-4371530988",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Wealthsimple",
+    "title": "Intern, Design (Summer 2026)",
+    "source": "linkedin_scraper",
+    "id": "dba700bf-a724-4244-8dce-1dac1b49d12d",
+    "date_posted": 1770950413,
+    "company_url": "https://ca.linkedin.com/company/wealthsimple",
+    "is_visible": true
+  },{
+    "date_updated": 1770950413,
+    "url": "https://ca.linkedin.com/jobs/view/product-management-intern-at-workablehire-inc-4371562334",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "WorkableHire Inc.",
+    "title": "Product Management Intern",
+    "source": "linkedin_scraper",
+    "id": "5d50655d-3e45-4da7-9ac9-d62b8a37a94c",
+    "date_posted": 1770950413,
+    "company_url": "https://ca.linkedin.com/company/workablehire",
+    "is_visible": true
+  },  {
+    "date_updated": 1770950413,
+    "url": "https://ca.linkedin.com/jobs/view/data-science-internship-at-staffline-solutions-4363284242",
+    "locations": [
+      "Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Staffline Solutions",
+    "title": "Data Science Internship",
+    "source": "linkedin_scraper",
+    "id": "12ade5fa-dfc2-41b7-a5a5-05ddcea40806",
+    "date_posted": 1770950413,
+    "company_url": "https://www.linkedin.com/company/staffline-solutions",
+    "is_visible": true
+  },  "date_updated": 1770950431,
+    "url": "https://ca.linkedin.com/jobs/view/intern-research-and-technology-program-office-summer-2026-at-bombardier-4372184117",
+    "locations": [
+      "Mississauga, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Bombardier",
+    "title": "Intern, Research and Technology - Program Office (Summer 2026)",
+    "source": "linkedin_scraper",
+    "id": "300382b3-ab20-4fa6-9b1d-74cad532a18c",
+    "date_posted": 1770950431,
+    "company_url": "https://www.linkedin.com/company/bombardier",
+    "is_visible": true
+  }, {
+    "date_updated": 1770950455,
+    "url": "https://ca.linkedin.com/jobs/view/ai-mobile-application-developer-intern-ios-android-may-2026-4-to-8-months-%E2%80%93-toronto-at-ibm-4354162744",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "IBM",
+    "title": "AI & Mobile Application Developer Intern iOS/Android (May 2026 - 4 to 8 Months – Toronto)",
+    "source": "linkedin_scraper",
+    "id": "10ab721a-40b5-4f88-90b8-ba52497148b8",
+    "date_posted": 1770950455,
+    "company_url": "https://www.linkedin.com/company/ibm",
+    "is_visible": true
+  }, {
+    "date_updated": 1770950492,
+    "url": "https://ca.linkedin.com/jobs/view/c-ds-112-financial-pricing-automation-intern-en-at-cae-4364190691",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "CAE",
+    "title": "C-DS-112 Financial & Pricing Automation Intern-EN",
+    "source": "linkedin_scraper",
+    "id": "b64ada13-e78b-4b42-8b2a-e910c622f7fe",
+    "date_posted": 1770950492,
+    "company_url": "https://ca.linkedin.com/school/cae/",
+    "is_visible": true
+  }, {
+    "date_updated": 1770950508,
+    "url": "https://ca.linkedin.com/jobs/view/sap-ixp-intern-bdc-gtm-commercial-office-vancouver-at-sap-4371387117",
+    "locations": [
+      "Vancouver, British Columbia, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "SAP",
+    "title": "SAP iXp Intern - BDC GTM Commercial Office [Vancouver]",
+    "source": "linkedin_scraper",
+    "id": "0924fb12-c8ba-466c-af93-e20b5a899251",
+    "date_posted": 1770950508,
+    "company_url": "https://de.linkedin.com/company/sap",
+    "is_visible": true
+  }, {
+    "date_updated": 1770950567,
+    "url": "https://ca.linkedin.com/jobs/view/american-express-canada-campus-undergraduate-technology-software-engineer-internship-hiring-for-future-opportunities-at-american-express-4365273389",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "American Express",
+    "title": "American Express Canada - Campus Undergraduate Technology Software Engineer Internship - HIRING FOR FUTURE OPPORTUNITIES",
+    "source": "linkedin_scraper",
+    "id": "2f9e7d56-a475-419f-a50d-61f9b325f51c",
+    "date_posted": 1770950567,
+    "company_url": "https://www.linkedin.com/company/american-express",
+    "is_visible": true
+  }, {
+    "date_updated": 1770950567,
+    "url": "https://ca.linkedin.com/jobs/view/software-developer-intern-at-perseus-group-constellation-software-4371704036",
+    "locations": [
+      "Markham, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Perseus Group, Constellation Software",
+    "title": "Software Developer Intern",
+    "source": "linkedin_scraper",
+    "id": "5f25c0fa-c039-4210-b401-05693419c0d8",
+    "date_posted": 1770950567,
+    "company_url": "https://ca.linkedin.com/company/perseus-group-constellation-software-inc",
+    "is_visible": true
+  },  {
+    "date_updated": 1770950616,
+    "url": "https://ca.linkedin.com/jobs/view/ai-software-engineering-intern-%E2%80%93-industrial-ai-copilot-summer-co-op-at-siemens-4371391303",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Siemens",
+    "title": "AI Software Engineering Intern – Industrial AI Copilot (Summer Co-op)",
+    "source": "linkedin_scraper",
+    "id": "f6a90205-6375-4905-b198-e71b693276e1",
+    "date_posted": 1770950616,
+    "company_url": "https://de.linkedin.com/company/siemens",
+    "is_visible": true
+  }, {
+    "date_updated": 1770950729,
+    "url": "https://ca.linkedin.com/jobs/view/cybersecurity-co-op-student-at-calgary-airports-4372176085",
+    "locations": [
+      "Calgary, Alberta, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Calgary Airports",
+    "title": "Cybersecurity Co-op Student",
+    "source": "linkedin_scraper",
+    "id": "c9088b63-139b-4e7f-a071-910fb28a3639",
+    "date_posted": 1770950729,
+    "company_url": "https://ca.linkedin.com/company/calgary-airports",
+    "is_visible": true
+  }, {
+    "date_updated": 1770950729,
+    "url": "https://ca.linkedin.com/jobs/view/data-analyst-summer-2026-co-op-at-cibc-4372133356",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "CIBC",
+    "title": "Data Analyst, Summer 2026 Co-op",
+    "source": "linkedin_scraper",
+    "id": "38550dfc-7f71-4cc0-b2e9-1f3ba23edfa6",
+    "date_posted": 1770950729,
+    "company_url": "https://ca.linkedin.com/company/cibc",
+    "is_visible": true
+  },  {
+    "date_updated": 1770950754,
+    "url": "https://ca.linkedin.com/jobs/view/automation-and-ai-co-op-at-ericsson-4371524842",
+    "locations": [
+      "Ottawa, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Ericsson",
+    "title": "Automation and AI Co_Op",
+    "source": "linkedin_scraper",
+    "id": "ca212ff7-f2fa-4838-8a3b-2cbb12d1d52e",
+    "date_posted": 1770950754,
+    "company_url": "https://se.linkedin.com/company/ericsson",
+    "is_visible": true
+  }, {
+    "date_updated": 1770950754,
+    "url": "https://ca.linkedin.com/jobs/view/it-purchasing-analyst-at-ellisdon-4371377220",
+    "locations": [
+      "Mississauga, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "EllisDon",
+    "title": "IT Purchasing Analyst",
+    "source": "linkedin_scraper",
+    "id": "c82e654e-a7dd-482d-8818-542035b175b0",
+    "date_posted": 1770872400,
+    "company_url": "https://ca.linkedin.com/company/ellisdon",
+    "is_visible": true
   }
 ]
