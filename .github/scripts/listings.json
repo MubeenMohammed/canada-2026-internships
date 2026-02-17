@@ -21981,5 +21981,102 @@
     "date_posted": 1770872400,
     "company_url": "https://ca.linkedin.com/company/ellisdon",
     "is_visible": true
+  },
+     {
+    "date_updated": 1771287686,
+    "url": "https://ca.linkedin.com/jobs/view/c-ds-900-junior-software-developer-intern-en-at-cae-4371926558",
+    "locations": [
+      "Halifax, Nova Scotia, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "CAE",
+    "title": "C-DS-900 Junior Software Developer Intern-EN",
+    "source": "linkedin_scraper",
+    "id": "6852f5d3-6799-4801-93c5-c3fc908a2a7b",
+    "date_posted": 1771287686,
+    "company_url": "https://ca.linkedin.com/school/cae/",
+    "is_visible": true
+  },  {
+    "date_updated": 1771287686,
+    "url": "https://ca.linkedin.com/jobs/view/backend-developer-intern-stage-d%C3%A9veloppement-back-end-at-workjam-4372579331",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "WorkJam",
+    "title": "Backend Developer Intern | Stage Développement Back-End",
+    "source": "linkedin_scraper",
+    "id": "9cb9b714-e0a3-402a-a111-97d27fc62295",
+    "date_posted": 1771287686,
+    "company_url": "https://ca.linkedin.com/company/workjam",
+    "is_visible": true
+  }, {
+    "date_updated": 1771287721,
+    "url": "https://ca.linkedin.com/jobs/view/it-bi-intern-at-ardene-4372594091",
+    "locations": [
+      "Laval, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Ardene",
+    "title": "IT BI Intern",
+    "source": "linkedin_scraper",
+    "id": "b26bc502-645a-4870-84e4-0e29cceb8162",
+    "date_posted": 1771287721,
+    "company_url": "https://ca.linkedin.com/company/ardene",
+    "is_visible": true
+  }, {
+    "date_updated": 1771287721,
+    "url": "https://ca.linkedin.com/jobs/view/network-security-intern-at-alstom-4363122228",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Alstom",
+    "title": "Network Security Intern",
+    "source": "linkedin_scraper",
+    "id": "6238f38f-f914-4572-aab8-605c8e3bf233",
+    "date_posted": 1771287721,
+    "company_url": "https://fr.linkedin.com/company/alstom",
+    "is_visible": true
+  }, {
+    "date_updated": 1771287744,
+    "url": "https://ca.linkedin.com/jobs/view/intern-business-and-technology-governance-may-%E2%80%93-august-2026-at-psp-investments-investissements-psp-4373859229",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "PSP Investments | Investissements PSP",
+    "title": "Intern, Business and Technology Governance (May – August 2026)",
+    "source": "linkedin_scraper",
+    "id": "d48142a2-32e1-49a3-ad67-7a79707b8fb2",
+    "date_posted": 1771287744,
+    "company_url": "https://ca.linkedin.com/company/psp-investments",
+    "is_visible": true
+  },  {
+    "date_updated": 1771287744,
+    "url": "https://ca.linkedin.com/jobs/view/analog-engineer-intern-phd-at-marvell-technology-4310759149",
+    "locations": [
+      "Ottawa, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Marvell Technology",
+    "title": "Analog Engineer Intern - PhD",
+    "source": "linkedin_scraper",
+    "id": "4d4c1ab8-c227-41ae-948e-221a1f8b1e31",
+    "date_posted": 1771287744,
+    "company_url": "https://www.linkedin.com/company/marvell",
+    "is_visible": true
   }
 ]
