@@ -22078,5 +22078,343 @@
     "date_posted": 1771287744,
     "company_url": "https://www.linkedin.com/company/marvell",
     "is_visible": true
+  },
+       {
+    "date_updated": 1771391373,
+    "url": "https://ca.linkedin.com/jobs/view/it-operations-intern-at-nicola-wealth-4374460325",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Nicola Wealth",
+    "title": "IT Operations Intern",
+    "source": "linkedin_scraper",
+    "id": "0a7f4501-4ac1-4df0-9f56-de799a9eee18",
+    "date_posted": 1771391373,
+    "company_url": "https://ca.linkedin.com/company/nicolawealthmanagement",
+    "is_visible": true
+  }, {
+    "date_updated": 1771391373,
+    "url": "https://ca.linkedin.com/jobs/view/appops-intern-at-interac-corp-4373001874",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Interac Corp.",
+    "title": "AppOps Intern",
+    "source": "linkedin_scraper",
+    "id": "a98b6e91-a4e0-4e88-997c-aee46dc993fd",
+    "date_posted": 1771391373,
+    "company_url": "https://ca.linkedin.com/company/interac-corp",
+    "is_visible": true
+  }, {
+    "date_updated": 1771391392,
+    "url": "https://ca.linkedin.com/jobs/view/product-research-intern-at-multiplayer-studio-4372899188",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Multiplayer Studio",
+    "title": "Product Research Intern",
+    "source": "linkedin_scraper",
+    "id": "86e2dcc8-b90e-408f-9b21-ba2255c3dfad",
+    "date_posted": 1771391392,
+    "company_url": "https://www.linkedin.com/company/multiplayer-studio",
+    "is_visible": true
+  },  {
+    "date_updated": 1771391392,
+    "url": "https://ca.linkedin.com/jobs/view/manufacturing-data-process-intern-at-balanced-body-4374131440",
+    "locations": [
+      "Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Balanced Body",
+    "title": "Manufacturing Data & Process Intern",
+    "source": "linkedin_scraper",
+    "id": "2f9d14ad-7671-445e-8ce1-90b19a1e3d91",
+    "date_posted": 1771391392,
+    "company_url": "https://www.linkedin.com/company/balanced-body",
+    "is_visible": true
+  }, {
+    "date_updated": 1771391392,
+    "url": "https://ca.linkedin.com/jobs/view/intern-workflow-optimization-summer-2026-at-wealthsimple-4373039910",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Wealthsimple",
+    "title": "Intern, Workflow Optimization (Summer 2026)",
+    "source": "linkedin_scraper",
+    "id": "73138288-4d7d-4cc4-b030-19c5e368e5cb",
+    "date_posted": 1771391392,
+    "company_url": "https://ca.linkedin.com/company/wealthsimple",
+    "is_visible": true
+  },  {
+    "date_updated": 1771391416,
+    "url": "https://ca.linkedin.com/jobs/view/data-center-development-program-intern-at-equinix-4371992568",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Equinix",
+    "title": "Data Center Development Program Intern",
+    "source": "linkedin_scraper",
+    "id": "d31dde19-527d-4216-8bd2-bc1f4d20b67d",
+    "date_posted": 1771391416,
+    "company_url": "https://www.linkedin.com/company/equinix",
+    "is_visible": true
+  }, {
+    "date_updated": 1771391416,
+    "url": "https://ca.linkedin.com/jobs/view/compliance-ai-intern-at-bnp-paribas-4371993478",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "BNP Paribas",
+    "title": "Compliance AI Intern",
+    "source": "linkedin_scraper",
+    "id": "d998b7dd-f7f0-42c0-8475-9ec444e5d44b",
+    "date_posted": 1771391416,
+    "company_url": "https://fr.linkedin.com/company/bnp-paribas",
+    "is_visible": true
+  }, {
+    "date_updated": 1771391430,
+    "url": "https://ca.linkedin.com/jobs/view/clinical-ai-innovation-intern-master%E2%80%99s-internship-at-se-health-4373919609",
+    "locations": [
+      "Markham, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "SE Health",
+    "title": "Clinical AI & Innovation Intern - Master’s Internship",
+    "source": "linkedin_scraper",
+    "id": "1d100446-70f1-43c1-a488-d1267fbe26de",
+    "date_posted": 1771391430,
+    "company_url": "https://ca.linkedin.com/company/se-health",
+    "is_visible": true
+  },  {
+    "date_updated": 1771391452,
+    "url": "https://ca.linkedin.com/jobs/view/internship-16-month-pey-tech-support-atts-at-pratt-whitney-4373909979",
+    "locations": [
+      "Mississauga, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Pratt & Whitney",
+    "title": "Internship - 16 month  PEY - Tech. Support (ATTS)",
+    "source": "linkedin_scraper",
+    "id": "88d93fd8-7122-4d2f-9587-bcab43da9aff",
+    "date_posted": 1771391452,
+    "company_url": "https://www.linkedin.com/company/pratt-&-whitney",
+    "is_visible": true
+  },{
+    "date_updated": 1771391511,
+    "url": "https://ca.linkedin.com/jobs/view/software-developer-intern-i-canada-at-cisco-4374445317",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Cisco",
+    "title": "Software Developer (Intern) I - Canada",
+    "source": "linkedin_scraper",
+    "id": "28362258-a125-41b0-89a3-af014c75cfbc",
+    "date_posted": 1771391511,
+    "company_url": "https://www.linkedin.com/company/cisco",
+    "is_visible": true
+  }, {
+    "date_updated": 1771391511,
+    "url": "https://ca.linkedin.com/jobs/view/software-engineering-intern-co-op-2026-spring-at-clearline-4373080139",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Clearline",
+    "title": "Software Engineering Intern/Co-op - 2026 Spring",
+    "source": "linkedin_scraper",
+    "id": "1b03fb1e-40d1-4652-8e0d-29c7c9cad6c1",
+    "date_posted": 1771391511,
+    "company_url": "https://ca.linkedin.com/company/teamclearline",
+    "is_visible": true
+  }, {
+    "date_updated": 1771391534,
+    "url": "https://ca.linkedin.com/jobs/view/research-engineer-research-scientist-intern-at-ideogram-4333468367",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Ideogram",
+    "title": "Research Engineer / Research Scientist Intern",
+    "source": "linkedin_scraper",
+    "id": "b4bc697b-ba7f-4e4b-83df-e62da860d4ca",
+    "date_posted": 1771391534,
+    "company_url": "https://ca.linkedin.com/company/ideogram-ai",
+    "is_visible": true
+  }, {
+    "date_updated": 1771391534,
+    "url": "https://ca.linkedin.com/jobs/view/corporate-applications-intern-at-interac-corp-4373008515",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Interac Corp.",
+    "title": "Corporate Applications Intern",
+    "source": "linkedin_scraper",
+    "id": "749798ac-1423-41a2-96af-7800efd68d02",
+    "date_posted": 1771391534,
+    "company_url": "https://ca.linkedin.com/company/interac-corp",
+    "is_visible": true
+  }, {
+    "date_updated": 1771391595,
+    "url": "https://ca.linkedin.com/jobs/view/application-engineer-test-intern-at-trimble-inc-4373983487",
+    "locations": [
+      "Alberta, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Trimble Inc.",
+    "title": "Application Engineer Test Intern",
+    "source": "linkedin_scraper",
+    "id": "9970a73e-155a-4d87-b4be-4c71a506a965",
+    "date_posted": 1771391595,
+    "company_url": "https://www.linkedin.com/company/trimble",
+    "is_visible": true
+  }, {
+    "date_updated": 1771391625,
+    "url": "https://ca.linkedin.com/jobs/view/sap-ixp-intern-cloud-infrastructure-devops-at-sap-4365919448",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "SAP",
+    "title": "SAP iXp Intern - Cloud Infrastructure DevOps",
+    "source": "linkedin_scraper",
+    "id": "a7ccdc55-6ace-4e5a-be0e-5b7e73243706",
+    "date_posted": 1771391625,
+    "company_url": "https://de.linkedin.com/company/sap",
+    "is_visible": true
+  }, {
+    "date_updated": 1771391664,
+    "url": "https://ca.linkedin.com/jobs/view/system-engineering-co-op-at-comtech-telecommunications-corp-4374152684",
+    "locations": [
+      "Gatineau, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Comtech Telecommunications Corp.",
+    "title": "System Engineering CO-OP",
+    "source": "linkedin_scraper",
+    "id": "4c65996e-7616-495e-a030-1281f1d52207",
+    "date_posted": 1771391664,
+    "company_url": "https://www.linkedin.com/company/comtech-telecommunications-corp",
+    "is_visible": true
+  }, {
+    "date_updated": 1771391687,
+    "url": "https://ca.linkedin.com/jobs/view/data-engineer-student-position-at-canada-life-4373022546",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Canada Life",
+    "title": "Data Engineer (Student Position)",
+    "source": "linkedin_scraper",
+    "id": "534aab49-2888-438e-888c-203df79f1c76",
+    "date_posted": 1771391687,
+    "company_url": "https://ca.linkedin.com/company/canada-life",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1771391687,
+    "url": "https://ca.linkedin.com/jobs/view/software-engineer-backend-co-op-at-bree-4373035056",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Bree",
+    "title": "Software Engineer, Backend Co-op",
+    "source": "linkedin_scraper",
+    "id": "d8e6b0b4-60fb-49e0-996b-ecea5b420d9b",
+    "date_posted": 1771391687,
+    "company_url": "https://ca.linkedin.com/company/breetechnologies",
+    "is_visible": true
+  }, {
+    "date_updated": 1771391699,
+    "url": "https://ca.linkedin.com/jobs/view/it-application-support-co-op-1-year-contract-at-siemens-4373088079",
+    "locations": [
+      "Vaughan, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Siemens",
+    "title": "IT application support - Co-op - 1 year contract",
+    "source": "linkedin_scraper",
+    "id": "5f1d4120-a521-4895-b872-88d5a75de82e",
+    "date_posted": 1771391699,
+    "company_url": "https://de.linkedin.com/company/siemens",
+    "is_visible": true
+  },  {
+    "date_updated": 1771391699,
+    "url": "https://ca.linkedin.com/jobs/view/co-op-digital-transformation-at-nova-scotia-power-4373985928",
+    "locations": [
+      "Halifax, Nova Scotia, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Nova Scotia Power",
+    "title": "Co-op, Digital Transformation",
+    "source": "linkedin_scraper",
+    "id": "6794fe52-7577-4e29-9307-7f61f3c241b0",
+    "date_posted": 1771391699,
+    "company_url": "https://ca.linkedin.com/company/nova-scotia-power",
+    "is_visible": true
+  }, {
+    "date_updated": 1771391699,
+    "url": "https://ca.linkedin.com/jobs/view/software-engineer-product-mobile-full-stack-co-op-at-bree-4373017756",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Bree",
+    "title": "Software Engineer, Product / Mobile / Full-Stack Co-op",
+    "source": "linkedin_scraper",
+    "id": "456961f0-838e-482d-bf63-203d72e2e5a5",
+    "date_posted": 1771391699,
+    "company_url": "https://ca.linkedin.com/company/breetechnologies",
+    "is_visible": true
   }
 ]
