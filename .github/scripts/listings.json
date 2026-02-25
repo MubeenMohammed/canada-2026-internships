@@ -22705,5 +22705,232 @@
     "date_posted": 1771642386,
     "company_url": "https://ca.linkedin.com/company/survalent-technology",
     "is_visible": true
+  },
+   {
+    "date_updated": 1772054005,
+    "url": "https://ca.linkedin.com/jobs/view/cognizant-consultant-intern-canada-at-cognizant-4368281816",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Cognizant",
+    "title": "Cognizant Consultant Intern (Canada)",
+    "source": "linkedin_scraper",
+    "id": "e2baaf9e-4da4-4148-aed3-8bba1e7ccdcf",
+    "date_posted": 1772054005,
+    "company_url": "https://www.linkedin.com/company/cognizant",
+    "is_visible": true
+  }, {
+    "date_updated": 1772054043,
+    "url": "https://ca.linkedin.com/jobs/view/software-development-intern-recording-and-qm-12-16mos-at-genesys-4376720094",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Genesys",
+    "title": "Software Development Intern, Recording and QM (12-16mos)",
+    "source": "linkedin_scraper",
+    "id": "8047f5d0-3d8c-4cd7-9c5e-a6e7154c6d1a",
+    "date_posted": 1772054043,
+    "company_url": "https://www.linkedin.com/company/genesys",
+    "is_visible": true
+  },  {
+    "date_updated": 1772054119,
+    "url": "https://ca.linkedin.com/jobs/view/applications-web-developer-intern-at-nestl%C3%A9-4376803709",
+    "locations": [
+      "North York, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Nestlé",
+    "title": "Applications Web Developer Intern",
+    "source": "linkedin_scraper",
+    "id": "48f9ba4b-e9c8-49c8-8e2c-83595b904575",
+    "date_posted": 1772054119,
+    "company_url": "https://ch.linkedin.com/company/nestle-s-a-",
+    "is_visible": true
+  }, {
+    "date_updated": 1772054119,
+    "url": "https://ca.linkedin.com/jobs/view/data-analyst-intern-summer-2026-windsor-on-at-rocket-innovation-studio-4368257306",
+    "locations": [
+      "Windsor, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Rocket Innovation Studio",
+    "title": "Data Analyst Intern - Summer 2026 (Windsor, ON)",
+    "source": "linkedin_scraper",
+    "id": "a4354635-74bf-45d5-a589-8116f337abf1",
+    "date_posted": 1772054119,
+    "company_url": "https://ca.linkedin.com/company/rocket-innovation-studio",
+    "is_visible": true
+  }, 
+  {
+    "date_updated": 1772054119,
+    "url": "https://ca.linkedin.com/jobs/view/intern-front-end-software-engineering-at-forescout-technologies-inc-4377543084",
+    "locations": [
+      "Ottawa, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Forescout Technologies Inc.",
+    "title": "Intern - Front-End Software Engineering",
+    "source": "linkedin_scraper",
+    "id": "fd3a6c5f-6a3c-45f8-853c-16f200a5df09",
+    "date_posted": 1772054119,
+    "company_url": "https://www.linkedin.com/company/forescout-technologies",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1772054119,
+    "url": "https://ca.linkedin.com/jobs/view/software-engineering-intern-kernels-at-d-matrix-4377543632",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "d-Matrix",
+    "title": "Software Engineering Intern - Kernels",
+    "source": "linkedin_scraper",
+    "id": "6b1cbb78-535d-4a9f-91b9-d431d7e2be50",
+    "date_posted": 1772054119,
+    "company_url": "https://www.linkedin.com/company/d-matrix",
+    "is_visible": true
+  },{
+    "date_updated": 1772054119,
+    "url": "https://ca.linkedin.com/jobs/view/data-ai-intern-at-insight-public-sector-4376455184",
+    "locations": [
+      "Calgary, Alberta, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Insight Public Sector",
+    "title": "Data & AI Intern",
+    "source": "linkedin_scraper",
+    "id": "49f589a6-eb92-4ad4-994f-212da7e5c3a9",
+    "date_posted": 1772054119,
+    "company_url": "https://www.linkedin.com/company/insight-public-sector",
+    "is_visible": true
+  },  {
+    "date_updated": 1772054144,
+    "url": "https://ca.linkedin.com/jobs/view/deep-learning-researcher-intern-model-quantization-at-stmicroelectronics-4361394915",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "STMicroelectronics",
+    "title": "Deep Learning Researcher Intern - Model Quantization",
+    "source": "linkedin_scraper",
+    "id": "35f3212a-07a0-4167-81a3-ecfc75523b34",
+    "date_posted": 1772054144,
+    "company_url": "https://ch.linkedin.com/company/stmicroelectronics",
+    "is_visible": true
+  }, {
+    "date_updated": 1772054144,
+    "url": "https://ca.linkedin.com/jobs/view/intern-cloud-engineering-at-forescout-technologies-inc-4377534199",
+    "locations": [
+      "Ottawa, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Forescout Technologies Inc.",
+    "title": "Intern - Cloud Engineering",
+    "source": "linkedin_scraper",
+    "id": "819b9b5a-5a7e-426f-b102-31ec3efed8eb",
+    "date_posted": 1772054144,
+    "company_url": "https://www.linkedin.com/company/forescout-technologies",
+    "is_visible": true
+  }, {
+    "date_updated": 1772054144,
+    "url": "https://ca.linkedin.com/jobs/view/data-analyst-business-banking-summer-2025-co-op-internship-4-months-at-bmo-4377539911",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "BMO",
+    "title": "Data Analyst, Business Banking, Summer 2025 (Co-op/Internship) - 4 Months",
+    "source": "linkedin_scraper",
+    "id": "bc10f68a-574c-4526-9f1c-f973c32188d8",
+    "date_posted": 1772054144,
+    "company_url": "https://ca.linkedin.com/company/bank-of-montreal",
+    "is_visible": true
+  }, {
+    "date_updated": 1772054184,
+    "url": "https://ca.linkedin.com/jobs/view/research-intern-msr-montreal-ml-team-at-microsoft-4341035753",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Microsoft",
+    "title": "Research Intern - MSR Montreal / ML Team",
+    "source": "linkedin_scraper",
+    "id": "78f8c3ab-fa86-4ac7-a9db-bfb588740632",
+    "date_posted": 1772054184,
+    "company_url": "https://www.linkedin.com/company/microsoft",
+    "is_visible": true
+  }, {
+    "date_updated": 1772054184,
+    "url": "https://ca.linkedin.com/jobs/view/intern-sox-compliance-at-gildan-4368656484",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Gildan",
+    "title": "Intern, SOX Compliance",
+    "source": "linkedin_scraper",
+    "id": "9fdc3750-cdeb-4240-b6e2-e483c86c878a",
+    "date_posted": 1772054184,
+    "company_url": "https://ca.linkedin.com/company/gildan",
+    "is_visible": true
+  }, {
+    "date_updated": 1772054253,
+    "url": "https://ca.linkedin.com/jobs/view/spatial-data-gis-co-op-student-at-calgary-airports-4377830431",
+    "locations": [
+      "Calgary, Alberta, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Calgary Airports",
+    "title": "Spatial Data (GIS) Co-op Student",
+    "source": "linkedin_scraper",
+    "id": "3522e27d-3ac4-49b1-94e3-850c00d05265",
+    "date_posted": 1772054253,
+    "company_url": "https://ca.linkedin.com/company/calgary-airports",
+    "is_visible": true
+  }, {
+    "date_updated": 1772054288,
+    "url": "https://ca.linkedin.com/jobs/view/electrical-or-telecom-engineer-technologist-co-op-at-bba-consultants-4357725746",
+    "locations": [
+      "Fort St John, British Columbia, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "BBA Consultants",
+    "title": "Electrical or Telecom Engineer/Technologist Co-op",
+    "source": "linkedin_scraper",
+    "id": "4b6162db-4b10-4246-b27b-77f3b8eacfbe",
+    "date_posted": 1772054288,
+    "company_url": "https://ca.linkedin.com/company/bba_2",
+    "is_visible": true
   }
 ]
