@@ -22932,5 +22932,166 @@
     "date_posted": 1772054288,
     "company_url": "https://ca.linkedin.com/company/bba_2",
     "is_visible": true
+  },
+    {
+    "date_updated": 1772506194,
+    "url": "https://ca.linkedin.com/jobs/view/student-information-technology-calgary-september-2026-at-cenovus-energy-4379985914",
+    "locations": [
+      "Calgary, Alberta, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Cenovus Energy",
+    "title": "Student, Information Technology, Calgary (September 2026)",
+    "source": "linkedin_scraper",
+    "id": "0497fdc4-b858-47bd-af85-7e3d2ca23bb3",
+    "date_posted": 1772506194,
+    "company_url": "https://ca.linkedin.com/company/cenovus-energy",
+    "is_visible": true
+  }, {
+    "date_updated": 1772506194,
+    "url": "https://ca.linkedin.com/jobs/view/associate-product-manager-at-thomson-reuters-4379137276",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Thomson Reuters",
+    "title": "Associate Product Manager",
+    "source": "linkedin_scraper",
+    "id": "d84c324b-a885-42eb-a49e-0ac2564600e2",
+    "date_posted": 1772506194,
+    "company_url": "https://ca.linkedin.com/company/thomson-reuters",
+    "is_visible": true
+  }, {
+    "date_updated": 1772506194,
+    "url": "https://ca.linkedin.com/jobs/view/intern-verification-engineering-at-arm-4379103803",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Arm",
+    "title": "Intern Verification Engineering",
+    "source": "linkedin_scraper",
+    "id": "ea9f6eb3-62be-46ef-91a4-d08cf415dfbf",
+    "date_posted": 1772506194,
+    "company_url": "https://uk.linkedin.com/company/arm",
+    "is_visible": true
+  }, {
+    "date_updated": 1772506251,
+    "url": "https://ca.linkedin.com/jobs/view/software-engineering-intern-at-the-citco-group-limited-4378123358",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "The Citco Group Limited",
+    "title": "Software Engineering Intern",
+    "source": "linkedin_scraper",
+    "id": "2cab5c26-3645-4162-81ff-19b4e7cc6b07",
+    "date_posted": 1772506251,
+    "company_url": "https://ky.linkedin.com/company/citco-group-limited",
+    "is_visible": true
+  }, {
+    "date_updated": 1772506251,
+    "url": "https://ca.linkedin.com/jobs/view/qa-tester-internship-testeur-d%E2%80%99assurance-qualit%C3%A9-at-larian-studios-4378874811",
+    "locations": [
+      "Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Larian Studios",
+    "title": "QA Tester Internship | Testeur d’Assurance Qualité",
+    "source": "linkedin_scraper",
+    "id": "075b0ea5-1cb8-425e-95e2-de44d7ff8e5b",
+    "date_posted": 1772506251,
+    "company_url": "https://be.linkedin.com/company/larian-studios",
+    "is_visible": true
+  }, {
+    "date_updated": 1772506251,
+    "url": "https://ca.linkedin.com/jobs/view/scripting-intern-stagiaire-en-script-at-larian-studios-4378874810",
+    "locations": [
+      "Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Larian Studios",
+    "title": "Scripting Intern | Stagiaire en script",
+    "source": "linkedin_scraper",
+    "id": "9b80038a-70e4-4e0e-b3be-b81ba24a0e24",
+    "date_posted": 1772506251,
+    "company_url": "https://be.linkedin.com/company/larian-studios",
+    "is_visible": true
+  }, {
+    "date_updated": 1772506251,
+    "url": "https://ca.linkedin.com/jobs/view/frontend-engineering-intern-fall-2026-at-mercury-4378135183",
+    "locations": [
+      "Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Mercury",
+    "title": "Frontend Engineering Intern - Fall 2026",
+    "source": "linkedin_scraper",
+    "id": "89a3b634-b9c9-40b1-b7d6-4fe15289ccab",
+    "date_posted": 1772506251,
+    "company_url": "https://www.linkedin.com/company/mercuryhq",
+    "is_visible": true
+  }, {
+    "date_updated": 1772506279,
+    "url": "https://ca.linkedin.com/jobs/view/it-analytics-intern-%E2%80%93-finance-hr-solutions-at-saputo-inc-4379783347",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Saputo Inc.",
+    "title": "IT Analytics Intern – Finance & HR Solutions",
+    "source": "linkedin_scraper",
+    "id": "932294db-36a9-4271-97df-8d0a8ed10359",
+    "date_posted": 1772506279,
+    "company_url": "https://ca.linkedin.com/company/saputo",
+    "is_visible": true
+  },  {
+    "date_updated": 1772506279,
+    "url": "https://ca.linkedin.com/jobs/view/ontario-atlantic-offices-%E2%80%93-opportunities-in-technology-risk-services-trs-%E2%80%93-co-op-intern-%E2%80%93-fall-2026-winter-2027-and-summer-2027-start-at-kpmg-canada-4379965614",
+    "locations": [
+      "Kitchener, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "KPMG Canada",
+    "title": "Ontario & Atlantic Offices – Opportunities in Technology Risk Services (TRS) – Co-op/Intern – Fall 2026, Winter 2027 and Summer 2027 Start",
+    "source": "linkedin_scraper",
+    "id": "0294c717-f887-4234-a4e0-2f0c943190cc",
+    "date_posted": 1772506279,
+    "company_url": "https://ca.linkedin.com/company/kpmg-canada",
+    "is_visible": true
+  }, {
+    "date_updated": 1772506364,
+    "url": "https://ca.linkedin.com/jobs/view/robotics-systems-engineering-student-at-calian-group-4378886394",
+    "locations": [
+      "Ottawa, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Calian Group",
+    "title": "Robotics & Systems Engineering Student",
+    "source": "linkedin_scraper",
+    "id": "d2143672-a943-4338-ab4b-819b67643cdd",
+    "date_posted": 1772506364,
+    "company_url": "https://ca.linkedin.com/company/calian",
+    "is_visible": true
   }
 ]
