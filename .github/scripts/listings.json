@@ -23431,5 +23431,182 @@
     "date_posted": 1772574421,
     "company_url": "https://fi.linkedin.com/company/nokia",
     "is_visible": true
+  },
+      {
+    "date_updated": 1772662213,
+    "url": "https://ca.linkedin.com/jobs/view/internship-it-intern-4-months-oakville-on-at-sika-4374507293",
+    "locations": [
+      "Oakville, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Sika",
+    "title": "INTERNSHIP: IT Intern (4 Months), Oakville ON",
+    "source": "linkedin_scraper",
+    "id": "936ac1b4-8aaf-4ffc-a167-36ecffe6c27f",
+    "date_posted": 1772662213,
+    "company_url": "https://ch.linkedin.com/company/sika",
+    "is_visible": true
+  }, {
+    "date_updated": 1772662213,
+    "url": "https://ca.linkedin.com/jobs/view/technology-data-summer-internship-at-cpp-investments-investissements-rpc-4381105534",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "CPP Investments | Investissements RPC",
+    "title": "Technology & Data Summer Internship",
+    "source": "linkedin_scraper",
+    "id": "01198dbc-7e70-4f79-93b2-a850ed9f3e3c",
+    "date_posted": 1772662213,
+    "company_url": "https://ca.linkedin.com/company/cppinvestmentsinvestissementsrpc",
+    "is_visible": true
+  }, {
+    "date_updated": 1772662213,
+    "url": "https://ca.linkedin.com/jobs/view/software-engineer-intern-toronto-summer-2026-at-snowflake-4381105000",
+    "locations": [
+      "Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Snowflake",
+    "title": "Software Engineer Intern (Toronto) - Summer 2026",
+    "source": "linkedin_scraper",
+    "id": "99fe118a-c677-493c-a6bd-9f71ca3d7bb1",
+    "date_posted": 1772662213,
+    "company_url": "https://www.linkedin.com/company/snowflake-computing",
+    "is_visible": true
+  },{
+    "date_updated": 1772662213,
+    "url": "https://ca.linkedin.com/jobs/view/software-engineer-intern-at-world-star-tech-4375415372",
+    "locations": [
+      "Greater Toronto Area, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "WORLD STAR TECH",
+    "title": "Software Engineer Intern",
+    "source": "linkedin_scraper",
+    "id": "e6f77654-303a-4c84-bef9-38e0f9b129f5",
+    "date_posted": 1772662213,
+    "company_url": "https://ca.linkedin.com/company/world-star-tech",
+    "is_visible": true
+  }, {
+    "date_updated": 1772662227,
+    "url": "https://ca.linkedin.com/jobs/view/oracle-database-research-intern-6-month-duration-at-oracle-4363170388",
+    "locations": [
+      "Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Oracle",
+    "title": "Oracle Database Research Intern (6 month duration)",
+    "source": "linkedin_scraper",
+    "id": "9a018fbb-d970-4088-b79d-deeba5ce558c",
+    "date_posted": 1772662227,
+    "company_url": "https://www.linkedin.com/company/oracle",
+    "is_visible": true
+  }, {
+    "date_updated": 1772662248,
+    "url": "https://ca.linkedin.com/jobs/view/intern-network-operations-indigenous-en-at-cn-4336331974",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "CN",
+    "title": "Intern, Network Operations - Indigenous- EN",
+    "source": "linkedin_scraper",
+    "id": "9faa7612-a4d8-4e8b-acb3-33bcbf932066",
+    "date_posted": 1772662248,
+    "company_url": "https://ca.linkedin.com/company/cn",
+    "is_visible": true
+  }, {
+    "date_updated": 1772662248,
+    "url": "https://ca.linkedin.com/jobs/view/operational-risk-analyst-intern-summer-2026-at-albourne-4378979789",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Albourne",
+    "title": "Operational Risk Analyst Intern - Summer 2026",
+    "source": "linkedin_scraper",
+    "id": "4291373b-8986-4e58-82c0-2ecd07c0e2ba",
+    "date_posted": 1772662248,
+    "company_url": "https://uk.linkedin.com/company/albourne-partners",
+    "is_visible": true
+  },  {
+    "date_updated": 1772662299,
+    "url": "https://ca.linkedin.com/jobs/view/digital-ux-intern-at-trojan-technologies-4380762104",
+    "locations": [
+      "London, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Trojan Technologies",
+    "title": "Digital UX Intern",
+    "source": "linkedin_scraper",
+    "id": "2eb4858e-4b2c-4a7f-b023-0d7fd1f41ca4",
+    "date_posted": 1772662299,
+    "company_url": "https://ca.linkedin.com/company/trojan-technologies",
+    "is_visible": true
+  }, {
+    "date_updated": 1772662348,
+    "url": "https://ca.linkedin.com/jobs/view/sap-ixp-intern-user-experience-designer-at-sap-4379673294",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "SAP",
+    "title": "SAP iXp Intern - User Experience Designer",
+    "source": "linkedin_scraper",
+    "id": "d86442cb-e0fc-448a-a38b-8199ce5a406f",
+    "date_posted": 1772662348,
+    "company_url": "https://de.linkedin.com/company/sap",
+    "is_visible": true
+  }, {
+    "date_updated": 1772662438,
+    "url": "https://ca.linkedin.com/jobs/view/systems-design-intern-summer2026-8months-at-hitachi-rail-4380587328",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Hitachi Rail",
+    "title": "Systems Design Intern (Summer2026, 8months)",
+    "source": "linkedin_scraper",
+    "id": "f02e2e86-27ae-4717-9aa9-29905f102d46",
+    "date_posted": 1772662438,
+    "company_url": "https://uk.linkedin.com/company/hitachirail",
+    "is_visible": true
+  }, {
+    "date_updated": 1772662467,
+    "url": "https://ca.linkedin.com/jobs/view/intern-bachelors-cyber-security-satcom-at-honeywell-4371286123",
+    "locations": [
+      "Kanata, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Honeywell",
+    "title": "Intern Bachelors Cyber Security (SATCOM)",
+    "source": "linkedin_scraper",
+    "id": "ebacd305-fb7e-403f-9771-7b7488304ef9",
+    "date_posted": 1772662467,
+    "company_url": "https://www.linkedin.com/company/honeywell",
+    "is_visible": true
   }
 ]
