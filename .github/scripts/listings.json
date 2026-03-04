@@ -23093,5 +23093,343 @@
     "date_posted": 1772506364,
     "company_url": "https://ca.linkedin.com/company/calian",
     "is_visible": true
+  },
+   {
+    "date_updated": 1772574079,
+    "url": "https://ca.linkedin.com/jobs/view/machine-learning-engineer-intern-at-multiverse-computing-4379408016",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Multiverse Computing",
+    "title": "Machine Learning Engineer Intern",
+    "source": "linkedin_scraper",
+    "id": "872b7125-b498-45ea-ae06-1e64c8941cf5",
+    "date_posted": 1772574079,
+    "company_url": "https://es.linkedin.com/company/multiversecomputing",
+    "is_visible": true
+  }, {
+    "date_updated": 1772574079,
+    "url": "https://ca.linkedin.com/jobs/view/front-end-engineer-internship-%E2%80%93-2026-can-at-amazon-4380323308",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Amazon",
+    "title": "Front-End Engineer Internship – 2026 (CAN)",
+    "source": "linkedin_scraper",
+    "id": "7d697e1e-c8e0-4c55-a77f-4448a2293e52",
+    "date_posted": 1772574079,
+    "company_url": "https://www.linkedin.com/company/amazon",
+    "is_visible": true
+  }, {
+    "date_updated": 1772574079,
+    "url": "https://ca.linkedin.com/jobs/view/backend-engineer-co-op-spring-summer-term-at-league-4380300727",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "League",
+    "title": "Backend Engineer (Co-op) - Spring/Summer Term",
+    "source": "linkedin_scraper",
+    "id": "18ef73b1-c50b-4f7f-b45c-b94e8d5117a7",
+    "date_posted": 1772574079,
+    "company_url": "https://ca.linkedin.com/company/league-inc-",
+    "is_visible": true
+  },
+    {
+    "date_updated": 1772574095,
+    "url": "https://ca.linkedin.com/jobs/view/backend-engineering-intern-fall-2026-at-mercury-4378123571",
+    "locations": [
+      "Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Mercury",
+    "title": "Backend Engineering Intern - Fall 2026",
+    "source": "linkedin_scraper",
+    "id": "e5d9829d-42a0-4d13-b9db-4ff4afa9f730",
+    "date_posted": 1772574095,
+    "company_url": "https://www.linkedin.com/company/mercuryhq",
+    "is_visible": true
+  },  {
+    "date_updated": 1772574095,
+    "url": "https://ca.linkedin.com/jobs/view/software-engineering-intern-ai-enablement-fall-2026-at-mercury-4378131446",
+    "locations": [
+      "Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Mercury",
+    "title": "Software Engineering Intern - AI Enablement (Fall 2026)",
+    "source": "linkedin_scraper",
+    "id": "c29161bc-2111-4eb8-8c7b-78a0a5d97f7a",
+    "date_posted": 1772574095,
+    "company_url": "https://www.linkedin.com/company/mercuryhq",
+    "is_visible": true
+  }, {
+    "date_updated": 1772574095,
+    "url": "https://ca.linkedin.com/jobs/view/compiler-engineering-intern-at-intel-4378877205",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Intel",
+    "title": "Compiler Engineering Intern",
+    "source": "linkedin_scraper",
+    "id": "1884ea73-1538-49c6-90cd-a7632cbe4d1c",
+    "date_posted": 1772574095,
+    "company_url": "https://www.linkedin.com/company/intel-corporation",
+    "is_visible": true
+  }, {
+    "date_updated": 1772574110,
+    "url": "https://ca.linkedin.com/jobs/view/ai-engineer-agentic-ai-future-opportunities-at-american-express-4370968433",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "American Express",
+    "title": "AI Engineer - Agentic AI - Future Opportunities",
+    "source": "linkedin_scraper",
+    "id": "ac038d85-ac52-4bd5-9b08-c2874ead3872",
+    "date_posted": 1772574110,
+    "company_url": "https://www.linkedin.com/company/american-express",
+    "is_visible": true
+  }, {
+    "date_updated": 1772574132,
+    "url": "https://ca.linkedin.com/jobs/view/sap-ixp-intern-customer-success-enablement-support-at-sap-4379447707",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "SAP",
+    "title": "SAP iXp Intern - Customer Success Enablement Support",
+    "source": "linkedin_scraper",
+    "id": "2131deb3-2e57-449e-8566-eab3825ebe39",
+    "date_posted": 1772574132,
+    "company_url": "https://de.linkedin.com/company/sap",
+    "is_visible": true
+  },  {
+    "date_updated": 1772574132,
+    "url": "https://ca.linkedin.com/jobs/view/a-i-internship-at-patry-group-of-companies-4379402398",
+    "locations": [
+      "Kingston, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Patry Group of Companies",
+    "title": "A.I. Internship",
+    "source": "linkedin_scraper",
+    "id": "5cfe4f56-24c1-4c4f-bc58-03152f0cb90e",
+    "date_posted": 1772574132,
+    "company_url": "https://ca.linkedin.com/company/patry-group",
+    "is_visible": true
+  },  {
+    "date_updated": 1772574163,
+    "url": "https://ca.linkedin.com/jobs/view/summer-2026-applied-science-internship-canada-phd-student-science-recruiting-at-amazon-4279046097",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Amazon",
+    "title": "Summer 2026 Applied Science Internship - Canada, PhD Student Science Recruiting",
+    "source": "linkedin_scraper",
+    "id": "ca150b5f-d4e5-4294-bcea-fc2f4d2f4133",
+    "date_posted": 1772574163,
+    "company_url": "https://www.linkedin.com/company/amazon",
+    "is_visible": true
+  },  {
+    "date_updated": 1772574184,
+    "url": "https://ca.linkedin.com/jobs/view/backend-software-engineer-summer-internship-at-usertesting-4380519648",
+    "locations": [
+      "Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "UserTesting",
+    "title": "Backend Software Engineer - Summer Internship",
+    "source": "linkedin_scraper",
+    "id": "69458e90-edee-4c56-99d2-4c4a7f146e5b",
+    "date_posted": 1772574184,
+    "company_url": "https://www.linkedin.com/company/usertesting-com",
+    "is_visible": true
+  }, {
+    "date_updated": 1772574184,
+    "url": "https://ca.linkedin.com/jobs/view/nelnet-qa-automation-engineer-internship-at-nelnet-4370550962",
+    "locations": [
+      "Mississauga, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Nelnet",
+    "title": "Nelnet - QA Automation Engineer Internship",
+    "source": "linkedin_scraper",
+    "id": "aa3750f1-5137-4431-80cc-75348f252600",
+    "date_posted": 1772574184,
+    "company_url": "https://www.linkedin.com/company/nelnet",
+    "is_visible": true
+  }, {
+    "date_updated": 1772574208,
+    "url": "https://ca.linkedin.com/jobs/view/qa-developer-intern-at-modaxo-4378502765",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Modaxo",
+    "title": "QA Developer - Intern",
+    "source": "linkedin_scraper",
+    "id": "1424cc4b-ec18-4e8b-aab3-5c99405f2faf",
+    "date_posted": 1772574208,
+    "company_url": "https://ca.linkedin.com/company/modaxo",
+    "is_visible": true
+  }, {
+    "date_updated": 1772574208,
+    "url": "https://ca.linkedin.com/jobs/view/development-intern-at-calgary-municipal-land-corporation-4378886757",
+    "locations": [
+      "Calgary, Alberta, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Calgary Municipal Land Corporation",
+    "title": "Development Intern",
+    "source": "linkedin_scraper",
+    "id": "210510d4-6c6b-4983-9c3c-66e3ac8f1061",
+    "date_posted": 1772574208,
+    "company_url": "https://ca.linkedin.com/company/calgary-municipal-land-corporation",
+    "is_visible": true
+  }, {
+    "date_updated": 1772574232,
+    "url": "https://ca.linkedin.com/jobs/view/sap-ixp-intern-cloud-engineering-intern-vancouver-at-sap-4379462325",
+    "locations": [
+      "Vancouver, British Columbia, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "SAP",
+    "title": "SAP iXp Intern - Cloud Engineering Intern [Vancouver]",
+    "source": "linkedin_scraper",
+    "id": "5eb4fc50-672a-4677-a733-4ddc3e253dd5",
+    "date_posted": 1772574232,
+    "company_url": "https://de.linkedin.com/company/sap",
+    "is_visible": true
+  },  {
+    "date_updated": 1772574255,
+    "url": "https://ca.linkedin.com/jobs/view/sap-ixp-intern-agile-developer-business-data-cloud-at-sap-4379453546",
+    "locations": [
+      "Vancouver, British Columbia, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "SAP",
+    "title": "SAP iXp Intern - Agile Developer, Business Data Cloud",
+    "source": "linkedin_scraper",
+    "id": "0243b00d-2987-481d-8866-0ab88792420e",
+    "date_posted": 1772574255,
+    "company_url": "https://de.linkedin.com/company/sap",
+    "is_visible": true
+  },  {
+    "date_updated": 1772574344,
+    "url": "https://ca.linkedin.com/jobs/view/data-engineer-co-op-spring-summer-term-at-league-4380308564",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "League",
+    "title": "Data Engineer (Co-op) - Spring/Summer Term",
+    "source": "linkedin_scraper",
+    "id": "1771d5fa-4973-4a40-9700-450e749932d9",
+    "date_posted": 1772574344,
+    "company_url": "https://ca.linkedin.com/company/league-inc-",
+    "is_visible": true
+  }, {
+    "date_updated": 1772574366,
+    "url": "https://ca.linkedin.com/jobs/view/student-information-technology-calgary-september-2026-at-cenovus-energy-4379985914",
+    "locations": [
+      "Calgary, Alberta, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Cenovus Energy",
+    "title": "Student, Information Technology, Calgary (September 2026)",
+    "source": "linkedin_scraper",
+    "id": "a56355ff-848b-4eba-bb97-3f84048033c9",
+    "date_posted": 1772574366,
+    "company_url": "https://ca.linkedin.com/company/cenovus-energy",
+    "is_visible": true
+  },  {
+    "date_updated": 1772574407,
+    "url": "https://ca.linkedin.com/jobs/view/cloud-finops-co-op-summer-2026-at-magnet-forensics-4380306856",
+    "locations": [
+      "Waterloo, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Magnet Forensics",
+    "title": "Cloud FinOps Co-op (Summer 2026)",
+    "source": "linkedin_scraper",
+    "id": "11d68647-a4d4-435c-9316-eb170309cbc7",
+    "date_posted": 1772574407,
+    "company_url": "https://www.linkedin.com/company/magnet-forensics",
+    "is_visible": true
+  },  {
+    "date_updated": 1772574421,
+    "url": "https://ca.linkedin.com/jobs/view/firmware-developer-at-ndi-northern-digital-inc-4379409171",
+    "locations": [
+      "Greater Kitchener-Cambridge-Waterloo Metropolitan Area"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "NDI (Northern Digital Inc.)",
+    "title": "Firmware Developer",
+    "source": "linkedin_scraper",
+    "id": "d504f499-a9db-4bc7-86f4-27cbf426d987",
+    "date_posted": 1772574421,
+    "company_url": "https://ca.linkedin.com/company/northern-digital-inc-ndi",
+    "is_visible": true
+  }, {
+    "date_updated": 1772574421,
+    "url": "https://ca.linkedin.com/jobs/view/embedded-bsp-sw-dev-ee-compe-student-at-nokia-4378541473",
+    "locations": [
+      "Kanata, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Nokia",
+    "title": "Embedded BSP SW Dev EE/CompE Student",
+    "source": "linkedin_scraper",
+    "id": "edbcde93-88e6-4486-8dc5-3974ef2a0ed4",
+    "date_posted": 1772574421,
+    "company_url": "https://fi.linkedin.com/company/nokia",
+    "is_visible": true
   }
 ]
