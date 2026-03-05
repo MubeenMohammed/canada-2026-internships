@@ -23608,5 +23608,262 @@
     "date_posted": 1772662467,
     "company_url": "https://www.linkedin.com/company/honeywell",
     "is_visible": true
+  },
+   {
+    "date_updated": 1772746301,
+    "url": "https://ca.linkedin.com/jobs/view/full-stack-developer-intern-at-work-in-ottawa-4380022763",
+    "locations": [
+      "Ottawa, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Work in Ottawa",
+    "title": "Full Stack Developer Intern",
+    "source": "linkedin_scraper",
+    "id": "91ecc03b-97f1-41d7-98f2-8df21f773c7f",
+    "date_posted": 1772746301,
+    "company_url": "https://ca.linkedin.com/company/work-in-ottawa-613",
+    "is_visible": true
+  },  {
+    "date_updated": 1772746316,
+    "url": "https://ca.linkedin.com/jobs/view/inuit-it-intern-at-baffinland-4381647016",
+    "locations": [
+      "Clyde River, Nunavut, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Baffinland",
+    "title": "Inuit IT Intern",
+    "source": "linkedin_scraper",
+    "id": "64f10092-190c-434c-962e-c9ec34f2bd1f",
+    "date_posted": 1772746316,
+    "company_url": "https://ca.linkedin.com/company/baffinland-iron-mines-corp-",
+    "is_visible": true
+  },  {
+    "date_updated": 1772746316,
+    "url": "https://ca.linkedin.com/jobs/view/ai-engineer-i-agentic-ai-at-american-express-4381119740",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "American Express",
+    "title": "AI Engineer I - Agentic AI",
+    "source": "linkedin_scraper",
+    "id": "ca8fcf56-e953-4d67-bc41-9302fee95eec",
+    "date_posted": 1772746316,
+    "company_url": "https://www.linkedin.com/company/american-express",
+    "is_visible": true
+  },  {
+    "date_updated": 1772746357,
+    "url": "https://ca.linkedin.com/jobs/view/summer-internship-program-ai-enablement-intern-at-cdw-canada-4381134793",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "CDW Canada",
+    "title": "Summer Internship Program: AI Enablement Intern",
+    "source": "linkedin_scraper",
+    "id": "84627452-ec6a-4c04-984f-1be79af29a5c",
+    "date_posted": 1772746357,
+    "company_url": "https://ca.linkedin.com/company/cdw-canada",
+    "is_visible": true
+  }, {
+    "date_updated": 1772746420,
+    "url": "https://ca.linkedin.com/jobs/view/software-engineer-in-test-intern-at-netapp-4381466815",
+    "locations": [
+      "Vancouver, British Columbia, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "NetApp",
+    "title": "Software Engineer in Test Intern",
+    "source": "linkedin_scraper",
+    "id": "4c3428ee-ac23-4645-82cc-e4b338610b80",
+    "date_posted": 1772746420,
+    "company_url": "https://www.linkedin.com/company/netapp",
+    "is_visible": true
+  },  {
+    "date_updated": 1772746435,
+    "url": "https://ca.linkedin.com/jobs/view/data-governance-summer-2026-toronto-co-op-internship-4-months-at-quadreal-property-group-4381165438",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "QuadReal Property Group",
+    "title": "Data Governance, Summer 2026 - Toronto (Co-op/Internship) - 4 Months",
+    "source": "linkedin_scraper",
+    "id": "42aa06ce-3b76-4f63-ab7e-c069502728af",
+    "date_posted": 1772746435,
+    "company_url": "https://ca.linkedin.com/company/quadreal",
+    "is_visible": true
+  }, {
+    "date_updated": 1772746435,
+    "url": "https://ca.linkedin.com/jobs/view/cyber-security-identity-intern-at-pembina-pipeline-corporation-4381127170",
+    "locations": [
+      "Calgary, Alberta, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Pembina Pipeline Corporation",
+    "title": "Cyber Security Identity Intern",
+    "source": "linkedin_scraper",
+    "id": "924ef215-9434-420e-886d-ac0c8b79919d",
+    "date_posted": 1772746435,
+    "company_url": "https://ca.linkedin.com/company/pembina-pipeline-corporation",
+    "is_visible": true
+  },  {
+    "date_updated": 1772746435,
+    "url": "https://ca.linkedin.com/jobs/view/intern-bi-integration-qa-support-at-black-mcdonald-limited-4380018459",
+    "locations": [
+      "Markham, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Black & McDonald Limited",
+    "title": "Intern- BI & Integration QA & Support",
+    "source": "linkedin_scraper",
+    "id": "e0ae499e-b3f5-4b5a-84d4-f08ac11a7f75",
+    "date_posted": 1772746435,
+    "company_url": "https://ca.linkedin.com/company/black-&-mcdonald-limited",
+    "is_visible": true
+  }, {
+    "date_updated": 1772746435,
+    "url": "https://ca.linkedin.com/jobs/view/intern-data-ai-engineering-may-2026-at-avanade-4381496784",
+    "locations": [
+      "Calgary, Alberta, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Avanade",
+    "title": "Intern, Data & AI Engineering - May 2026",
+    "source": "linkedin_scraper",
+    "id": "8d85f688-35fc-4722-bb8b-152897f32b66",
+    "date_posted": 1772746435,
+    "company_url": "https://www.linkedin.com/company/avanade",
+    "is_visible": true
+  }, {
+    "date_updated": 1772746501,
+    "url": "https://ca.linkedin.com/jobs/view/co-op-student-%E2%80%93-advanced-analytics-at-vancouver-airport-authority-4379897108",
+    "locations": [
+      "Vancouver, British Columbia, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Vancouver Airport Authority",
+    "title": "Co-op Student – Advanced Analytics",
+    "source": "linkedin_scraper",
+    "id": "3ed9e7e1-1f2c-4d0a-8aa1-7c09bd2f015e",
+    "date_posted": 1772746501,
+    "company_url": "https://ca.linkedin.com/company/vancouver-airport-authority",
+    "is_visible": true
+  },  {
+    "date_updated": 1772746522,
+    "url": "https://ca.linkedin.com/jobs/view/it-co-op-at-acciona-4380057434",
+    "locations": [
+      "British Columbia, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "ACCIONA",
+    "title": "IT Co-op",
+    "source": "linkedin_scraper",
+    "id": "3bfc5f6f-975b-4b68-aca1-093e4e599ac3",
+    "date_posted": 1772746522,
+    "company_url": "https://es.linkedin.com/company/acciona",
+    "is_visible": true
+  }, {
+    "date_updated": 1772746522,
+    "url": "https://ca.linkedin.com/jobs/view/end-user-computing-co-op-at-meridian-credit-union-4381138557",
+    "locations": [
+      "St. Catharines, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Meridian Credit Union",
+    "title": "End User Computing Co-op",
+    "source": "linkedin_scraper",
+    "id": "1d403058-3d2e-46a6-a216-e5507fcc96de",
+    "date_posted": 1772746522,
+    "company_url": "https://ca.linkedin.com/company/meridian-credit-union",
+    "is_visible": true
+  }, {
+    "date_updated": 1772746537,
+    "url": "https://ca.linkedin.com/jobs/view/applied-machine-learning-co-op-student-at-loblaw-companies-limited-4381615361",
+    "locations": [
+      "Brampton, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Loblaw Companies Limited",
+    "title": "Applied Machine Learning - Co-op Student",
+    "source": "linkedin_scraper",
+    "id": "ab9e4c4c-d4db-4694-972b-2347ca2fa500",
+    "date_posted": 1772746537,
+    "company_url": "https://ca.linkedin.com/company/loblaw-companies-limited",
+    "is_visible": true
+  }, {
+    "date_updated": 1772746537,
+    "url": "https://ca.linkedin.com/jobs/view/cyber-risk-analyst-co-op-at-teck-resources-limited-4381613912",
+    "locations": [
+      "Greater Vancouver Metropolitan Area"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Teck Resources Limited",
+    "title": "Cyber Risk Analyst Co-Op",
+    "source": "linkedin_scraper",
+    "id": "d7e44cb1-f902-41a2-96b8-a5aeef03afbe",
+    "date_posted": 1772746537,
+    "company_url": "https://ca.linkedin.com/company/teck-resources-limited",
+    "is_visible": true
+  },  {
+    "date_updated": 1772746537,
+    "url": "https://ca.linkedin.com/jobs/view/customer-applications-eng-co-op-intern-at-nokia-4381629541",
+    "locations": [
+      "Kanata, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Nokia",
+    "title": "Customer Applications Eng Co-op/Intern",
+    "source": "linkedin_scraper",
+    "id": "9d549f4d-7e95-4b68-b315-c177119b8d0e",
+    "date_posted": 1772746537,
+    "company_url": "https://fi.linkedin.com/company/nokia",
+    "is_visible": true
+  },  {
+    "date_updated": 1772746588,
+    "url": "https://ca.linkedin.com/jobs/view/junior-i-c-technologist-canada-east-at-stantec-4380494503",
+    "locations": [
+      "North Bay, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Stantec",
+    "title": "Junior I&C Technologist - Canada East",
+    "source": "linkedin_scraper",
+    "id": "552378d7-9354-4a4a-b197-77cb88a6435b",
+    "date_posted": 1772746588,
+    "company_url": "https://ca.linkedin.com/company/stantec",
+    "is_visible": true
   }
 ]
