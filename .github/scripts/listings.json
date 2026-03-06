@@ -23865,5 +23865,102 @@
     "date_posted": 1772746588,
     "company_url": "https://ca.linkedin.com/company/stantec",
     "is_visible": true
+  },
+    {
+    "date_updated": 1772832066,
+    "url": "https://ca.linkedin.com/jobs/view/front-end-developer-intern-at-guidewire-software-4381997724",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Guidewire Software",
+    "title": "Front-End Developer Intern",
+    "source": "linkedin_scraper",
+    "id": "c5a7b5f5-9d59-48af-81e9-9d769e7647e7",
+    "date_posted": 1772832066,
+    "company_url": "https://www.linkedin.com/company/guidewire-software",
+    "is_visible": true
+  },  {
+    "date_updated": 1772832066,
+    "url": "https://ca.linkedin.com/jobs/view/developer-intern-at-alayacare-4380237144",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "AlayaCare",
+    "title": "Developer - Intern",
+    "source": "linkedin_scraper",
+    "id": "ef753d3e-1714-41ca-b61c-2807e5777ab1",
+    "date_posted": 1772832066,
+    "company_url": "https://ca.linkedin.com/company/alayacare-inc",
+    "is_visible": true
+  },{
+    "date_updated": 1772832091,
+    "url": "https://ca.linkedin.com/jobs/view/product-development-intern-at-lite-1-4380619837",
+    "locations": [
+      "Vancouver, British Columbia, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Lite-1",
+    "title": "Product Development Intern",
+    "source": "linkedin_scraper",
+    "id": "d6b51a24-9b0b-43b9-a9b6-73f21a341b39",
+    "date_posted": 1772832091,
+    "company_url": "https://ca.linkedin.com/company/lite-1",
+    "is_visible": true
+  }, {
+    "date_updated": 1772832109,
+    "url": "https://ca.linkedin.com/jobs/view/rf-systems-engineering-co-op-at-skyworks-solutions-inc-4381943325",
+    "locations": [
+      "Ottawa, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Skyworks Solutions, Inc.",
+    "title": "RF Systems Engineering Co-Op",
+    "source": "linkedin_scraper",
+    "id": "0ba81a2e-06df-4a78-bda6-0269be45f97b",
+    "date_posted": 1772832109,
+    "company_url": "https://www.linkedin.com/company/skyworks-solutions-inc",
+    "is_visible": true
+  }, {
+    "date_updated": 1772832182,
+    "url": "https://ca.linkedin.com/jobs/view/data-systems-co-op-student-at-ebco-industries-ltd-4382166169",
+    "locations": [
+      "Richmond, British Columbia, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Ebco Industries Ltd.",
+    "title": "Data Systems Co-Op Student",
+    "source": "linkedin_scraper",
+    "id": "8acb6a63-8c95-4a46-9542-2bf5cfde779a",
+    "date_posted": 1772832182,
+    "company_url": "https://ca.linkedin.com/company/ebco-industries-ltd.",
+    "is_visible": true
+  }, {
+    "date_updated": 1772832199,
+    "url": "https://ca.linkedin.com/jobs/view/automation-co-op-student-at-the-jne-group-of-companies-4381684577",
+    "locations": [
+      "Hamilton, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "The JNE Group of Companies",
+    "title": "Automation Co-Op Student",
+    "source": "linkedin_scraper",
+    "id": "c2ceebe6-37f8-4bde-8777-0ff0f68c3458",
+    "date_posted": 1772832199,
+    "company_url": "https://ca.linkedin.com/company/jne-group-of-companies",
+    "is_visible": true
   }
 ]
