@@ -23962,5 +23962,22 @@
     "date_posted": 1772832199,
     "company_url": "https://ca.linkedin.com/company/jne-group-of-companies",
     "is_visible": true
+  },
+    {
+    "date_updated": 1773107114,
+    "url": "https://ca.linkedin.com/jobs/view/cms-and-web-administrator-co-op-at-dematic-4381893877",
+    "locations": [
+      "Waterloo, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Dematic",
+    "title": "CMS and Web Administrator Co-op",
+    "source": "linkedin_scraper",
+    "id": "3cb22033-b0b5-431d-b748-140fd822e514",
+    "date_posted": 1773107114,
+    "company_url": "https://www.linkedin.com/company/dematic",
+    "is_visible": true
   }
 ]
