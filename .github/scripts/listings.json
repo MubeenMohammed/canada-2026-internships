@@ -24219,5 +24219,230 @@
     "date_posted": 1773107098,
     "company_url": "https://www.linkedin.com/company/enersys",
     "is_visible": true
+  },
+       {
+    "date_updated": 1773191788,
+    "url": "https://ca.linkedin.com/jobs/view/intern-bi-data-analyst-at-kensington-4383765059",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Kensington",
+    "title": "Intern - BI/Data Analyst",
+    "source": "linkedin_scraper",
+    "id": "3b316af5-2bcf-4692-b4de-d0effe771a49",
+    "date_posted": 1773191788,
+    "company_url": "https://ca.linkedin.com/company/kensington-tours",
+    "is_visible": true
+  },  {
+    "date_updated": 1773191788,
+    "url": "https://ca.linkedin.com/jobs/view/software-developer-internship-at-solink-4383868763",
+    "locations": [
+      "Ottawa, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Solink",
+    "title": "Software Developer Internship",
+    "source": "linkedin_scraper",
+    "id": "68a5158e-6078-4210-865b-c96617094995",
+    "date_posted": 1773191788,
+    "company_url": "https://ca.linkedin.com/company/solink",
+    "is_visible": true
+  }, {
+    "date_updated": 1773191788,
+    "url": "https://ca.linkedin.com/jobs/view/cybersecurity-intern-at-northumberland-county-4383849433",
+    "locations": [
+      "Cobourg, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Northumberland County",
+    "title": "Cybersecurity Intern",
+    "source": "linkedin_scraper",
+    "id": "c28dd4ab-61cf-4504-a67d-903b808bbc55",
+    "date_posted": 1773191788,
+    "company_url": "https://ca.linkedin.com/company/northumberlandcounty",
+    "is_visible": true
+  }, {
+    "date_updated": 1773191788,
+    "url": "https://ca.linkedin.com/jobs/view/ai-engineer-intern-at-juniper-square-4382236223",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Juniper Square",
+    "title": "AI Engineer (Intern)",
+    "source": "linkedin_scraper",
+    "id": "b2dc8858-ed49-4df6-8443-7de235ff6e09",
+    "date_posted": 1773115200,
+    "company_url": "https://www.linkedin.com/company/juniper-square",
+    "is_visible": true
+  }, {
+    "date_updated": 1773191788,
+    "url": "https://ca.linkedin.com/jobs/view/platforms-development-intern-4-months-at-hitachi-rail-4383866074",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Hitachi Rail",
+    "title": "Platforms Development Intern (4 months)",
+    "source": "linkedin_scraper",
+    "id": "276613b6-5ffe-4256-828a-fd0cd66e6795",
+    "date_posted": 1773191788,
+    "company_url": "https://uk.linkedin.com/company/hitachirail",
+    "is_visible": true
+  }, {
+    "date_updated": 1773191802,
+    "url": "https://ca.linkedin.com/jobs/view/business-intelligence-developer-intern-information-and-communications-technology-at-university-of-saskatchewan-4382247207",
+    "locations": [
+      "Saskatoon, Saskatchewan, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "University of Saskatchewan",
+    "title": "Business Intelligence Developer Intern, Information and Communications Technology",
+    "source": "linkedin_scraper",
+    "id": "1b862867-c411-4fe5-8851-7f4775aae811",
+    "date_posted": 1773191802,
+    "company_url": "https://ca.linkedin.com/school/university-of-saskatchewan/",
+    "is_visible": true
+  }, {
+    "date_updated": 1773191820,
+    "url": "https://ca.linkedin.com/jobs/view/ai-cloud-platforms-summer-2026-co-op-intern-at-definity-4383804385",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Definity",
+    "title": "AI & Cloud Platforms - Summer 2026 Co-op/Intern",
+    "source": "linkedin_scraper",
+    "id": "9f7832c9-ebd0-40e1-b982-5670b0a1b867",
+    "date_posted": 1773191820,
+    "company_url": "https://ca.linkedin.com/company/definity-financial",
+    "is_visible": true
+  }, {
+    "date_updated": 1773191841,
+    "url": "https://ca.linkedin.com/jobs/view/r%C3%A9dacteur-ou-r%C3%A9dactrice-technique-stagiaire-%E2%80%94-montr%C3%A9al-technical-writer-intern-montreal-at-unity-south-apac-sea-anz-ind-subcont-4382096098",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Unity South APAC (SEA, ANZ, IND Subcont.)",
+    "title": "Rédacteur ou rédactrice technique stagiaire — Montréal / Technical Writer Intern - Montreal",
+    "source": "linkedin_scraper",
+    "id": "7836c8ca-0aeb-4c9a-b254-4c8bf04c346c",
+    "date_posted": 1773191841,
+    "company_url": "https://sg.linkedin.com/company/unitysapac",
+    "is_visible": true
+  },{
+    "date_updated": 1773191924,
+    "url": "https://ca.linkedin.com/jobs/view/cloud-engineering-intern-devops-sre-may-co-op-or-internship-opportunity-4-months-at-vancity-4383828219",
+    "locations": [
+      "Vancouver, British Columbia, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Vancity",
+    "title": "Cloud Engineering Intern - DevOps & SRE  (May Co-op or Internship Opportunity - 4 Months)",
+    "source": "linkedin_scraper",
+    "id": "212e35e2-b689-494d-aa65-c9e9b7974b4a",
+    "date_posted": 1773191924,
+    "company_url": "https://ca.linkedin.com/company/vancity",
+    "is_visible": true
+  }, {
+    "date_updated": 1773191978,
+    "url": "https://ca.linkedin.com/jobs/view/software-developer-coop-at-ericsson-4382488406",
+    "locations": [
+      "Ottawa, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Ericsson",
+    "title": "Software Developer Coop",
+    "source": "linkedin_scraper",
+    "id": "97eb9854-1d25-4eda-956c-8b9892720169",
+    "date_posted": 1773191978,
+    "company_url": "https://se.linkedin.com/company/ericsson",
+    "is_visible": true
+  },  {
+    "date_updated": 1773192000,
+    "url": "https://ca.linkedin.com/jobs/view/co-op-business-systems-it-at-hammond-power-solutions-4382470850",
+    "locations": [
+      "Guelph, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Hammond Power Solutions",
+    "title": "Co-op - Business Systems (IT)",
+    "source": "linkedin_scraper",
+    "id": "f51fe4a1-35ab-46e1-84f5-bf6adffe5c73",
+    "date_posted": 1773192000,
+    "company_url": "https://ca.linkedin.com/company/hammond-power-solutions",
+    "is_visible": true
+  }, {
+    "date_updated": 1773192000,
+    "url": "https://ca.linkedin.com/jobs/view/temporary-full-time-business-intelligence-developer-co-op-student-at-ontario-shores-centre-for-mental-health-sciences-4382008513",
+    "locations": [
+      "Whitby, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Ontario Shores Centre for Mental Health Sciences",
+    "title": "(TEMPORARY FULL TIME) BUSINESS INTELLIGENCE DEVELOPER (CO-OP STUDENT)",
+    "source": "linkedin_scraper",
+    "id": "31fd0c49-3f67-4b37-9cd3-f11de42fd521",
+    "date_posted": 1773192000,
+    "company_url": "https://ca.linkedin.com/company/ontario-shores-centre-for-mental-health-sciences",
+    "is_visible": true
+  }, {
+    "date_updated": 1773192033,
+    "url": "https://ca.linkedin.com/jobs/view/software-qa-technician-co-0p-at-hexagon-mining-4358121915",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Hexagon Mining",
+    "title": "Software QA Technician Co-0p",
+    "source": "linkedin_scraper",
+    "id": "2372b1a9-327a-4f46-9edf-8184f6e19473",
+    "date_posted": 1773192033,
+    "company_url": "https://www.linkedin.com/company/hexagon-mining",
+    "is_visible": true
+  }, {
+    "date_updated": 1773192068,
+    "url": "https://ca.linkedin.com/jobs/view/september-2026-data-enablement-cpa-8-month-co-op-vancouver-at-pwc-canada-4381790302",
+    "locations": [
+      "Greater Vancouver Metropolitan Area"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "PwC Canada",
+    "title": "September 2026 - Data Enablement (CPA) - 8 month Co-op - Vancouver",
+    "source": "linkedin_scraper",
+    "id": "94f6dc30-1f11-4ebc-8600-17c4d0fa3c0c",
+    "date_posted": 1773115200,
+    "company_url": "https://ca.linkedin.com/company/pwc-canada",
+    "is_visible": true
   }
 ]
