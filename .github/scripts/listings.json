@@ -24444,5 +24444,118 @@
     "date_posted": 1773115200,
     "company_url": "https://ca.linkedin.com/company/pwc-canada",
     "is_visible": true
+  },
+       {
+    "date_updated": 1773274859,
+    "url": "https://ca.linkedin.com/jobs/view/intern-software-developer-at-autodesk-4383214288",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Autodesk",
+    "title": "Intern, Software Developer",
+    "source": "linkedin_scraper",
+    "id": "bdc7e26a-6376-4c34-a9fd-5b36ea19f756",
+    "date_posted": 1773274859,
+    "company_url": "https://www.linkedin.com/company/autodesk",
+    "is_visible": true
+  },  {
+    "date_updated": 1773274859,
+    "url": "https://ca.linkedin.com/jobs/view/intern-business-analytics-at-element-fleet-management-4366635052",
+    "locations": [
+      "Mississauga, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Element Fleet Management",
+    "title": "Intern, Business Analytics",
+    "source": "linkedin_scraper",
+    "id": "23f7706e-7641-4344-9cf2-03c5f2063b6c",
+    "date_posted": 1773274859,
+    "company_url": "https://ca.linkedin.com/company/element-fleet-management",
+    "is_visible": true
+  }, {
+    "date_updated": 1773274859,
+    "url": "https://ca.linkedin.com/jobs/view/data-analyst-intern-at-ia-financial-group-industrial-alliance-4384344687",
+    "locations": [
+      "Québec, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "iA Financial Group (Industrial Alliance)",
+    "title": "Data Analyst Intern",
+    "source": "linkedin_scraper",
+    "id": "499cb234-4b52-4abe-96b6-226c98e5eac6",
+    "date_posted": 1773274859,
+    "company_url": "https://ca.linkedin.com/company/industrielle_alliance",
+    "is_visible": true
+  }, {
+    "date_updated": 1773274881,
+    "url": "https://ca.linkedin.com/jobs/view/data-center-development-program-intern-at-equinix-4371992568",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Equinix",
+    "title": "Data Center Development Program Intern",
+    "source": "linkedin_scraper",
+    "id": "6e6872d0-9d99-4926-9f77-e4009b55aa70",
+    "date_posted": 1773274881,
+    "company_url": "https://www.linkedin.com/company/equinix",
+    "is_visible": true
+  },  {
+    "date_updated": 1773274978,
+    "url": "https://ca.linkedin.com/jobs/view/intern-full-stack-developer-at-autodesk-4383210473",
+    "locations": [
+      "Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Autodesk",
+    "title": "Intern, Full Stack Developer",
+    "source": "linkedin_scraper",
+    "id": "ee1806d4-e299-4092-b9ac-a8abf0f9f560",
+    "date_posted": 1773274978,
+    "company_url": "https://www.linkedin.com/company/autodesk",
+    "is_visible": true
+  },{
+    "date_updated": 1773274978,
+    "url": "https://ca.linkedin.com/jobs/view/intern-business-intelligence-at-gildan-4384378487",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Gildan",
+    "title": "Intern Business Intelligence",
+    "source": "linkedin_scraper",
+    "id": "16685221-0c00-4010-9e62-adff362a6ea3",
+    "date_posted": 1773274978,
+    "company_url": "https://ca.linkedin.com/company/gildan",
+    "is_visible": true
+  },  {
+    "date_updated": 1773274992,
+    "url": "https://ca.linkedin.com/jobs/view/e-commerce-intern-at-techo-bloc-4382576439",
+    "locations": [
+      "Saint-Hubert, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Techo-Bloc",
+    "title": "E-Commerce Intern",
+    "source": "linkedin_scraper",
+    "id": "bbe1085f-622a-4829-9897-6ab9189284b8",
+    "date_posted": 1773274992,
+    "company_url": "https://ca.linkedin.com/company/techo-bloc",
+    "is_visible": true
   }
 ]
