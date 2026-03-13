@@ -24557,5 +24557,182 @@
     "date_posted": 1773274992,
     "company_url": "https://ca.linkedin.com/company/techo-bloc",
     "is_visible": true
+  },
+     {
+    "date_updated": 1773368080,
+    "url": "https://ca.linkedin.com/jobs/view/integration-developer-summer-2026-toronto-or-vancouver-co-op-internship-8-months-at-quadreal-property-group-4385115400",
+    "locations": [
+      "Vancouver, British Columbia, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "QuadReal Property Group",
+    "title": "Integration Developer, Summer 2026 - Toronto or Vancouver (Co-op/Internship) - 8 Months",
+    "source": "linkedin_scraper",
+    "id": "cb5530fc-863d-4ea2-9140-78a97738650c",
+    "date_posted": 1773368080,
+    "company_url": "https://ca.linkedin.com/company/quadreal",
+    "is_visible": true
+  },  {
+    "date_updated": 1773368124,
+    "url": "https://ca.linkedin.com/jobs/view/software-quality-assurance-intern-assurance-qualit%C3%A9-logicielle-at-dormakaba-4373347821",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "dormakaba",
+    "title": "Software Quality Assurance Intern / Assurance Qualité Logicielle",
+    "source": "linkedin_scraper",
+    "id": "e960c247-c29a-4872-88bf-49093a813b95",
+    "date_posted": 1773368124,
+    "company_url": "https://ch.linkedin.com/company/dormakaba",
+    "is_visible": true
+  }, {
+    "date_updated": 1773368181,
+    "url": "https://ca.linkedin.com/jobs/view/web-developer-intern-at-wsp-in-canada-4384212168",
+    "locations": [
+      "Vancouver, British Columbia, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "WSP in Canada",
+    "title": "Web Developer Intern",
+    "source": "linkedin_scraper",
+    "id": "32c845bb-a5d7-4ee8-a38c-c3fbeabff1a0",
+    "date_posted": 1773368181,
+    "company_url": "https://ca.linkedin.com/company/wsp-in-canada",
+    "is_visible": true
+  },  {
+    "date_updated": 1773368181,
+    "url": "https://ca.linkedin.com/jobs/view/it-intern-at-tricon-residential-4385167126",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Tricon Residential",
+    "title": "IT Intern",
+    "source": "linkedin_scraper",
+    "id": "0879f555-8120-4f5f-9ab3-b9dc3622be79",
+    "date_posted": 1773368181,
+    "company_url": "https://ca.linkedin.com/company/tricon-residential",
+    "is_visible": true
+  },  {
+    "date_updated": 1773368181,
+    "url": "https://ca.linkedin.com/jobs/view/junior-network-engineer-intern-at-tmx-group-4383994167",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "TMX Group",
+    "title": "Junior Network Engineer Intern",
+    "source": "linkedin_scraper",
+    "id": "5122b5c8-360c-4889-b172-a62871f8a4a5",
+    "date_posted": 1773368181,
+    "company_url": "https://ca.linkedin.com/company/tmx-group",
+    "is_visible": true
+  },  {
+    "date_updated": 1773368193,
+    "url": "https://ca.linkedin.com/jobs/view/commercial-analytics-intern-biopharma-at-fresenius-kabi-canada-4385148865",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Fresenius Kabi Canada",
+    "title": "Commercial Analytics Intern - Biopharma",
+    "source": "linkedin_scraper",
+    "id": "38fb1405-b96c-4522-9367-2eadda7a6c52",
+    "date_posted": 1773368193,
+    "company_url": "https://ca.linkedin.com/company/fresenius-kabi-canada",
+    "is_visible": true
+  },  {
+    "date_updated": 1773368193,
+    "url": "https://ca.linkedin.com/jobs/view/software-engineer-in-test-intern-at-netapp-4383037248",
+    "locations": [
+      "Vancouver, British Columbia, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "NetApp",
+    "title": "Software Engineer in Test Intern",
+    "source": "linkedin_scraper",
+    "id": "2a556f98-3a65-4d44-ab03-42b1faad8dea",
+    "date_posted": 1773368193,
+    "company_url": "https://www.linkedin.com/company/netapp",
+    "is_visible": true
+  },  {
+    "date_updated": 1773368310,
+    "url": "https://ca.linkedin.com/jobs/view/coop-software-developer-summer-fall-2026-8-months-term-at-thales-4384564320",
+    "locations": [
+      "Ottawa, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Thales",
+    "title": "COOP Software Developer *Summer/Fall 2026 (8 months term)",
+    "source": "linkedin_scraper",
+    "id": "16732b3f-77f8-4339-84da-a5d46850d0f9",
+    "date_posted": 1773368310,
+    "company_url": "https://fr.linkedin.com/company/thales",
+    "is_visible": true
+  },  {
+    "date_updated": 1773368310,
+    "url": "https://ca.linkedin.com/jobs/view/analyste-%E2%80%93-stagiaire-coop-analyst-co-op-student-at-iqvia-4384554817",
+    "locations": [
+      "Kirkland, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "IQVIA",
+    "title": "Analyste – Stagiaire coop / Analyst, Co-Op Student",
+    "source": "linkedin_scraper",
+    "id": "e8380c79-5259-42fb-b2ce-890922786ffe",
+    "date_posted": 1773368310,
+    "company_url": "https://www.linkedin.com/company/iqvia",
+    "is_visible": true
+  }, {
+    "date_updated": 1773368329,
+    "url": "https://ca.linkedin.com/jobs/view/junior-data-analyst-co-op-at-waterworth-4384873148",
+    "locations": [
+      "Victoria, British Columbia, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Waterworth",
+    "title": "Junior Data Analyst Co-op",
+    "source": "linkedin_scraper",
+    "id": "e83b4f1d-dfea-4215-b96c-8be8f476a0e2",
+    "date_posted": 1773368329,
+    "company_url": "https://www.linkedin.com/company/waterworth",
+    "is_visible": true
+  },{
+    "date_updated": 1773368329,
+    "url": "https://ca.linkedin.com/jobs/view/full-stack-developer-co-op-at-cgi-4385193157",
+    "locations": [
+      "Victoria, British Columbia, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "CGI",
+    "title": "Full Stack Developer Co-op",
+    "source": "linkedin_scraper",
+    "id": "b13a7309-c47d-4a9b-818c-54c969ecf6f1",
+    "date_posted": 1773368329,
+    "company_url": "https://ca.linkedin.com/company/cgi",
+    "is_visible": true
   }
 ]
