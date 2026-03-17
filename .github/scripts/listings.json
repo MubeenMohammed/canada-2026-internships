@@ -24734,5 +24734,150 @@
     "date_posted": 1773368329,
     "company_url": "https://ca.linkedin.com/company/cgi",
     "is_visible": true
+  },
+       {
+    "date_updated": 1773708961,
+    "url": "https://ca.linkedin.com/jobs/view/sw-developer-intern-at-general-motors-4386533587",
+    "locations": [
+      "Markham, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "General Motors",
+    "title": "SW Developer Intern",
+    "source": "linkedin_scraper",
+    "id": "a8258e7c-aecf-48b5-a5e6-ee875732e344",
+    "date_posted": 1773708961,
+    "company_url": "https://www.linkedin.com/company/general-motors",
+    "is_visible": true
+  }, {
+    "date_updated": 1773708961,
+    "url": "https://ca.linkedin.com/jobs/view/software-engineering-intern-consumer-ai-at-people-inc-4386365233",
+    "locations": [
+      "Alberta, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "People Inc.",
+    "title": "Software Engineering Intern, Consumer AI",
+    "source": "linkedin_scraper",
+    "id": "343d6d81-384a-4fd2-abad-23e9e12b0b28",
+    "date_posted": 1773708961,
+    "company_url": "https://www.linkedin.com/company/people-inc-co",
+    "is_visible": true
+  }, {
+    "date_updated": 1773708974,
+    "url": "https://ca.linkedin.com/jobs/view/ai-automation-data-scientist-intern-may-2026-4-month-toronto-ottawa-or-montreal-at-ibm-4384097108",
+    "locations": [
+      "Ottawa, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "IBM",
+    "title": "AI & Automation Data Scientist Intern (May 2026 - 4 month - Toronto, Ottawa or Montreal)",
+    "source": "linkedin_scraper",
+    "id": "cde5857c-ddf5-46cd-8c64-7da9555ac111",
+    "date_posted": 1773708974,
+    "company_url": "https://www.linkedin.com/company/ibm",
+    "is_visible": true
+  }, {
+    "date_updated": 1773708974,
+    "url": "https://ca.linkedin.com/jobs/view/intern-ai-and-data-procurement-supply-management-performance-en-at-cn-4386502785",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "CN",
+    "title": "Intern, AI and Data - Procurement & Supply Management Performance- EN",
+    "source": "linkedin_scraper",
+    "id": "f9093b3d-5ff3-4e5e-a33a-d036aa94bdf2",
+    "date_posted": 1773708974,
+    "company_url": "https://ca.linkedin.com/company/cn",
+    "is_visible": true
+  }, {
+    "date_updated": 1773708994,
+    "url": "https://ca.linkedin.com/jobs/view/c-gss-155-internship-%E2%80%93-data-ai-for-operational-excellence-and-sustainable-procurement-en-at-cae-4384093457",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "CAE",
+    "title": "C-GSS-155 Internship – Data & AI for Operational Excellence and Sustainable Procurement-EN",
+    "source": "linkedin_scraper",
+    "id": "01ebf303-a138-4db0-83e7-f1d16fb05998",
+    "date_posted": 1773708994,
+    "company_url": "https://ca.linkedin.com/school/cae/",
+    "is_visible": true
+  },{
+    "date_updated": 1773709033,
+    "url": "https://ca.linkedin.com/jobs/view/intern-software-developer-at-wabtec-corporation-4385611634",
+    "locations": [
+      "London, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Wabtec Corporation",
+    "title": "Intern - Software Developer",
+    "source": "linkedin_scraper",
+    "id": "62094f70-a8af-427e-a8d4-766d52b38958",
+    "date_posted": 1773709033,
+    "company_url": "https://www.linkedin.com/company/wabtec-corporation",
+    "is_visible": true
+  }, {
+    "date_updated": 1773709033,
+    "url": "https://ca.linkedin.com/jobs/view/systems-analyst-intern-at-parkland-corporation-4385622235",
+    "locations": [
+      "Calgary, Alberta, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Parkland Corporation",
+    "title": "Systems Analyst Intern",
+    "source": "linkedin_scraper",
+    "id": "62e08962-63cd-4ea3-a492-b9353e97b56a",
+    "date_posted": 1773709033,
+    "company_url": "https://ca.linkedin.com/company/parklandcorporation",
+    "is_visible": true
+  }, {
+    "date_updated": 1773709106,
+    "url": "https://ca.linkedin.com/jobs/view/radio-software-developer-coop-at-ericsson-4385617175",
+    "locations": [
+      "Ottawa, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Ericsson",
+    "title": "Radio Software Developer Coop",
+    "source": "linkedin_scraper",
+    "id": "1b736f55-0117-4de2-9fe0-d7349258a185",
+    "date_posted": 1773709106,
+    "company_url": "https://se.linkedin.com/company/ericsson",
+    "is_visible": true
+  }, {
+    "date_updated": 1773709121,
+    "url": "https://ca.linkedin.com/jobs/view/business-development-co-op-student-at-dexterra-4386365848",
+    "locations": [
+      "Mississauga, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Dexterra",
+    "title": "Business Development CO-OP Student",
+    "source": "linkedin_scraper",
+    "id": "d1b0c8fa-dac3-4b9f-a887-41ad362d12fb",
+    "date_posted": 1773709121,
+    "company_url": "https://ca.linkedin.com/company/dexterraservices",
+    "is_visible": true
   }
 ]
