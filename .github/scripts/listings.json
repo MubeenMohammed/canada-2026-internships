@@ -24879,5 +24879,102 @@
     "date_posted": 1773709121,
     "company_url": "https://ca.linkedin.com/company/dexterraservices",
     "is_visible": true
+  },
+       {
+    "date_updated": 1773957479,
+    "url": "https://ca.linkedin.com/jobs/view/web-marketing-intern-front-end-development-at-texas-instruments-4387303304",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Texas Instruments",
+    "title": "Web Marketing Intern - Front-end Development",
+    "source": "linkedin_scraper",
+    "id": "a41aec87-a838-4b0d-b695-1b032677f5c1",
+    "date_posted": 1773957479,
+    "company_url": "https://www.linkedin.com/company/texas-instruments",
+    "is_visible": true
+  }, {
+    "date_updated": 1773957479,
+    "url": "https://ca.linkedin.com/jobs/view/software-engineer-intern-at-world-star-tech-4387620019",
+    "locations": [
+      "Greater Toronto Area, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "WORLD STAR TECH",
+    "title": "Software Engineer Intern",
+    "source": "linkedin_scraper",
+    "id": "c43e1bfa-5f7a-4947-83a1-be321a4c50c5",
+    "date_posted": 1773806400,
+    "company_url": "https://ca.linkedin.com/company/world-star-tech",
+    "is_visible": true
+  }, {
+    "date_updated": 1773957492,
+    "url": "https://ca.linkedin.com/jobs/view/2026-toronto-software-engineering-internship-at-the-trade-desk-4387742013",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "The Trade Desk",
+    "title": "2026 Toronto Software Engineering Internship",
+    "source": "linkedin_scraper",
+    "id": "28f03c74-b7f9-4fc4-a9ab-f6ae8ecc0a0a",
+    "date_posted": 1773957492,
+    "company_url": "https://www.linkedin.com/company/the-trade-desk",
+    "is_visible": true
+  }, {
+    "date_updated": 1773957531,
+    "url": "https://ca.linkedin.com/jobs/view/verification-and-test-in-engineering-intern-at-alstom-4385478740",
+    "locations": [
+      "Saint-Bruno, Quebec, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Alstom",
+    "title": "Verification and Test in Engineering Intern",
+    "source": "linkedin_scraper",
+    "id": "10340c63-7752-4ec9-931d-b5e6f0aad618",
+    "date_posted": 1773957531,
+    "company_url": "https://fr.linkedin.com/company/alstom",
+    "is_visible": true
+  }, {
+    "date_updated": 1773957651,
+    "url": "https://ca.linkedin.com/jobs/view/applications-process-engineering-intern-at-trojan-technologies-4387869053",
+    "locations": [
+      "London, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "Trojan Technologies",
+    "title": "Applications & Process Engineering Intern",
+    "source": "linkedin_scraper",
+    "id": "b82fac07-2018-4580-b31c-c762c9aa1dfe",
+    "date_posted": 1773957651,
+    "company_url": "https://ca.linkedin.com/company/trojan-technologies",
+    "is_visible": true
+  }, {
+    "date_updated": 1773957749,
+    "url": "https://ca.linkedin.com/jobs/view/software-engineer-co-op-at-ecobee-4385488747",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "season": "",
+    "sponsorship": "Unknown",
+    "active": true,
+    "company_name": "ecobee",
+    "title": "Software Engineer, Co-op",
+    "source": "linkedin_scraper",
+    "id": "64446feb-ffe1-4ddd-b80c-5f5914aae6a0",
+    "date_posted": 1773957749,
+    "company_url": "https://ca.linkedin.com/company/ecobee",
+    "is_visible": true
   }
 ]
